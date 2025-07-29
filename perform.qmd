@@ -1,0 +1,59 @@
+---
+title: "Perform Systematic Reviews"
+format: html
+---
+
+
+Want to start a systematic review? – Look no further, we’ve got you covered for resources and support!
+
+# Conduct
+## Wiki on Systematic Review
+
+Our wiki resources on systematic review are designed to support you in conducting comprehensive and reliable reviews. You will find a wealth of information, including helpful references, to guide you through the process and ensure your reviews are thorough and well-informed.
+
+[Take me to the wiki →](http://www.camarades.de){target="_blank"}
+
+## Software for Systematic Review - SyRF 
+
+Looking for a flexible systematic review software tailored for animal research? SyRF is your solution! SyRF streamlines the review process, saving you time and effort. Create your free account today.
+
+[Take me to SyRF ↗](http://www.syrf.org.uk)  
+For guidance on how to use the platform, tutorials, and step-by-step instructions, please see the extensive help guide.
+
+[How to Use SyRF ↗](https://help.syrf.org.uk/)
+
+
+> **Got a question? – Ask at the next drop-in!**  
+>
+> [Join the drop-in session](https://www.bihealth.org/en/quest/service/service/systematic-review-methods-consultation-hour){target="_blank"}
+
+
+# Support
+
+## Drop-in Session
+
+Got a quick question? Join our weekly drop-in support session for expert guidance and assistance. Improve your skills and get unparalleled support. Mark your calendar and join us this week!
+
+[When is the next drop-in? →](/events/)
+
+## One-to-One Methods Support
+
+Need some personalised guidance and support? Book a one-to-one support meeting. Our team of methodology experts is ready to provide you with tailored assistance to take your systematic review to the next stage. Book your session now!
+
+[Book a consultation →](https://www.bihealth.org/en/quest/service/service/systematic-review-helpdesk){target="_blank"}
+
+# Collaborate
+
+
+## Find a collaborator for your next review
+
+Find collaborators and discuss your project on our community forum, Zulip. Make a free account and start chatting.
+
+[Take me to the discussion forum ↗](https://cores.zulipchat.com/)  
+
+
+## Meet new collaborators at weekly calls
+
+Join weekly calls to share progress on your systematic review projects.
+
+[When is the next CAMARADES call? ↗](https://cores-hub.io/events/)
