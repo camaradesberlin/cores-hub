@@ -1,0 +1,9 @@
+    - image: /images/headshots/mala-karmakar.png
+      title: "Mala Karmakar"
+      lastname: "Karmakar"
+#      started: "Dec 2024"
+      ended: "March 2025"   
+#      author: 
+      subtitle: "Research Software Engineer"
+#      date: "2024-03-12"
+      categories: [Lab]

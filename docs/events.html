@@ -30,8 +30,6 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="./">
 <link href="./images/favicon.ico" rel="icon">
-<script src="site_libs/quarto-listing/list.min.js"></script>
-<script src="site_libs/quarto-listing/quarto-listing.js"></script>
 <script src="site_libs/quarto-html/quarto.js"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
@@ -68,65 +66,16 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
-<script>
-
-  window.document.addEventListener("DOMContentLoaded", function (_event) {
-    const listingTargetEl = window.document.querySelector('#listing-listing .list');
-    if (!listingTargetEl) {
-      // No listing discovered, do not attach.
-      return; 
-    }
-
-    const options = {
-      valueNames: ['listing-title','listing-author','listing-image','listing-description',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
-      
-      searchColumns: ["listing-title","listing-author","listing-image","listing-description"],
-    };
-
-    window['quarto-listings'] = window['quarto-listings'] || {};
-    window['quarto-listings']['listing-listing'] = new List('listing-listing', options);
-
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  });
-
-  window.addEventListener('hashchange',() => {
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  })
-  </script>
-
-  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
-  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=G-5N965RRHS4"></script>
 
 <script type="text/javascript">
-const typesetMath = (el) => {
-  if (window.MathJax) {
-    // MathJax Typeset
-    window.MathJax.typeset([el]);
-  } else if (window.katex) {
-    // KaTeX Render
-    var mathElements = el.getElementsByClassName("math");
-    var macros = [];
-    for (var i = 0; i < mathElements.length; i++) {
-      var texText = mathElements[i].firstChild;
-      if (mathElements[i].tagName == "SPAN") {
-        window.katex.render(texText.data, mathElements[i], {
-          displayMode: mathElements[i].classList.contains('display'),
-          throwOnError: false,
-          macros: macros,
-          fleqn: false
-        });
-      }
-    }
-  }
-}
-window.Quarto = {
-  typesetMath
-};
+
+window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());
+gtag('config', 'G-5N965RRHS4', { 'anonymize_ip': true});
 </script>
+
 
 <link rel="stylesheet" href="styles.css">
 </head>
@@ -204,6 +153,7 @@ window.Quarto = {
    
   <ul>
   <li><a href="#cores-event-calendar" id="toc-cores-event-calendar" class="nav-link active" data-scroll-target="#cores-event-calendar">COReS Event Calendar</a></li>
+  <li><a href="#something-missing" id="toc-something-missing" class="nav-link" data-scroll-target="#something-missing">Something missing?</a></li>
   </ul>
 </nav>
     </div>
@@ -231,153 +181,17 @@ window.Quarto = {
 
 <section id="cores-event-calendar" class="level2">
 <h2 class="anchored" data-anchor-id="cores-event-calendar">COReS Event Calendar</h2>
-<p>We display</p>
+<p>All our events and related activities, conferences, and workshops are listed in the Google Calendar below. Click an event and press “+ Copy to my calendar” to add it to your personal schedule.</p>
 <iframe src="https://calendar.google.com/calendar/embed?src=e11784c1322e6596446b7ddb8e1e61c1e480e25f90270689a46777d47dfa8fde%40group.calendar.google.com&amp;ctz=Europe%2FCopenhagen" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
-
+</section>
+<section id="something-missing" class="level2">
+<h2 class="anchored" data-anchor-id="something-missing">Something missing?</h2>
+<p>Do you think we should add an event? Get in touch <a href="./contact.html" target="_blank">here</a>.</p>
 
 
 </section>
 
-<div class="quarto-listing quarto-listing-container-default" id="listing-listing">
-<div class="list quarto-listing-default">
-<div class="quarto-post image-right" data-index="0" data-listing-file-modified-sort="1753864101847" data-listing-reading-time-sort="1" data-listing-word-count-sort="96">
-<div class="thumbnail">
-<p><a href="./index.html" class="no-external"></a></p><a href="./index.html" class="no-external">
-<p class="card-img-top"><img src="images\COReS-Logo-Basic.png"  class="thumbnail-image card-img"/></p>
-</a><p><a href="./index.html" class="no-external"></a></p>
-</div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./index.html" class="no-external">Communities for Open Research Synthesis</a>
-</h3>
-<div class="listing-subtitle">
-<a href="./index.html" class="no-external"></a>
-</div>
-<div class="listing-description">
-<a href="./index.html" class="no-external">Join the community to improve the quality and value of preclinical research in biomedicine.</a>
-</div>
-</div>
-<div class="metadata">
-<p><a href="./index.html" class="no-external"></a></p><a href="./index.html" class="no-external">
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="1" data-listing-file-modified-sort="1753864312140" data-listing-reading-time-sort="1" data-listing-word-count-sort="109">
-<div class="thumbnail">
-<p><a href="./contact.html" class="no-external"></a></p><a href="./contact.html" class="no-external">
-<div class="listing-item-img-placeholder card-img-top" >&nbsp;</div>
-</a><p><a href="./contact.html" class="no-external"></a></p>
-</div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./contact.html" class="no-external">Contact</a>
-</h3>
-<div class="listing-subtitle">
-<a href="./contact.html" class="no-external"></a>
-</div>
-<div class="listing-description">
-<a href="./contact.html" class="no-external">Have inquiries or need support? Reach out to us through our contact channels. Whether you’re seeking general information, need assistance, or want to explore partnership…</a>
-</div>
-</div>
-<div class="metadata">
-<p><a href="./contact.html" class="no-external"></a></p><a href="./contact.html" class="no-external">
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="2" data-listing-file-modified-sort="1753804940072" data-listing-reading-time-sort="3" data-listing-word-count-sort="568">
-<div class="thumbnail">
-<p><a href="./about.html" class="no-external"></a></p><a href="./about.html" class="no-external">
-<div class="listing-item-img-placeholder card-img-top" >&nbsp;</div>
-</a><p><a href="./about.html" class="no-external"></a></p>
-</div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./about.html" class="no-external">Join COReS Community</a>
-</h3>
-<div class="listing-subtitle">
-<a href="./about.html" class="no-external"></a>
-</div>
-<div class="listing-description">
-<a href="./about.html" class="no-external">Building a community around preclinical evidence synthesis At COReS, we believe in transparency, reproducibility, and the power of the community.</a>
-</div>
-</div>
-<div class="metadata">
-<p><a href="./about.html" class="no-external"></a></p><a href="./about.html" class="no-external">
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="3" data-listing-file-modified-sort="1753873074311" data-listing-reading-time-sort="5" data-listing-word-count-sort="822">
-<div class="thumbnail">
-<p><a href="./learn.html" class="no-external"></a></p><a href="./learn.html" class="no-external">
-<div class="listing-item-img-placeholder card-img-top" >&nbsp;</div>
-</a><p><a href="./learn.html" class="no-external"></a></p>
-</div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./learn.html" class="no-external">Learn Systematic Reviews</a>
-</h3>
-<div class="listing-subtitle">
-<a href="./learn.html" class="no-external"></a>
-</div>
-<div class="listing-description">
-<a href="./learn.html" class="no-external">A <strong>systematic review</strong> is a rigorous method for summarising all available studies on a research question.<br>
-- Supports evidence-based decisions by providing an unbiased…<br><br></a>
-</div>
-</div>
-<div class="metadata">
-<p><a href="./learn.html" class="no-external"></a></p><a href="./learn.html" class="no-external">
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="4" data-listing-file-modified-sort="1753864362368" data-listing-reading-time-sort="2" data-listing-word-count-sort="277">
-<div class="thumbnail">
-<p><a href="./perform.html" class="no-external"></a></p><a href="./perform.html" class="no-external">
-<div class="listing-item-img-placeholder card-img-top" >&nbsp;</div>
-</a><p><a href="./perform.html" class="no-external"></a></p>
-</div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./perform.html" class="no-external">Perform Systematic Reviews</a>
-</h3>
-<div class="listing-subtitle">
-<a href="./perform.html" class="no-external"></a>
-</div>
-<div class="listing-description">
-<a href="./perform.html" class="no-external">Want to start a systematic review? – Look no further, we’ve got you covered for resources and support!</a>
-</div>
-</div>
-<div class="metadata">
-<p><a href="./perform.html" class="no-external"></a></p><a href="./perform.html" class="no-external">
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="5" data-listing-file-modified-sort="1753801586955" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
-<div class="thumbnail">
-<p><a href="./synthesis-ready.html" class="no-external"></a></p><a href="./synthesis-ready.html" class="no-external">
-<div class="listing-item-img-placeholder card-img-top" >&nbsp;</div>
-</a><p><a href="./synthesis-ready.html" class="no-external"></a></p>
-</div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./synthesis-ready.html" class="no-external">Synthesis-Ready Preclinical Research</a>
-</h3>
-<div class="listing-subtitle">
-<a href="./synthesis-ready.html" class="no-external"></a>
-</div>
-<div class="listing-description">
-<a href="./synthesis-ready.html" class="no-external"></a>
-</div>
-</div>
-<div class="metadata">
-<p><a href="./synthesis-ready.html" class="no-external"></a></p><a href="./synthesis-ready.html" class="no-external">
-</a>
-</div>
-</div>
-</div>
-<div class="listing-no-matching d-none">
-No matching items
-</div>
-</div></main> <!-- /main -->
+</main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {

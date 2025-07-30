@@ -30,6 +30,8 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="./">
 <link href="./images/favicon.ico" rel="icon">
+<script src="site_libs/quarto-listing/list.min.js"></script>
+<script src="site_libs/quarto-listing/quarto-listing.js"></script>
 <script src="site_libs/quarto-html/quarto.js"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
@@ -66,7 +68,74 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
+<script>
 
+  window.document.addEventListener("DOMContentLoaded", function (_event) {
+    const listingTargetEl = window.document.querySelector('#listing-lab-member .list');
+    if (!listingTargetEl) {
+      // No listing discovered, do not attach.
+      return; 
+    }
+
+    const options = {
+      valueNames: ['listing-image','listing-title','listing-subtitle',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      
+      searchColumns: ["listing-image","listing-title","listing-lastname","listing-subtitle","listing-categories","listing-ended"],
+    };
+
+    window['quarto-listings'] = window['quarto-listings'] || {};
+    window['quarto-listings']['listing-lab-member'] = new List('listing-lab-member', options);
+
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  });
+
+  window.addEventListener('hashchange',() => {
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  })
+  </script>
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=G-5N965RRHS4"></script>
+
+<script type="text/javascript">
+
+window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());
+gtag('config', 'G-5N965RRHS4', { 'anonymize_ip': true});
+</script>
+
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN") {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
 
 <link rel="stylesheet" href="styles.css">
 </head>
@@ -144,13 +213,10 @@ ul.task-list li input[type="checkbox"] {
    
   <ul>
   <li><a href="#contact-details" id="toc-contact-details" class="nav-link active" data-scroll-target="#contact-details">Contact Details</a></li>
-  <li><a href="#our-team" id="toc-our-team" class="nav-link" data-scroll-target="#our-team">Our Team</a>
-  <ul class="collapse">
-  <li><a href="#people" id="toc-people" class="nav-link" data-scroll-target="#people">People</a></li>
-  </ul></li>
+  <li><a href="#our-team" id="toc-our-team" class="nav-link" data-scroll-target="#our-team">Our Team</a></li>
   </ul>
 </nav>
-    </div>
+    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(8)</span></div><div class="category" data-category="TGFi">Lab <span class="quarto-category-count">(6)</span></div><div class="category" data-category="U3R1ZGVudCUyMEFzc2lzdGFudA==">Student Assistant <span class="quarto-category-count">(2)</span></div></div></div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
@@ -183,34 +249,152 @@ ul.task-list li input[type="checkbox"] {
 <section id="our-team" class="level1">
 <h1>Our Team</h1>
 <p>We’re focused on making COReS the best open community platform it can be. Is there something you absolutely like or would like us to change? Let us know!</p>
-<section id="people" class="level2">
-<h2 class="anchored" data-anchor-id="people">People</h2>
-<div class="columns">
-<div class="column">
-<p><img src="https://i0.wp.com/cores-hub.io/wp-content/uploads/2023/11/csm_Sarah_McCann_6RAF3862_0ca17cedc6.jpg?resize=166%2C166&amp;ssl=1" class="img-fluid" width="166"></p>
-<p>Dr Sarah McCann CAMARADES Berlin Group Leader</p>
-</div><div class="column">
-<p><img src="https://i0.wp.com/cores-hub.io/wp-content/uploads/2023/11/csm_Kohrs_Friederike_f0d193b71e.jpg?resize=166%2C166&amp;ssl=1" class="img-fluid" width="166"> Dr Friederike Kohrs Community Manager</p>
-</div><div class="column">
-<p><img src="https://i0.wp.com/cores-hub.io/wp-content/uploads/2023/11/csm_Alexandra_Bannach-Brown_6RAF3961_f325a80aff.jpg?resize=166%2C166&amp;ssl=1" class="img-fluid" width="166"> Dr Alexandra Bannach-Brown Project Lead</p>
-</div><div class="column">
-<p><img src="https://i0.wp.com/cores-hub.io/wp-content/uploads/2023/11/csm_Vojvodic_Sofija_2fe29adc0e.jpg?resize=166%2C166&amp;ssl=1" class="img-fluid" width="166"> Sofija Vojvodic Research Fellow</p>
+<div id="listing-lab-member" class="quarto-listing quarto-listing-container-grid">
+<div class="list grid quarto-listing-cols-4">
+<div class="g-col-1" data-index="0" data-categories="TGFi">
+<a href="https://scholar.google.com/citations?user=wz7jUAIAAAAJ&amp;hl=en&amp;oi=ao" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-center">
+<p class="card-img-top">
+<img loading="lazy" src="./images/headshots/sarah-mccann.png" class="thumbnail-image card-img" style="height: 200px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title" data-anchor-id="our-team">
+Dr Sarah McCann
+</h5>
+<div class="card-subtitle listing-subtitle">
+CAMARADES Berlin Group Leader
 </div>
 </div>
-<div class="columns">
-<div class="column">
-<p><img src="https://i0.wp.com/cores-hub.io/wp-content/uploads/2023/11/Foto-Daniel-edited.jpg?resize=142%2C189&amp;ssl=1" class="img-fluid" width="142"> Dr Daniel Schulze Biostatistician</p>
-</div><div class="column">
-<p><img src="https://i0.wp.com/cores-hub.io/wp-content/uploads/2023/11/csm_Ayesha_Amin_Tariq_240x240_3767237ec1.png?resize=166%2C166&amp;ssl=1" class="img-fluid" width="166"> Ayesha Amin Tariq Research Assistant</p>
-</div><div class="column">
-<p><img src="https://i0.wp.com/cores-hub.io/wp-content/uploads/2023/11/csm_Mala_Karmakar_ea27ff96ae.jpg?resize=166%2C166&amp;ssl=1" class="img-fluid" width="166"> Mala Karmakar Research Software Engineer</p>
-</div><div class="column">
-<p><img src="https://i0.wp.com/cores-hub.io/wp-content/uploads/2023/11/csm_Hassan_Momna_2d4337389c.jpg?resize=166%2C166&amp;ssl=1" class="img-fluid" width="166"> Momna Hassan Research Assistant</p>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="1" data-categories="TGFi">
+<a href="https://scholar.google.com/citations?hl=en&amp;user=3glzaTsAAAAJ&amp;view_op=list_works&amp;sortby=pubdate" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-center">
+<p class="card-img-top">
+<img loading="lazy" src="./images/headshots/alexandra-bannach-brown.png" class="thumbnail-image card-img" style="height: 200px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Dr Alexandra Bannach-Brown
+</h5>
+<div class="card-subtitle listing-subtitle">
+Project Lead
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="2" data-categories="TGFi">
+<a href="" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-center">
+<p class="card-img-top">
+<img loading="lazy" src="./images/headshots/friederike-kohrs.png" class="thumbnail-image card-img" style="height: 200px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Dr Friederike Kohrs
+</h5>
+<div class="card-subtitle listing-subtitle">
+Community Manager
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="3" data-categories="TGFi">
+<a href="" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-center">
+<p class="card-img-top">
+<img loading="lazy" src="./images/headshots/sofija-vojvodic.png" class="thumbnail-image card-img" style="height: 200px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Sofija Vojvodic
+</h5>
+<div class="card-subtitle listing-subtitle">
+Research Fellow
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="4" data-categories="TGFi">
+<a href="" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-center">
+<p class="card-img-top">
+<img loading="lazy" src="./images/headshots/daniel-schulze.png" class="thumbnail-image card-img" style="height: 200px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Daniel Schulze
+</h5>
+<div class="card-subtitle listing-subtitle">
+Biostatistician
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="5" data-categories="U3R1ZGVudCUyMEFzc2lzdGFudA==">
+<a href="" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-center">
+<p class="card-img-top">
+<img loading="lazy" src="./images/headshots/ayesha-amin-tariq.png" class="thumbnail-image card-img" style="height: 200px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Ayesha Amin Tariq
+</h5>
+<div class="card-subtitle listing-subtitle">
+Research Assistant
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="6" data-categories="TGFi">
+<a href="" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-center">
+<p class="card-img-top">
+<img loading="lazy" src="./images/headshots/mala-karmakar.png" class="thumbnail-image card-img" style="height: 200px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Mala Karmakar
+</h5>
+<div class="card-subtitle listing-subtitle">
+Research Software Engineer
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="7" data-categories="U3R1ZGVudCUyMEFzc2lzdGFudA==">
+<a href="" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-center">
+<p class="card-img-top">
+<img loading="lazy" src="./images/headshots/momna-hassan.png" class="thumbnail-image card-img" style="height: 200px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Momna Hassan
+</h5>
+<div class="card-subtitle listing-subtitle">
+Research Assistant
+</div>
+</div>
+</div>
+</a>
+</div>
+</div>
+<div class="listing-no-matching d-none">
+No matching items
 </div>
 </div>
 
 
-</section>
+
 </section>
 
 </main> <!-- /main -->

@@ -1,6 +1,29 @@
 ---
 title: "Contact"
 format: html
+listing:  #an example of listing external links
+#  template: item-default-external.ejs
+- id: lab-member
+#  sort: "lastname asc"
+  type: grid
+  fields: [image, title, subtitle]
+  grid-item-align: center
+  grid-columns: 4
+  image-height: 200px
+  categories: true
+#  sort-ui: true
+#  filter-ui: true
+  contents: 
+#    - labmembers.yml
+    - /people/s-mccann.yml
+    - /people/a-bannach-brown.yml
+    - /people/f-kohrs.yml
+    - /people/s-vojvodic.yml
+    - /people/d-schulze.yml
+    - /people/a-amin-tariq.yml
+    - /people/m-karmakar.yml    
+    - /people/m-hassan.yml
+
 ---
 
 # Contact Details
@@ -20,61 +43,5 @@ For direct enquiries, please contact: [camarades.berlin@charite.de](mailto:camar
 
 We're focused on making COReS the best open community platform it can be. Is there something you absolutely like or would like us to change? Let us know!
 
-## People
-
-::: columns
-
-::: column
-![](https://i0.wp.com/cores-hub.io/wp-content/uploads/2023/11/csm_Sarah_McCann_6RAF3862_0ca17cedc6.jpg?resize=166%2C166&ssl=1){width=166px}
-
-Dr Sarah McCann
-CAMARADES Berlin Group Leader
-:::
-
-::: column
-![](https://i0.wp.com/cores-hub.io/wp-content/uploads/2023/11/csm_Kohrs_Friederike_f0d193b71e.jpg?resize=166%2C166&ssl=1){width=166px}
-Dr Friederike Kohrs
-Community Manager
-:::
-
-::: column
-![](https://i0.wp.com/cores-hub.io/wp-content/uploads/2023/11/csm_Alexandra_Bannach-Brown_6RAF3961_f325a80aff.jpg?resize=166%2C166&ssl=1){width=166px}
-Dr Alexandra Bannach-Brown
-Project Lead
-:::
-
-::: column
-![](https://i0.wp.com/cores-hub.io/wp-content/uploads/2023/11/csm_Vojvodic_Sofija_2fe29adc0e.jpg?resize=166%2C166&ssl=1){width=166px}
-Sofija Vojvodic
-Research Fellow
-:::
-
-:::
-
-::: columns
-
-::: column
-![](https://i0.wp.com/cores-hub.io/wp-content/uploads/2023/11/Foto-Daniel-edited.jpg?resize=142%2C189&ssl=1){width=142px}
-Dr Daniel Schulze
-Biostatistician
-:::
-
-::: column
-![](https://i0.wp.com/cores-hub.io/wp-content/uploads/2023/11/csm_Ayesha_Amin_Tariq_240x240_3767237ec1.png?resize=166%2C166&ssl=1){width=166px}
-Ayesha Amin Tariq
-Research Assistant
-:::
-
-::: column
-![](https://i0.wp.com/cores-hub.io/wp-content/uploads/2023/11/csm_Mala_Karmakar_ea27ff96ae.jpg?resize=166%2C166&ssl=1){width=166px}
-Mala Karmakar
-Research Software Engineer
-:::
-
-::: column
-![](https://i0.wp.com/cores-hub.io/wp-content/uploads/2023/11/csm_Hassan_Momna_2d4337389c.jpg?resize=166%2C166&ssl=1){width=166px}
-Momna Hassan
-Research Assistant
-:::
-
+:::{#lab-member}
 :::

@@ -1,13 +1,6 @@
 [
   {
-    "listing": "/events.html",
-    "items": [
-      "/index.html",
-      "/contact.html",
-      "/about.html",
-      "/learn.html",
-      "/perform.html",
-      "/synthesis-ready.html"
-    ]
+    "listing": "/contact.html",
+    "items": []
   }
 ]

@@ -14,7 +14,7 @@ Join the community to improve the quality and value of preclinical research in b
 
 > Bringing together primary researchers and evidence synthesists to form communities and providing infrastructure and support systems to empower the community in the performance of systematic reviews in a collaborative manner.
 
----
+------------------------------------------------------------------------
 
 ## Disseminate
 
@@ -33,6 +33,3 @@ Synthesising research involves integrating diverse studies to provide comprehens
 Designing quality animal experiments requires ethical consideration, scientific rigor, and animal welfare.
 
 [Quality design resources](/design/) →
-
- 
-

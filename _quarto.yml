@@ -4,6 +4,7 @@ project:
 
 website:
   title: ""
+  google-analytics: "G-5N965RRHS4"
   favicon: images/favicon.ico
   navbar:
     logo: images/cores-Logo-Subline.png 
