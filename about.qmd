@@ -50,36 +50,14 @@ COReS (Communities for Open Research Synthesis) equips researchers to tackle the
 
 ## 👥 Who’s Here?
 
-::: {.grid}
-
-::: {.g-col-6}
-::: card
-**👩‍🎓 Students**  
-Undergrads & grads learning evidence synthesis.  
-:::
-
-::: card
-**📊 Synthesists**  
-Statisticians & information specialists.  
-:::
-
-:::
-
-::: {.g-col-6}
-::: card
-**🔬 Researchers**  
-Animal-model experts & lab managers.  
-:::
-
-::: card
-**💼 Funders & Policy**  
-Shaping research priorities and best practices.  
-:::
-
-:::
 
 
-:::
+
+| 👩‍🎓 **Students** | 📊 **Synthesists**  |
+| Undergrads & grads learning evidence synthesis.| Statisticians & information specialists.|
+| ------------------------------------------------ | ------------------------------------------------ |
+| 🔬 **Researchers** | 💼 **Funders & Policy** |
+| Animal-model experts & lab managers. | Shaping research priorities and best practices.|
 
 ---
 
