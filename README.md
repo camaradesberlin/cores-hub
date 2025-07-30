@@ -7,7 +7,7 @@ Use RStudio to branch, edit, preview, render, and publish our Quarto site (serve
 ## 1. Open the Project in RStudio
 
 1. Go to **File ▶ New Project ▶ Version Control ▶ Git**  
-2. Enter the repo URL (e.g. `git@github.com:your-org/your-quarto-site.git`)  
+2. Enter the repo URL (e.g. SSH `git@github.com:camaradesberlin/cores-hub.git` or `https://github.com/camaradesberlin/cores-hub.git`)  
 3. Choose a local folder, then **Create Project**  
 4. RStudio will clone the repo and open it as a project  
 
@@ -24,7 +24,7 @@ Use RStudio to branch, edit, preview, render, and publish our Quarto site (serve
 ## 3. Make Your Changes
 
 - Edit `.qmd` files in the **Source** pane  
-- Update `_quarto.yml` or `styles/style.css`  
+- Update `_quarto.yml` or `style.css`  
 - Add new images or data under `images/`, `data/`, etc.
 
 ---
@@ -34,7 +34,7 @@ Use RStudio to branch, edit, preview, render, and publish our Quarto site (serve
 Either option A or B: 
 ### A. Using the Addin  
 - **Addins ▶ Quarto ▶ Preview Website**  
-- Browser auto-reloads at `http://localhost:4200`
+- Browser auto-reloads at `http://localhost:5498/`
 
 ### B. Using the R Console  
 ```r
@@ -62,7 +62,7 @@ quarto render --to html
 
 1. In the **Git** pane, stage your changes:
    - Include both source files (`.qmd`, CSS) **and** updated `docs/**`  
-2. Click **Commit**, write a clear message (e.g. `feat: add fall workshop page`), then **Commit**  
+2. Click **Commit**, write a clear message (e.g. `feat: add new workshop info`), then **Commit**  
 3. Click **Push** to send your branch to GitHub  
 
 ---
@@ -78,10 +78,8 @@ quarto render --to html
 ## 9. Review, Merge & Publish
 
 - Once merged into `main`, GitHub Pages (serving `docs/`) will auto-deploy within minutes  
-- Verify your live site at  
-  `https://your-org.github.io/your-quarto-site/`
+- Verify the live site at  
+  `https://camaradesberlin.github.io/cores-hub/`
 
 ---
 
-Verify your live site at
-https://your-org.github.io/your-quarto-site/
