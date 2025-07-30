@@ -7,7 +7,7 @@ website:
   google-analytics: "G-5N965RRHS4"
   favicon: images/favicon.ico
   navbar:
-    logo: images/cores-Logo-Subline.png 
+    logo: images/COReS-Logo-negative.png
     logo-alt: COReS Project Logo
     logo-href: https://cores-hub.io
     background: dark
@@ -48,7 +48,6 @@ format:
     css: styles.css
     toc: true
 
-editor: visual
 
 
 
