@@ -1,0 +1,13 @@
+---
+title: "Events"
+listing: default
+---
+
+## COReS Event Calendar
+
+We display 
+
+```{=html}
+<iframe src="https://calendar.google.com/calendar/embed?src=e11784c1322e6596446b7ddb8e1e61c1e480e25f90270689a46777d47dfa8fde%40group.calendar.google.com&ctz=Europe%2FCopenhagen" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+```
+

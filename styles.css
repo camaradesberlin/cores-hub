@@ -24,3 +24,34 @@ a {
 a:hover {
   text-decoration: underline;
 }
+
+/* Primary button */
+.btn.btn-primary,
+.btn-primary {
+  background-color: #81007F !important;
+  border-color:    #81007F !important;
+  color:           #FFFFFF !important;
+}
+
+/* Secondary button */
+.btn.btn-secondary,
+.btn-secondary {
+  background-color: #FFAF1A !important;
+  border-color:    #FFAF1A !important;
+  color:           #FFFFFF !important;
+}
+
+/* Optional: adjust hover states */
+.btn.btn-primary:hover,
+.btn-primary:hover {
+  background-color: #6a006a !important;
+  border-color:    #6a006a !important;
+}
+
+.btn.btn-secondary:hover,
+.btn-secondary:hover {
+  background-color: #e69919 !important;
+  border-color:    #e69919 !important;
+}
+
+

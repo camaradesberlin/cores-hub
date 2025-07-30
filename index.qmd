@@ -2,7 +2,7 @@
 title: "Communities for Open Research Synthesis"
 ---
 
-# Synthesise research for novel insights
+## Synthesise research for novel insights
 
 Join the community to improve the quality and value of preclinical research in biomedicine.
 

@@ -13,14 +13,15 @@ Our wiki resources on systematic review are designed to support you in conductin
 
 [Take me to the wiki →](http://www.camarades.de){target="_blank"}
 
+
 ## Software for Systematic Review - SyRF 
 
 Looking for a flexible systematic review software tailored for animal research? SyRF is your solution! SyRF streamlines the review process, saving you time and effort. Create your free account today.
 
-[Take me to SyRF ↗](http://www.syrf.org.uk)  
+[Take me to SyRF ↗](http://www.syrf.org.uk){target="_blank"}
 For guidance on how to use the platform, tutorials, and step-by-step instructions, please see the extensive help guide.
 
-[How to Use SyRF ↗](https://help.syrf.org.uk/)
+[How to Use SyRF ↗](https://help.syrf.org.uk/){target="_blank"}
 
 
 > **Got a question? – Ask at the next drop-in!**  
@@ -56,4 +57,4 @@ Find collaborators and discuss your project on our community forum, Zulip. Make 
 
 Join weekly calls to share progress on your systematic review projects.
 
-[When is the next CAMARADES call? ↗](https://cores-hub.io/events/)
+[When is the next CAMARADES call? ↗](/events/)

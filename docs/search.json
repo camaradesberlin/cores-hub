@@ -4,42 +4,49 @@
     "href": "learn.html",
     "title": "Learn Systematic Reviews",
     "section": "",
-    "text": "A systematic review is a rigorous approach to summarising multiple studies on a research question. It supports evidence-based decision making by providing an unbiased assessment of all available data. It helps identify effective interventions and reduces biases for better decision making in translational biomedicine.\nWant to learn more about systematic review? Check out our resources below!"
+    "text": "A systematic review is a rigorous method for summarising all available studies on a research question.\n- Supports evidence-based decisions by providing an unbiased assessment of all available data\n- Identifies effective interventions in translational biomedicine\n- Provides an unbiased, data-driven overview of the literature\nWant to learn more about systematic review? Check out our resources below!"
   },
   {
-    "objectID": "learn.html#introduction-to-systematic-review-meta-analysis-of-animal-studies",
-    "href": "learn.html#introduction-to-systematic-review-meta-analysis-of-animal-studies",
+    "objectID": "learn.html#workshops",
+    "href": "learn.html#workshops",
     "title": "Learn Systematic Reviews",
-    "section": "Introduction to Systematic Review & Meta-Analysis of Animal Studies",
-    "text": "Introduction to Systematic Review & Meta-Analysis of Animal Studies\nThrough a mix of lectures and hands-on practical activities and tutorials across 3 half days, you will learn the major steps required to undertake a systematic review and meta-analysis of preclinical animal studies. For information on our next workshop and to register, please click here: Introduction to Systematic Review & Meta-Analysis of Animal Studies.\nWe have summarized the main points of the workshop in this cheat sheet.\n\nJoin our next workshop to learn about systematic review of animal studies.\nRegister for workshop"
+    "section": "Workshops",
+    "text": "Workshops\nUnlock the power of systematic reviews in our online workshop! Delve into comprehensive systematic review and meta-analysis and enhance your research skills by critically evaluating findings. Join us in one of our workshops on systematic reviews and embark on a transformative journey towards evidence-based excellence.\nSee our range of workshops below.\n\nIntroduction to Systematic Review & Meta-Analysis of Animal Studies\nThrough a mix of lectures and hands-on practical activities and tutorials across 3 half days, you will learn the major steps required to undertake a systematic review and meta-analysis of preclinical animal studies.\nQuick Facts\n- Course language: English - Location: online via Teams - ECTS: 0.9 ECTS points are awarded for this course. A certificate will be provided upon successful completion of the workshop. - ATF-Stunden: This workshop accounts for 11 hours of continuing education.\nFor information on our next workshop and to register, please click here: Introduction to Systematic Review & Meta-Analysis of Animal Studies.\nWe have summarized the main points of the workshop in this cheat sheet.\n\nRegister Now →\n\n\n\nProtocol Development for Systematic Review of Animal Studies\nThis workshop will cover the contents of a transparent and comprehensive preclinical systematic review protocol. It will cover the rationale behind registering your systematic review protocol and where to register. This workshop is aimed at researchers who already have a basic understanding of systematic reviews of animal data.\nCourse language: English Location: online via Teams Prerequisites: Attendance at the Introduction to Systematic Review & Meta-Analysis of Animal Studies workshop or similar systematic review experience.\nFor more information, please click here: Protocol Development for Systematic Review of Animal Studies.\n\nLearn More →\n\n\n\nCritical Appraisal of Animal Studies\nThis interactive practical workshop will explore study quality and risks of bias, internal and external validity, in scientific publications of animal experiments. Participants will gain hands-on experience critically appraising published animal experiments.\nCourse language: English Location: online via Teams\nFor more information, please click here: Critical Appraisal of Animal Studies.\n\nDetails →"
   },
   {
-    "objectID": "learn.html#protocol-development-for-systematic-review-of-animal-studies",
-    "href": "learn.html#protocol-development-for-systematic-review-of-animal-studies",
+    "objectID": "learn.html#intermediate-meta-analysis-of-data-from-animal-studies-in-r",
+    "href": "learn.html#intermediate-meta-analysis-of-data-from-animal-studies-in-r",
     "title": "Learn Systematic Reviews",
-    "section": "Protocol Development for Systematic Review of Animal Studies",
-    "text": "Protocol Development for Systematic Review of Animal Studies\nThis workshop will cover the contents of a transparent and comprehensive preclinical systematic review protocol. It will cover the rationale behind registering your systematic review protocol and where to register. This workshop is aimed at researchers who already have a basic understanding of systematic reviews of animal data. For more information, please click here: Protocol Development for Systematic Review of Animal Studies."
+    "section": "Intermediate Meta-Analysis of Data From Animal Studies in R",
+    "text": "Intermediate Meta-Analysis of Data From Animal Studies in R\nMeta-analysis is a rigorous statistical method that systematically combines and synthesizes results from multiple independent studies. By aggregating data across multiple research outputs, meta-analysis provides a powerful tool for drawing robust conclusions, identifying patterns, and quantifying effect sizes.\nDuring this intensive workshop, participants will delve into the practicalities of conducting meta-analysis on animal studies. From understanding data types to mastering meta-regression modelling techniques, this course equips learners with practical skills to conduct robust meta-analyses. Whether you’re a seasoned researcher or a curious novice, join us to develop hands-on skills in conducting meta-analysis on data from animal experiments using R.\nCourse language: English Location: online via Teams Prerequisites: We recommend completion of the Introduction to Systematic Review & Meta-Analysis of Animal Studies and basic familiarity with R, see meta-analysis tutorial web-application for more information.\nFor more information, please click here: Intermediate Meta-Analysis of Data From Animal Studies in R.\n\nInfo & Register →\n\n\nAdvanced Meta-Analysis Techniques for Synthesizing Data From Animal Studies"
   },
   {
-    "objectID": "learn.html#critical-appraisal-of-animal-studies",
-    "href": "learn.html#critical-appraisal-of-animal-studies",
+    "objectID": "learn.html#workshop-details",
+    "href": "learn.html#workshop-details",
     "title": "Learn Systematic Reviews",
-    "section": "Critical Appraisal of Animal Studies",
-    "text": "Critical Appraisal of Animal Studies\nThis interactive practical workshop will explore study quality and risks of bias, internal and external validity, in scientific publications of animal experiments. Participants will gain hands-on experience critically appraising published animal experiments. For more information, please click here: Critical Appraisal of Animal Studies."
+    "section": "Workshop Details",
+    "text": "Workshop Details\n\n🧪 Introduction🔨 Protocol Development✅ Critical Appraisal📊 Intermediate Meta-Analysis🚀 Advanced Meta-Analysis\n\n\nThrough lectures + hands-on tutorials, learn each step of a systematic review & meta-analysis of preclinical data.\n- ECTS: 0.9\n- ATF-Stunden: 11\n- Cheat Sheet: Download PDF\n\nRegister Now →\n\n\n\nCovers transparent protocol writing, registration rationale, and registry platforms.\n- Prerequisite: Intro workshop\n- Format: Online via Teams\n\nLearn More →\n\n\n\nHands-on appraisal of study quality, bias, and validity in animal research publications.\n\nDetails →\n\n\n\nPractical meta-analysis in R, from data types to meta-regression techniques.\n- Prerequisite: Intro workshop + R basics\n\nInfo & Register →\n\n\n\nDuring this advanced workshop, participants will delve into the practicalities of conducting advanced meta-analytic techniques suitable for synthesising data from animal studies, namely multi-level meta-analysis and individual animal analysis. Prior to attending this workshop, we recommend first-hand experience conducting meta-analysis of animal studies, as well as intermediate experience with R, see meta-analysis tutorial web-application for more information. - Course language: English - Location: online via Teams - ECTS: no only certificates of attendance are given\nFor more information, please click here: Advanced Meta-Analysis Techniques for Synthesizing Data From Animal Studies.\n\nInfo & Register →"
   },
   {
-    "objectID": "contact.html",
-    "href": "contact.html",
-    "title": "Contact",
+    "objectID": "learn.html#need-log-in-support",
+    "href": "learn.html#need-log-in-support",
+    "title": "Learn Systematic Reviews",
+    "section": "Need Log-in Support?",
+    "text": "Need Log-in Support?\n\n\n\n\n\n\nNote\n\n\n\nHow to log-in to Moodle →\n\n\n-&gt; How to log-in to Moodle →"
+  },
+  {
+    "objectID": "events.html",
+    "href": "events.html",
+    "title": "Events",
     "section": "",
-    "text": "We’re focused on making COReS the best open community platform it can be. Is there something you absolutely like or would like us to change? Let us know!\n\n\n\n\n\nDr Sarah McCann CAMARADES Berlin Group Leader\n\n Dr Friederike Kohrs Community Manager\n\n Dr Alexandra Bannach-Brown Project Lead\n\n Sofija Vojvodic Research Fellow\n\n\n\n\n Dr Daniel Schulze Biostatistician\n\n Ayesha Amin Tariq Research Assistant\n\n Mala Karmakar Research Software Engineer\n\n Momna Hassan Research Assistant"
+    "text": "We display"
   },
   {
-    "objectID": "contact.html#people",
-    "href": "contact.html#people",
-    "title": "Contact",
+    "objectID": "events.html#cores-event-calendar",
+    "href": "events.html#cores-event-calendar",
+    "title": "Events",
     "section": "",
-    "text": "Dr Sarah McCann CAMARADES Berlin Group Leader\n\n Dr Friederike Kohrs Community Manager\n\n Dr Alexandra Bannach-Brown Project Lead\n\n Sofija Vojvodic Research Fellow\n\n\n\n\n Dr Daniel Schulze Biostatistician\n\n Ayesha Amin Tariq Research Assistant\n\n Mala Karmakar Research Software Engineer\n\n Momna Hassan Research Assistant"
+    "text": "We display"
   },
   {
     "objectID": "about.html",
@@ -63,8 +70,29 @@
     "text": "Digital Community Forum\nBeing part of the community means adhering to our Community Code of Conduct which applies across our community platform, digital and in person events. Have a suggestion to update the Code of Conduct, let us know by dropping us a line!\nJoin the Discussion Forum\n\nWho can you connect with on the digital platform?\n\nUndergraduate and graduate students\nResearchers working with animals\nSynthesists, information specialists and statisticians\nLab managers, veterinary specialists, 3Rs institutes\nGroup leaders and Principle investigators\nFunders and policy makers\n\n\n\nWe love welcoming new members\nIf you have a passion for evidence synthesis and preclinical animal research, we recommend joining the COReS community discussion forum hosted on Zulip. By becoming a community member, you will have the opportunity to collaborate with other researchers and synthesists who share your interests. Together, we can shape the future of translational research transparency.\nJoin us and let your voice be heard in the COReS community. We look forward to your valuable contributions!"
   },
   {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "Have inquiries or need support? Reach out to us through our contact channels. Whether you’re seeking general information, need assistance, or want to explore partnership opportunities, we’re here to help.\nFollow us on LinkedIn\nCOReS is coordinated by CAMARDES Berlin, BIH QUEST Center.\nFor direct enquiries, please contact: camarades.berlin@charite.de"
+  },
+  {
+    "objectID": "contact.html#people",
+    "href": "contact.html#people",
+    "title": "Contact",
+    "section": "People",
+    "text": "People\n\n\n\nDr Sarah McCann CAMARADES Berlin Group Leader\n\n Dr Friederike Kohrs Community Manager\n\n Dr Alexandra Bannach-Brown Project Lead\n\n Sofija Vojvodic Research Fellow\n\n\n\n\n Dr Daniel Schulze Biostatistician\n\n Ayesha Amin Tariq Research Assistant\n\n Mala Karmakar Research Software Engineer\n\n Momna Hassan Research Assistant"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
+    "title": "Communities for Open Research Synthesis",
+    "section": "",
+    "text": "Join the community to improve the quality and value of preclinical research in biomedicine.\nLearn More"
+  },
+  {
+    "objectID": "index.html#synthesise-research-for-novel-insights",
+    "href": "index.html#synthesise-research-for-novel-insights",
     "title": "Communities for Open Research Synthesis",
     "section": "",
     "text": "Join the community to improve the quality and value of preclinical research in biomedicine.\nLearn More"
@@ -109,7 +137,7 @@
     "href": "perform.html#software-for-systematic-review---syrf",
     "title": "Perform Systematic Reviews",
     "section": "Software for Systematic Review - SyRF",
-    "text": "Software for Systematic Review - SyRF\nLooking for a flexible systematic review software tailored for animal research? SyRF is your solution! SyRF streamlines the review process, saving you time and effort. Create your free account today.\nTake me to SyRF ↗\nFor guidance on how to use the platform, tutorials, and step-by-step instructions, please see the extensive help guide.\nHow to Use SyRF ↗\n\nGot a question? – Ask at the next drop-in!\nJoin the drop-in session"
+    "text": "Software for Systematic Review - SyRF\nLooking for a flexible systematic review software tailored for animal research? SyRF is your solution! SyRF streamlines the review process, saving you time and effort. Create your free account today.\nTake me to SyRF ↗ For guidance on how to use the platform, tutorials, and step-by-step instructions, please see the extensive help guide.\nHow to Use SyRF ↗\n\nGot a question? – Ask at the next drop-in!\nJoin the drop-in session"
   },
   {
     "objectID": "perform.html#drop-in-session",

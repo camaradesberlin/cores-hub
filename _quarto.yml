@@ -1,5 +1,6 @@
 project:
   type: website
+  output-dir: docs
 
 website:
   title: ""
@@ -7,6 +8,8 @@ website:
   navbar:
     logo: images/cores-Logo-Subline.png 
     logo-alt: COReS Project Logo
+    logo-href: https://cores-hub.io
+    background: dark
     right:
       - href: index.qmd
         text: Home
@@ -14,6 +17,7 @@ website:
       - learn.qmd
       - perform.qmd
       - synthesis-ready.qmd
+      - events.qmd
       - contact.qmd
       - href: https://cores.zulipchat.com/
         text: To the Discussion Forum
@@ -21,6 +25,7 @@ website:
     tools:
       - href: https://github.com
         icon: github
+    pinned: true
   page-footer:
     left: "Project funded by [Volkswagen Stiftung](https://www.volkswagenstiftung.de/en/news/interview/quality-preclinical-research-networked-rather-alone)."
     center: "We are a community. You can read about our [Equity, Diversity & Inclusion Policy](/equity-diversity-and-inclusion/).
@@ -43,4 +48,6 @@ format:
     toc: true
 
 editor: visual
+
+
 
