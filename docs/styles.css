@@ -54,4 +54,29 @@ a:hover {
   border-color:    #e69919 !important;
 }
 
+.card {
+  background-color: transparent;
+  border: none !important;
+  box-shadow: none !important;
+}
 
+/* 2. Turn the .grid into a flex container with equal columns */
+.grid {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;           /* space between columns */
+}
+
+/* 3. Make each .g-col-6 take up half the width and flex-grow */
+.grid > .g-col-6 {
+  flex: 1 1 calc(50% - 1rem);
+  display: flex;
+  flex-direction: column;
+}
+
+/* 4. Ensure cards inside each column stretch to equal height */
+.grid > .g-col-6 .card {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+}
