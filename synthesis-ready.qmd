@@ -1,5 +1,5 @@
 ---
-title: "Synthesis-Ready Preclinical Research"
+title: "Synthesis-Ready Research"
 format: html
 ---
 
