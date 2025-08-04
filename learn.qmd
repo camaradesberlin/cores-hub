@@ -1,6 +1,7 @@
 ---
 title: "Learn Systematic Reviews"
 format: html
+sidebar: SR
 ---
 
 A **systematic review** is a rigorous method for summarising all available studies on a research question.\
@@ -24,7 +25,7 @@ Through a mix of lectures and hands-on practical activities and tutorials across
 -   **Course language:** English </br>
 -   **Location:** online via Teams </br>
 -   **ECTS:** 0.9 ECTS points are awarded for this course. A certificate will be provided upon successful completion of the workshop. </br>
--   **ATF-Stunden:** This workshop accounts for 11 hours of continuing education. </br> 
+-   **ATF-Stunden:** This workshop accounts for 11 hours of continuing education. </br>
 
 We have summarized the main points of the workshop in this [cheat sheet](https://dreamy-bardeen-2035af.netlify.app/CheatSheet_IntroSRworkshop_2023.pdf){target="_blank"}.
 
@@ -34,12 +35,11 @@ We have summarized the main points of the workshop in this [cheat sheet](https:/
 
 ### 🔨 Protocol Development {.tab}
 
-**Protocol Development for Systematic Review of Animal Studies** </br> 
-This workshop will cover the contents of a transparent and comprehensive preclinical systematic review protocol. It will cover the rationale behind registering your systematic review protocol and where to register. This workshop is aimed at researchers who already have a basic understanding of systematic reviews of animal data.
+**Protocol Development for Systematic Review of Animal Studies** </br> This workshop will cover the contents of a transparent and comprehensive preclinical systematic review protocol. It will cover the rationale behind registering your systematic review protocol and where to register. This workshop is aimed at researchers who already have a basic understanding of systematic reviews of animal data.
 
-- **Course language:** English </br> 
-- **Location:** online via Teams </br> 
-- **Prerequisites:** Attendance at the [Introduction to Systematic Review & Meta-Analysis of Animal Studies](https://www.bihealth.org/en/translation/innovation-enabler/quest-center/events/course/introduction-to-systematic-review-meta-analysis-of-animal-studies){target="_blank"} workshop or similar systematic review experience. </br>
+-   **Course language:** English </br>
+-   **Location:** online via Teams </br>
+-   **Prerequisites:** Attendance at the [Introduction to Systematic Review & Meta-Analysis of Animal Studies](https://www.bihealth.org/en/translation/innovation-enabler/quest-center/events/course/introduction-to-systematic-review-meta-analysis-of-animal-studies){target="_blank"} workshop or similar systematic review experience. </br>
 
 ::: button
 [Info & Register](https://www.bihealth.org/en/translation/innovation-enabler/quest-center/events/course/protocol-development-for-systematic-review-of-animal-studies){.btn .btn-primary target="_blank"}
@@ -47,11 +47,10 @@ This workshop will cover the contents of a transparent and comprehensive preclin
 
 ### ✅ Critical Appraisal of Animal Studies {.tab}
 
-**Critical Appraisal of Animal Studies: Practical Workshop** </br> 
-This interactive practical workshop explores study quality and risks of bias, internal and external validity, in scientific publications of animal experiments. Participants will gain hands-on experience critically appraising published animal experiments.
+**Critical Appraisal of Animal Studies: Practical Workshop** </br> This interactive practical workshop explores study quality and risks of bias, internal and external validity, in scientific publications of animal experiments. Participants will gain hands-on experience critically appraising published animal experiments.
 
-- **Course language:** English </br> 
-- **Location:** online via Teams </br>
+-   **Course language:** English </br>
+-   **Location:** online via Teams </br>
 
 ::: button
 [Info & Register](https://www.bihealth.org/en/translation/innovation-enabler/quest-center/events/course/critical-appraisal-of-animal-studies-practical-workshop){.btn .btn-primary target="_blank"}
@@ -59,8 +58,7 @@ This interactive practical workshop explores study quality and risks of bias, in
 
 ### 📊 Intermediate Meta-Analysis {.tab}
 
-**Intermediate Meta-Analysis of Data From Animal Studies in R** </br> 
-Meta-analysis is a rigorous statistical method that systematically combines and synthesizes results from multiple independent studies. By aggregating data across multiple research outputs, meta-analysis provides a powerful tool for drawing robust conclusions, identifying patterns, and quantifying effect sizes.
+**Intermediate Meta-Analysis of Data From Animal Studies in R** </br> Meta-analysis is a rigorous statistical method that systematically combines and synthesizes results from multiple independent studies. By aggregating data across multiple research outputs, meta-analysis provides a powerful tool for drawing robust conclusions, identifying patterns, and quantifying effect sizes.
 
 During this intensive workshop, participants will delve into the practicalities of conducting meta-analysis on animal studies. From understanding data types to mastering meta-regression modelling techniques, this course equips learners with practical skills to conduct robust meta-analyses. Whether you’re a seasoned researcher or a curious novice, join us to develop hands-on skills in conducting meta-analysis on data from animal experiments using R.
 
@@ -75,12 +73,11 @@ During this intensive workshop, participants will delve into the practicalities 
 
 ### 🚀 Advanced Meta-Analysis {.tab}
 
-**Advanced Meta-Analysis Techniques for Synthesizing Data From Animal Studies** </br>
-During this advanced workshop, participants will delve into the practicalities of conducting advanced meta-analytic techniques suitable for synthesising data from animal studies, namely multi-level meta-analysis and individual animal analysis. Prior to attending this workshop, we recommend first-hand experience conducting meta-analysis of animal studies, as well as intermediate experience with R, see meta-analysis tutorial web-application for more information. 
+**Advanced Meta-Analysis Techniques for Synthesizing Data From Animal Studies** </br> During this advanced workshop, participants will delve into the practicalities of conducting advanced meta-analytic techniques suitable for synthesising data from animal studies, namely multi-level meta-analysis and individual animal analysis. Prior to attending this workshop, we recommend first-hand experience conducting meta-analysis of animal studies, as well as intermediate experience with R, see meta-analysis tutorial web-application for more information.
 
-- **Course language:** English </br> 
-- **Location:** online via Teams </br> 
-- **ECTS:** no, only certificates of attendance are given </br>
+-   **Course language:** English </br>
+-   **Location:** online via Teams </br>
+-   **ECTS:** no, only certificates of attendance are given </br>
 
 ::: button
 [Info & Register →](https://www.bihealth.org/en/translation/innovation-enabler/quest-center/events/course/advanced-meta-analysis-techniques-for-synthesizing-data-from-animal-studies){.btn .btn-primary target="_blank"}

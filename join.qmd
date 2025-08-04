@@ -1,0 +1,97 @@
+---
+title: "Join COReS"
+format: html
+sidebar: Community
+---
+
+**Welcome to the COReS Community!**\
+Building a transparent, reproducible network around preclinical evidence synthesis.
+
+## What is COReS?
+
+COReS (Communities for Open Research Synthesis) equips researchers to tackle the translational gap in biomedical research with **systematic reviews** of preclinical data.\
+- **Transparency & Reproducibility:** Open methods, open data, open code\
+- **Collaboration:** Shared learning, shared resources\
+- **Impact:** Better-designed experiments, fewer failed translations
+
+:::: {.text-center style="margin-top: 1em"}
+::: button
+[Join the Community →](https://cores.zulipchat.com/){.btn .btn-primary target="_blank"}
+:::
+::::
+
+
+## Why Join?
+
+::: panel-tabset
+### 🔗 Connect {.tab}
+
+-   Forge collaborations with students, PIs, and policy-makers\
+-   Participate in events, discussion threads, and special interest groups\
+-   Grow your network across disciplines
+
+### 📚 Learn {.tab}
+
+-   Access educational resources on systematic reviews & meta-analysis\
+-   Try interactive tutorials and quizzes at your own pace\
+-   Tap into expert office hours and webinars
+
+### 🔄 Reproducible Research {.tab}
+
+-   Share your protocols, data, and analysis scripts publicly\
+-   Get feedback from peers to improve study design\
+-   Increase the rigor and impact of your preclinical research
+:::
+
+
+
+## Who can you interact with?
+
+|  |  |
+|------------------------------------|------------------------------------|
+| 🎓 **Students** | 📊 **Synthesists** |
+| Undergrads & grads learning evidence synthesis. | Statisticians & information specialists. |
+| 🔬 **Researchers** | 💼 **Funders & Policy** |
+| Animal-model experts & lab managers. | Shaping research priorities and best practices. |
+
+## We love that our community keeps on growing  
+If you have a passion for evidence synthesis and preclinical animal research,join the COReS community discussion forum hosted on Zulip. By activiely engaging with others in the discussion forum, you will have the opportunity to identify collaboration partners and work with other researchers and synthesists who share your interests. Together, we can shape the future of translational research transparency. 
+
+Join us and let your voice be heard in the COReS community. We look forward to your valuable contributions! 
+
+:::: {.text-center style="margin-top: 2em"}
+::: button
+[Start the Conversation on the Discussion Forum →](https://cores.zulipchat.com/){.btn .btn-primary .btn-lg target="_blank"}
+:::
+::::
+
+
+## Code of Conduct
+
+Our community thrives on respect and inclusivity. Please review and help us improve:
+
+::: callout-note
+[Community Code of Conduct →](#){.btn .btn-secondary target="_blank"}
+:::
+
+---
+accordion:
+  - simple:
+    - header: Click here to view contents
+      body: This is the body content
+filters:
+  - accordion
+---
+
+{{< accordion simple >}}
+
+
+
+
+## Our Parnters
+
+Our partner institutes play a key role in facilitating the mission and vision of COReS; to build an open community that encourages and supports them in the integration of preclinical systematic review into the research pipeline.
+
+Learn how to become an early-adopter institute in our dynamic research community project COReS. Gain access to insights on systematic review, gain curriculum to train the next generation of researchers, collaborate with leading experts, and shape the future of biomedical research in an evidence-based way.
+
+Contact us to learn more about becoming a [Partner Institute.](/about-cores/partners.qmd)

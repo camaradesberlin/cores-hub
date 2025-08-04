@@ -1,0 +1,29 @@
+---
+title: "Using the Discussion Forum"
+format: html
+sidebar: Community
+---
+
+## About Our Discussion Forum
+The COReS community uses Zulip for asynchronous discussions and community engagement. Zulip combines the best features of forum discussions and chat platforms.
+
+## Getting Started
+
+1. **Join the Forum**
+   - Visit [cores.zulipchat.com](https://cores.zulipchat.com)
+   - Create an account using your institutional email
+
+2. **Navigate the Platform**
+   - **Streams**: Topic-based channels (e.g., #general, #introductions)
+   - **Topics**: Threaded conversations within streams
+   - **Private Messages**: For direct communication
+
+3. **Best Practices**
+   - Use descriptive topic names
+   - Stay on topic within threads
+   - Follow our [Code of Conduct](/about-cores/code-of-conduct.qmd)
+
+## Need Help?
+- Check the [Zulip documentation](https://zulip.com/help/)
+- Ask in the #help stream
+- Contact our community managers

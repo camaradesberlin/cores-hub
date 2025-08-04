@@ -1,0 +1,15 @@
+---
+title: "Code of Conduct"
+format: html
+sidebar: Community
+---
+
+We believe that our COReS community is shaped by the voices of its members. That’s why we invite you to contribute to the continued development and improvement of our Code of Conduct. Your insights, experiences, and perspectives are invaluable in ensuring that our guidelines reflect the diversity and inclusivity of our community.
+
+Together, we can create a safer, more respectful, and more inclusive environment for everyone. So, let’s collaborate and make our community the best it can be! To provide comments and feedback on the Code of Conduct, please edit the document live at: [https://docs.google.com/document/d/12Xcd3Ajw3bjjQvcZ62Sh-jm51nE3fC9YuNEdtJvq2oU/edit?usp=sharing](https://docs.google.com/document/d/12Xcd3Ajw3bjjQvcZ62Sh-jm51nE3fC9YuNEdtJvq2oU/edit?usp=sharing){target="_blank"}
+
+View the most up-to-date Community Code of Conduct below.
+
+<iframe src="https://docs.google.com/document/d/e/2PACX-1vTeJ826BRhZGg1mVvRV_-7uClQCoVv2rjZ-NCmHtxU2JjXufPfMw7Clpf3b_sQpa5jKECeiXNnlu7eu/pub?embedded=true" allowfullscreen="true" width="100%" height="500px">
+
+</iframe>

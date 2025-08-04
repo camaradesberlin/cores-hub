@@ -1,0 +1,64 @@
+---
+title: "Disseminate Primary Research"
+format: html
+sidebar: Synthesis-Ready
+---
+
+Openly disseminating research in an open and transparent manner is crucial for advancing systematic reviews and evidence-based decision making. It enables the synthesis of diverse studies, providing a comprehensive analysis of existing evidence. This transparency promotes result reproducibility and ensures an accurate assessment of knowledge on a particular topic. Accessible and synthesizable research empowers decision-makers and contributes to the development of informed policies and practices. By openly sharing methodologies, data, and outcomes, researchers create a collaborative knowledge ecosystem that fosters trust and enhances the reliability and relevance of evidence in decision-making processes.
+
+### Open Data
+
+#### Open Data Commons
+
+Open Data Commons is a data sharing portal and repository for data in specific disease domains. The Open Data Commons portal:
+
+- Share data with your colleagues in a protected space and publish data publicly with a DOI.  
+- Supports compliance with the FAIR data principles to ensure data is Findable, Accessible, Interoperable and Reusable.  
+- Promotes transparency and reproducibility for our common goal to find cures for serious medical conditions.  
+- Allows the community to meet increasing funder and journal data sharing requirements.  
+
+##### ODC-SCI
+
+Spinal Cord Injury  
+<https://odc-sci.org/>
+
+##### ODC-TBI
+
+Traumatic Brain Injury  
+<https://odc-tbi.org/>
+
+##### ODC-Stroke
+
+Coming Soon
+
+---
+
+### Open Methods
+
+#### Protocols.io
+
+![](https://i0.wp.com/cores-hub.io/wp-content/uploads/2023/11/th-1832070634.jpg?resize=474%2C266&ssl=1){width=100}
+
+Protocols.io is a collaborative open-access platform designed to facilitate the sharing of research protocols and methods. It serves as a centralized repository where researchers can publish, discover, and discuss experimental techniques across various scientific disciplines with ease and efficiency.
+
+##### Collaboration
+
+- Enables researchers to collaborate on protocols and share expertise.
+
+##### Reproducibility
+
+- Enhances the reproducibility of experiments by offering detailed, version-controlled protocols.
+
+##### Visibility
+
+- Increases the visibility and impact of your research methods, as each protocol can be cited with a DOI.
+
+##### Experiment Tracking
+
+- Run protocols as checklists and record changes in your File Manager, which you can choose to keep private or share.
+
+##### Quality Control
+
+- Protocols are peer-reviewed, ensuring a high standard of scientific rigor.
+
+- Interested in mastering Protocols.io? Check out the [Tutorials](https://www.protocols.io/tutorials) for quick, insightful guides on using the platform effectively.

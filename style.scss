@@ -1,0 +1,92 @@
+/*-- scss:defaults --*/
+
+// Import Google Fonts
+@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@400;700&family=Roboto+Slab:wght@400;700&display=swap');
+
+// Variables
+$font-sans: 'Manrope', sans-serif;
+$font-serif: 'Roboto Slab', serif;
+
+// Colors
+$primary-color:   #81007F;
+$primary-hover:   #6a006a;
+$secondary-color: #FFAF1A;
+$secondary-hover: #e69919;
+$dark-gray: #343a4a; 
+$light-gray: #EBE9EA;
+$dark-blue: #0D65A4; 
+$purple: #81007F; 
+$yellow: #FFAF1A;
+
+
+// Base document colors
+$navbar-bg: $dark-gray; // navbar
+$sidebar-bg: $light-gray; //sidebar
+$link-color: $purple; //hyperlinks
+$footer-bg: $light-gray;
+$footer-fg: $dark-gray;
+
+
+/*-- scss:rules --*/
+
+body {
+  font-family: $font-sans;
+  color: #333;
+  line-height: 1.6;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: $font-serif;
+  margin-top: 1.5em;
+  margin-bottom: 0.5em;
+}
+
+// Link styling
+a {
+  color: $link-color;
+  text-decoration: none;
+
+  &:hover {
+    text-decoration: underline;
+  }
+}
+
+// Button styling
+.btn {
+  &.btn-primary,
+  &-primary {
+    background-color: $primary-color !important;
+    border-color:     $primary-color !important;
+    color:            #fff         !important;
+
+    &:hover {
+      background-color: $primary-hover !important;
+      border-color:     $primary-hover !important;
+    }
+  }
+
+  &.btn-secondary,
+  &-secondary {
+    background-color: $secondary-color !important;
+    border-color:     $secondary-color !important;
+    color:            #fff           !important;
+
+    &:hover {
+      background-color: $secondary-hover !important;
+      border-color:     $secondary-hover !important;
+    }
+  }
+}
+
+
+
+
+/* Add to your style.scss */
+.partner-grid {
+  margin: 2em 0;
+}
+
+.grid {
+  margin: 2em 0;
+}
+/*-- scss:defaults --*/

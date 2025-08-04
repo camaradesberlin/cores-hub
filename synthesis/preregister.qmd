@@ -1,0 +1,82 @@
+---
+title: "Pre-Register Your Animal Experiment"
+format: html
+sidebar: Synthesis-Ready
+---
+
+Preregistering animal experiments means publicly recording your study’s aims, design and analysis plan before you begin. This simple step boosts transparency and reproducibility, helping reviewers identify unpublished or selective results and assess risk of bias more reliably. It also prevents needless duplication, honouring the 3Rs by reducing animal use, and lays a stronger foundation for systematic reviews and meta-analyses. Ultimately, preregistration enhances the ethical and scientific rigour of preclinical research, improving its predictiveness for human studies.
+
+## PreclinicalTrials.EU
+
+![](/images/preclinicaltrialseu_logo.png)
+
+[PreclinicalTrials.EU](https://preclinicaltrials.eu/) is a central platform for registering preclinical animal studies.
+
+<details>
+<summary>Features</summary>
+
+-   **Enhanced transparency:** Prospective registration to reveal unpublished studies.\
+
+-   **Avoid duplication:** View existing studies to prevent redundant work.\
+
+-   **Reduce reporting bias:** Mitigates publication bias and p-hacking.\
+
+-   **Facilitate data sharing:** Full study designs and data archives.\
+
+-   **Collaborative research:** Connect across biomedical fields.
+
+</details>
+
+<details>
+
+<summary>Links & Resources</summary>
+
+-   Got questions? See their [FAQs section](https://preclinicaltrials.eu/help).\
+
+-   In-depth protocol guide: [User Guide (PDF)](https://drive.google.com/file/d/1I-lcjDIxvVlAW3EyO7CatPdcL6OyBrhB/view).
+
+</details>
+
+## Animal Study Registry
+
+![](/images/animalstudyregistry.png)
+
+[AnimalStudyRegistry.org](https://www.animalstudyregistry.org/) lets you preregister animal‐based research, timestamped & citable via DOI.
+
+<details>
+<summary>Features</summary>
+
+-   **Enhanced transparency:** Full protocol disclosure.\
+
+-   **Animal welfare:** Encourages refinement methods to reduce harm.\
+
+-   **Intellectual property:** DOI & timestamp for your protocol.\
+
+-   **Credibility:** Builds trust in open science practices.\
+
+-   **Time-saving:** Templates cover ARRIVE guidelines essentials.
+</details>
+
+<details>
+<summary>Links & Resources</summary>
+
+-   Learn more on the [platform homepage](https://www.animalstudyregistry.org/asr_web/index.action) and [register here](https://www.animalstudyregistry.org/asr_web/asr.web.register.input.action).\
+
+-   Browse existing [registries](https://search.animalstudyregistry.org/asr_viewer/index.action).
+</details>
+------------------------------------------------------------------------
+
+## Electronic Lab Notebook
+
+An electronic lab notebook is a digital platform for documenting experiments, managing protocols, and storing data. It enables real-time collaboration and integrates analytics, inventory, and specialized databases.
+
+-   **Data Integrity:** Secure, retrievable storage.\
+-   **Collaboration:** Share data & findings instantly.\
+-   **Regulatory Adherence:** Built-in compliance with research standards.\
+-   **Streamlined Workflow:** Templates & integrated tools.
+
+### Links & Resources
+
+-   [Learn more about LabFolder](https://labfolder.com/)\
+-   [Access training on LabFolder](https://www.bihealth.org/en/notices/using-of-electronic-lab-books)
+

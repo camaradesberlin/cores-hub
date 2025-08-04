@@ -1,0 +1,72 @@
+---
+title: "Become a Partner"
+format: html
+sidebar: Community
+---
+
+# Become a COReS Partner
+
+::: {.callout-note}
+This is a summary of our partnership program. For detailed information, download our comprehensive [Partner Guide (PDF)](#).
+:::
+
+## Our Vision
+COReS partners are key players in establishing a strong open research community around preclinical systematic review. They champion the integration of systematic reviews into the research pipeline and help shape the future of evidence synthesis.
+
+## Who Can Become a Partner?
+- Individual researchers
+- Research groups
+- Research institutes
+- Organizations experienced in systematic reviews
+
+## Partnership Benefits
+
+:::: {.grid}
+::: {.g-col-6}
+### Community Leadership
+- Shape evidence-based biomedical research
+- Lead systematic review integration
+- Influence research practices
+:::
+
+::: {.g-col-6}
+### Resources & Support
+- Access to educational programs
+- Training materials
+- Community discussion forum
+- Regular field updates
+:::
+::::
+
+## Partner Responsibilities
+- Advocate for systematic reviews in your institution
+- Participate in community development
+- Support educational initiatives
+- Follow our [Code of Conduct](/about-cores/code-of-conduct.qmd)
+- Adhere to our [EDI Policy](/about-cores/policies.qmd)
+
+## Our Current Partners
+::: {.partner-grid}
+| Institution | Contact |
+|------------|----------|
+| CAMARADES Berlin, BIH at Charité | Dr. Alexandra Bannach-Brown |
+| RWTH Aachen | Dr. Julia Steitz |
+| 3R Freiburg | Dr. Ralf Watzlawick |
+| Universität Münster | Dr. Jens Minnerup |
+| Universität Ulm | Dr. Sibylle Ott |
+| Universität Leipzig | Dr. Beryl Eusemann |
+:::
+
+## Next Steps
+1. Review our partnership criteria
+2. [Download our detailed Partner Guide (PDF)](#)
+3. [Contact us](mailto:camarades.berlin@charite.de) to schedule an initial discussion
+4. Develop a collaborative agreement
+
+::: {.callout-tip}
+## Ready to Join?
+Email us at [partnership@cores-hub.io](mailto:camarades.berlin@charite.de) to start the conversation.
+:::
+
+
+

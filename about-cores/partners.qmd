@@ -1,8 +1,8 @@
 ---
-title: "partners"
+title: "Partners"
 format: html
+sidebar: Community
 ---
-
 
 Our partner institutes play a key role in facilitating the mission and vision of COReS; to build an open community that encourages and supports them in the integration of preclinical systematic review into the research pipeline.
 
@@ -10,7 +10,15 @@ Learn how to become an early-adopter institute in our dynamic research community
 
 Contact us to learn more about becoming a Partner Institute.
 
+::: callout-note
+[Read the COReS Partner Guide →](#){.btn .btn-secondary target="_blank"}
+:::
+
+
+
+
 See our COReS project partners below:
+
 ```{r echo=FALSE, message=FALSE}
 # Load the library.
 # install.packages("leaflet")
@@ -28,4 +36,3 @@ leaflet() %>%
   addMarkers(lng = 52.52078723416737, lat = 13.401858967786517, popup = paste0("Berlin Institute of Health @ Charité", "<hr>", "Contact: Dr. Alexandra Bannach-Brown"))
 
 ```
-

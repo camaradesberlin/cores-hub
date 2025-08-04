@@ -1,33 +1,30 @@
 ---
 title: "Perform Systematic Reviews"
 format: html
+sidebar: SR
 ---
-
 
 Want to start a systematic review? – Look no further, we’ve got you covered for resources and support!
 
 # Conduct
+
 ## Wiki on Systematic Review
 
 Our wiki resources on systematic review are designed to support you in conducting comprehensive and reliable reviews. You will find a wealth of information, including helpful references, to guide you through the process and ensure your reviews are thorough and well-informed.
 
 [Take me to the wiki →](http://www.camarades.de){target="_blank"}
 
-
-## Software for Systematic Review - SyRF 
+## Software for Systematic Review - SyRF
 
 Looking for a flexible systematic review software tailored for animal research? SyRF is your solution! SyRF streamlines the review process, saving you time and effort. Create your free account today.
 
-[Take me to SyRF ↗](http://www.syrf.org.uk){target="_blank"}
-For guidance on how to use the platform, tutorials, and step-by-step instructions, please see the extensive help guide.
+[Take me to SyRF ↗](http://www.syrf.org.uk){target="_blank"} For guidance on how to use the platform, tutorials, and step-by-step instructions, please see the extensive help guide.
 
 [How to Use SyRF ↗](https://help.syrf.org.uk/){target="_blank"}
 
-
-> **Got a question? – Ask at the next drop-in!**  
+> **Got a question? – Ask at the next drop-in!**
 >
 > [Join the drop-in session](https://www.bihealth.org/en/quest/service/service/systematic-review-methods-consultation-hour){target="_blank"}
-
 
 # Support
 
@@ -45,13 +42,11 @@ Need some personalised guidance and support? Book a one-to-one support meeting. 
 
 # Collaborate
 
-
 ## Find a collaborator for your next review
 
 Find collaborators and discuss your project on our community forum, Zulip. Make a free account and start chatting.
 
-[Take me to the discussion forum ↗](https://cores.zulipchat.com/)  
-
+[Take me to the discussion forum ↗](https://cores.zulipchat.com/)
 
 ## Meet new collaborators at weekly calls
 

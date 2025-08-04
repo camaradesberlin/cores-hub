@@ -14,23 +14,82 @@ website:
     right:
       - href: index.qmd
         text: Home
-      - about.qmd
-      - learn.qmd
-      - perform.qmd
-      - synthesis-ready.qmd
+      - text: "Community"
+        menu: 
+        - join.qmd
+        - text: "Become a Community Member"
+          file: about-cores/become-member.qmd
+        - text: "Using the Discussion Forum"
+          file: about-cores/using-zulip.qmd
+        - text: "Our Partners"
+          file: about-cores/partners.qmd
+        - text: "Become a Partner"
+          file: about-cores/become-partner.qmd
+        - about-cores/policies.qmd
+        - about-cores/code-of-conduct.qmd  
+        - href: https://cores.zulipchat.com/
+          text: To the Discussion Forum
+          icon: bi-box-arrow-up-right
+      - text: "Systematic Reviews"
+        menu: 
+        - learn.qmd
+        - perform.qmd
+      - text: "Synthesis-Ready Research"
+        menu: 
+          - synthesis-ready.qmd
+          - text: Design
+            href: synthesis/design.qmd
+          - text: Register
+            href: synthesis/preregister.qmd
+          - text: Disseminate
+            href: synthesis/disseminate.qmd
       - events.qmd
       - contact.qmd
-      - href: https://cores.zulipchat.com/
-        text: To the Discussion Forum
-        icon: bi-box-arrow-up-right
+
     tools:
       - href: https://linkedin.com/company/communities-for-open-research-synthesis 
         icon: linkedin
     pinned: true
+  sidebar: 
+    - title: "Community"
+      style: "docked"
+      contents:
+        - join.qmd
+        - text: "Become a Community Member"
+          file: about-cores/become-member.qmd
+        - text: "Using the Discussion Forum"
+          file: about-cores/using-zulip.qmd
+        - text: "Our Partners"
+          file: about-cores/partners.qmd
+        - text: "Become a Partner"
+          file: about-cores/become-partner.qmd
+        - about-cores/policies.qmd
+        - about-cores/code-of-conduct.qmd
+        - href: https://cores.zulipchat.com/
+          text: To the Discussion Forum
+          icon: bi-box-arrow-up-right
+
+    - title: "SR"
+      style: "docked"
+      contents:
+        - learn.qmd       
+        - perform.qmd     
+        
+    - title: "Synthesis-Ready"
+      style: "docked"
+      contents:
+        - synthesis-ready.qmd
+        - text: "Design Experiments"
+          file: synthesis/design.qmd
+        - text: "Register Experiments"
+          file: synthesis/preregister.qmd
+        - text: "Disseminate Primary Research"
+          file: synthesis/disseminate.qmd
+
+
   page-footer:
     left: "Project funded by [Volkswagen Stiftung](https://www.volkswagenstiftung.de/en/news/interview/quality-preclinical-research-networked-rather-alone)."
-    center: "We are a community. You can read about our [Equity, Diversity & Inclusion Policy](/equity-diversity-and-inclusion/).
-Read more about our [Code of Conduct](code-of-conduct/), which applies across our community platform, digital and in person events." 
+    center: "We are a community. You can read about our [Policies](/about-cores/policies.qmd) and [Code of Conduct](/about-cores/code-of-conduct/), which applies across our community platform, digital and in person events." 
     right: 
       - icon: linkedin 
         href: https://linkedin.com/company/communities-for-open-research-synthesis 
@@ -43,8 +102,9 @@ format:
     theme:
       - cosmo
       - brand
-    css: styles.css
+      - style.scss
     toc: true
+    page-layout: full
 
 
 

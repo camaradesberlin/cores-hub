@@ -1,0 +1,86 @@
+---
+title: "Become a Community Member"
+format: html
+sidebar: Community
+---
+
+# Join the COReS Community
+
+::: {.callout-note}
+This is a summary of our community membership. For detailed information, download our comprehensive [Community Guide (PDF)](#).
+:::
+
+## Our Vision
+COReS brings together diverse stakeholders to build a strong open research community around preclinical systematic review. We welcome contributions and perspectives from all interested parties to shape the future of preclinical research and translation.
+
+## Who Can Join?
+
+:::: {.grid}
+::: {.g-col-6}
+### Research Roles
+- Researchers (all levels)
+- Master and PhD students
+- Postdoctoral researchers
+- Principal Investigators
+- Research support staff
+:::
+
+::: {.g-col-6}
+### Specialist Roles
+- Systematic review methodologists
+- Librarians/Information specialists
+- Statisticians
+- Open Science officers
+- Lab managers
+:::
+::::
+
+## Benefits of Joining
+
+::: {.callout-tip}
+## Free Membership
+All community resources and discussions are freely accessible to members
+:::
+
+### Community Resources
+- Active discussion forum on Zulip
+- Regular newsletter updates
+- Access to training materials
+- Invitation to community events
+
+### Professional Development
+- Network with peers
+- Find collaboration partners
+- Access training opportunities
+- Join working groups
+
+## How to Get Involved
+
+1. **Join Our Discussion Forum**
+   - Sign up at [cores.zulipchat.com](https://cores.zulipchat.com)
+   - Follow our [Zulip quick start guide](/about-cores/using-zulip.qmd)
+
+2. **Stay Connected**
+   - Subscribe to our [newsletter](http://eepurl.com/h4hsMv)
+   - Follow our [events calendar](/events.qmd)
+   - Access our [e-learning platform](https://elearning.camarades.net/)
+
+3. **Participate**
+   - Introduce yourself in the community
+   - Join discussions
+   - Attend virtual or in-person events
+   - Engage in training opportunities
+
+## Community Guidelines
+All members must:
+- Follow our [Code of Conduct](/about-cores/code-of-conduct.qmd)
+- Adhere to our [EDI Policy](/about-cores/policies.qmd)
+- Contribute respectfully to discussions
+- Share knowledge and experiences
+
+::: {.callout-important}
+## Ready to Join?
+1. Sign up on our [Zulip forum](https://cores.zulipchat.com)
+2. Complete the new member introduction
+3. Start engaging with the community!
+:::
