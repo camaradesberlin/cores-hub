@@ -22,6 +22,11 @@ $callout-color-tip: #FFAF1A;
 $callout-color-note:#81007F;
 $callout-color-important:#0D65A4; 
 
+
+// The left hand sidebar
+$grid-sidebar-width: 300px !default;
+
+
 // Base document colors
 $navbar-bg: $dark-gray; // navbar
 $sidebar-bg: $light-gray; //sidebar

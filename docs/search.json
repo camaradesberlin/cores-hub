@@ -104,7 +104,7 @@
     "href": "join.html",
     "title": "Join COReS",
     "section": "",
-    "text": "Welcome to the COReS Community!\nBuilding a transparent, reproducible network around preclinical evidence synthesis.",
+    "text": "COReS (Communities for Open Research Synthesis) equips researchers to tackle the translational gap in biomedical research with systematic reviews of preclinical data.\n- Transparency & Reproducibility: Open methods, open data, open code\n- Collaboration: Shared learning, shared resources\n- Impact: Better-designed experiments, fewer failed translations\n\n\nJoin the Community →",
     "crumbs": [
       "COReS Community",
       "Join COReS"
@@ -114,8 +114,8 @@
     "objectID": "join.html#what-is-cores",
     "href": "join.html#what-is-cores",
     "title": "Join COReS",
-    "section": "What is COReS?",
-    "text": "What is COReS?\nCOReS (Communities for Open Research Synthesis) equips researchers to tackle the translational gap in biomedical research with systematic reviews of preclinical data.\n- Transparency & Reproducibility: Open methods, open data, open code\n- Collaboration: Shared learning, shared resources\n- Impact: Better-designed experiments, fewer failed translations\n\n\nJoin the Community →",
+    "section": "",
+    "text": "COReS (Communities for Open Research Synthesis) equips researchers to tackle the translational gap in biomedical research with systematic reviews of preclinical data.\n- Transparency & Reproducibility: Open methods, open data, open code\n- Collaboration: Shared learning, shared resources\n- Impact: Better-designed experiments, fewer failed translations\n\n\nJoin the Community →",
     "crumbs": [
       "COReS Community",
       "Join COReS"
@@ -126,7 +126,7 @@
     "href": "join.html#why-join",
     "title": "Join COReS",
     "section": "Why Join?",
-    "text": "Why Join?\n\n🔗 Connect📚 Learn🔄 Reproducible Research\n\n\n\nForge collaborations with students, PIs, and policy-makers\n\nParticipate in events, discussion threads, and special interest groups\n\nGrow your network across disciplines\n\n\n\n\nAccess educational resources on systematic reviews & meta-analysis\n\nTry interactive tutorials and quizzes at your own pace\n\nTap into expert office hours and webinars\n\n\n\n\nShare your protocols, data, and analysis scripts publicly\n\nGet feedback from peers to improve study design\n\nIncrease the rigor and impact of your preclinical research",
+    "text": "Why Join?\n\n🔗 Connect📚 Learn🔄 Reproducible Research\n\n\n\nForge collaborations with students, PIs, and policy-makers\n\nParticipate in events, discussion threads, and special interest groups\n\nGrow your network across disciplines\n\n\n\n\nAccess educational resources on systematic reviews & meta-analysis\n\nTry interactive tutorials and quizzes at your own pace\n\nTap into expert office hours and webinars\n\n\n\n\nBe inspired to share protocols, data, and analysis scripts publicly\n\nGet acces to tools to improve study design\n\nIncrease the rigor and impact of your preclinical research",
     "crumbs": [
       "COReS Community",
       "Join COReS"
@@ -144,11 +144,11 @@
     ]
   },
   {
-    "objectID": "join.html#we-love-that-our-community-keeps-on-growing",
-    "href": "join.html#we-love-that-our-community-keeps-on-growing",
+    "objectID": "join.html#get-started",
+    "href": "join.html#get-started",
     "title": "Join COReS",
-    "section": "We love that our community keeps on growing",
-    "text": "We love that our community keeps on growing\nIf you have a passion for evidence synthesis and preclinical animal research,join the COReS community discussion forum hosted on Zulip. By activiely engaging with others in the discussion forum, you will have the opportunity to identify collaboration partners and work with other researchers and synthesists who share your interests. Together, we can shape the future of translational research transparency.\nJoin us and let your voice be heard in the COReS community. We look forward to your valuable contributions!\n\n\nStart the Conversation on the Discussion Forum →",
+    "section": "Get Started",
+    "text": "Get Started\n\n\n\n\n\n\n\n\n New to COReS ?\n\n\n\nStart here to learn more.\n\n\n\n\n\n\n\n\n\n\n Want to Partner?\n\n\n\nLearn more here\n\n\n\n\n\n\n\n\n\n\n Join the Conversation!\n\n\n\nGo to Forum",
     "crumbs": [
       "COReS Community",
       "Join COReS"
@@ -191,7 +191,7 @@
     "href": "about-cores/using-zulip.html",
     "title": "Using the Discussion Forum",
     "section": "",
-    "text": "The COReS community uses Zulip for asynchronous discussions and community engagement. Zulip combines the best features of forum discussions and chat platforms.",
+    "text": "If you have a passion for evidence synthesis and preclinical animal research, join the COReS community discussion forum hosted on Zulip. By activiely engaging with others in the discussion forum, you will have the opportunity to identify collaboration partners and work with other researchers and synthesists who share your interests. Together, we can shape the future of translational research transparency.\nJoin us and let your voice be heard in the COReS community. We look forward to your valuable contributions!",
     "crumbs": [
       "Discussion Forum",
       "Using the Discussion Forum"
@@ -201,8 +201,8 @@
     "objectID": "about-cores/using-zulip.html#about-our-discussion-forum",
     "href": "about-cores/using-zulip.html#about-our-discussion-forum",
     "title": "Using the Discussion Forum",
-    "section": "",
-    "text": "The COReS community uses Zulip for asynchronous discussions and community engagement. Zulip combines the best features of forum discussions and chat platforms.",
+    "section": "About Our Discussion Forum",
+    "text": "About Our Discussion Forum\nThe COReS community uses Zulip for asynchronous discussions and community engagement. Zulip combines the best features of forum discussions and chat platforms.",
     "crumbs": [
       "Discussion Forum",
       "Using the Discussion Forum"
@@ -224,7 +224,7 @@
     "href": "about-cores/using-zulip.html#need-help",
     "title": "Using the Discussion Forum",
     "section": "Need Help?",
-    "text": "Need Help?\n\nCheck the Zulip documentation\nAsk in the #help stream\nContact our community managers",
+    "text": "Need Help?\n\nCheck the Zulip documentation\nAsk in the #help stream\nContact our community managers\n\n\n\nStart the Conversation on the Discussion Forum →",
     "crumbs": [
       "Discussion Forum",
       "Using the Discussion Forum"
@@ -246,7 +246,7 @@
     "href": "about-cores/become-partner.html",
     "title": "Become a Partner",
     "section": "",
-    "text": "Note\n\n\n\nThis is a summary of our partnership program. For detailed information, download our comprehensive Partner Guide (PDF).\n\n\n\n\nCOReS partners are key players in establishing a strong open research community around preclinical systematic review. They champion the integration of systematic reviews into the research pipeline and help shape the future of evidence synthesis.\n\n\n\n\nIndividual researchers\nResearch groups\nResearch institutes\nOrganizations experienced in systematic reviews\n\n\n\n\n\n\n\n\nShape evidence-based biomedical research\nLead systematic review integration\nInfluence research practices\n\n\n\n\n\nAccess to educational programs\nTraining materials\nCommunity discussion forum\nRegular field updates\n\n\n\n\n\n\n\nAdvocate for systematic reviews in your institution\nParticipate in community development\nSupport educational initiatives\nFollow our Code of Conduct\nAdhere to our EDI Policy\n\n\n\n\n\n\n\n\nInstitution\nContact\n\n\n\n\nCAMARADES Berlin, BIH at Charité\nDr. Alexandra Bannach-Brown\n\n\nRWTH Aachen\nDr. Julia Steitz\n\n\n3R Freiburg\nDr. Ralf Watzlawick\n\n\nUniversität Münster\nDr. Jens Minnerup\n\n\nUniversität Ulm\nDr. Sibylle Ott\n\n\nUniversität Leipzig\nDr. Beryl Eusemann\n\n\n\n\n\n\n\n\nReview our partnership criteria\nDownload our detailed Partner Guide (PDF)\nContact us to schedule an initial discussion\nDevelop a collaborative agreement\n\n\n\n\n\n\n\nReady to Join?\n\n\n\nEmail us at partnership@cores-hub.io to start the conversation.",
+    "text": "Note\n\n\n\nThis is a summary of our partnership program. For detailed information, download our comprehensive Partner Guide (PDF).\n\n\n\n\nCOReS partners are key players in establishing a strong open research community around preclinical systematic review. They champion the integration of systematic reviews into the research pipeline and help shape the future of evidence synthesis.\n\n\n\n\nIndividual researchers\nResearch groups\nResearch institutes\nOrganizations experienced in systematic reviews\n\n\n\n\n\n\n\n\nShape evidence-based biomedical research\nLead systematic review integration\nInfluence research practices\n\n\n\n\n\nAccess to educational programs\nTraining materials\nCommunity discussion forum\nRegular field updates\n\n\n\n\n\n\n\nAdvocate for systematic reviews in your institution\nParticipate in community development\nSupport educational initiatives\nFollow our Code of Conduct\nAdhere to our EDI Policy\n\n\n\n\n\n\n\n\nInstitution\nContact\n\n\n\n\nCAMARADES Berlin, BIH at Charité\nDr. Alexandra Bannach-Brown\n\n\nRWTH Aachen\nDr. Julia Steitz\n\n\n3R Freiburg\nDr. Ralf Watzlawick\n\n\nUniversität Münster\nDr. Jens Minnerup\n\n\nUniversität Ulm\nDr. Sibylle Ott\n\n\nUniversität Leipzig\nDr. Beryl Eusemann\n\n\n\n\n\n\n\n\nReview our partnership criteria\nDownload our detailed Partner Guide (PDF)\nContact us to schedule an initial discussion\nDevelop a collaborative agreement\n\n\n\n\n\n\n\nReady to Join?\n\n\n\nEmail us at camarades.berlin@charite.de to start the conversation.",
     "crumbs": [
       "Partners",
       "Become a Partner"
@@ -312,7 +312,7 @@
     "href": "about-cores/become-partner.html#next-steps",
     "title": "Become a Partner",
     "section": "",
-    "text": "Review our partnership criteria\nDownload our detailed Partner Guide (PDF)\nContact us to schedule an initial discussion\nDevelop a collaborative agreement\n\n\n\n\n\n\n\nReady to Join?\n\n\n\nEmail us at partnership@cores-hub.io to start the conversation.",
+    "text": "Review our partnership criteria\nDownload our detailed Partner Guide (PDF)\nContact us to schedule an initial discussion\nDevelop a collaborative agreement\n\n\n\n\n\n\n\nReady to Join?\n\n\n\nEmail us at camarades.berlin@charite.de to start the conversation.",
     "crumbs": [
       "Partners",
       "Become a Partner"

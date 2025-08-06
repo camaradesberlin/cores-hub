@@ -19,6 +19,9 @@ website:
         - join.qmd
         - text: "Become a Community Member"
           file: about-cores/become-member.qmd
+        - href: https://cores.zulipchat.com/
+          text: To the Discussion Forum
+          icon: bi-box-arrow-up-right
         - text: "Using the Discussion Forum"
           file: about-cores/using-zulip.qmd
         - text: "Our Partners"
@@ -27,9 +30,6 @@ website:
           file: about-cores/become-partner.qmd
         - about-cores/policies.qmd
         - about-cores/code-of-conduct.qmd  
-        - href: https://cores.zulipchat.com/
-          text: To the Discussion Forum
-          icon: bi-box-arrow-up-right
       - text: "Systematic Reviews"
         menu: 
         - learn.qmd

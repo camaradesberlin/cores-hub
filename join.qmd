@@ -4,9 +4,6 @@ format: html
 sidebar: Community
 ---
 
-**Welcome to the COReS Community!**\
-Building a transparent, reproducible network around preclinical evidence synthesis.
-
 ## What is COReS?
 
 COReS (Communities for Open Research Synthesis) equips researchers to tackle the translational gap in biomedical research with **systematic reviews** of preclinical data.\
@@ -38,8 +35,8 @@ COReS (Communities for Open Research Synthesis) equips researchers to tackle the
 
 ### 🔄 Reproducible Research {.tab}
 
--   Share your protocols, data, and analysis scripts publicly\
--   Get feedback from peers to improve study design\
+-   Be inspired to share protocols, data, and analysis scripts publicly\
+-   Get acces to tools to improve study design\
 -   Increase the rigor and impact of your preclinical research
 :::
 
@@ -54,17 +51,31 @@ COReS (Communities for Open Research Synthesis) equips researchers to tackle the
 | 🔬 **Researchers** | 💼 **Funders & Policy** |
 | Animal-model experts & lab managers. | Shaping research priorities and best practices. |
 
-## We love that our community keeps on growing  
-If you have a passion for evidence synthesis and preclinical animal research,join the COReS community discussion forum hosted on Zulip. By activiely engaging with others in the discussion forum, you will have the opportunity to identify collaboration partners and work with other researchers and synthesists who share your interests. Together, we can shape the future of translational research transparency. 
 
-Join us and let your voice be heard in the COReS community. We look forward to your valuable contributions! 
+## Get Started
 
-:::: {.text-center style="margin-top: 2em"}
-::: button
-[Start the Conversation on the Discussion Forum →](https://cores.zulipchat.com/){.btn .btn-primary .btn-lg target="_blank"}
+:::: {.grid}
+::: {.g-col-4}
+::: {.callout-tip icon=false}
+## {{< fa plus >}} New to COReS ?
+Start [here](about-cores/become-member.qmd) to learn more.
+:::
+:::
+
+::: {.g-col-4}
+::: {.callout-tip icon=false}
+## {{< fa handshake >}} Want to Partner? 
+Learn more [here](about-cores/become-partner.qmd)
+:::
+:::
+
+::: {.g-col-4}
+::: {.callout-tip icon=false}
+## {{< fa comments >}} Join the Conversation! 
+[Go to Forum](about-cores/using-zulip.qmd)
+:::
 :::
 ::::
-
 
 ## Code of Conduct
 
