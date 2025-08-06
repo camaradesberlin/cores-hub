@@ -90,15 +90,13 @@ During this intensive workshop, participants will delve into the practicalities 
 
 Want to learn at your own pace? Our eLearning modules let you master systematic reviews with interactive quizzes and exercises.
 
-::: callout-info
-**Start your self-paced journey**\
+**Start your self-paced journey**
+
 [Go to eLearning platform →](https://elearning.camarades.net/){.btn .btn-secondary target="_blank"}
-:::
+
 
 ## Need Log-in Support?
+We've prepared a short guide to help you make a free user and register for the systematic review course on the CAMARADES eLearning platform. 
 
-::: callout-note
 [How to log-in to Moodle →](https://google.com/){.btn .btn-secondary target="_blank"}
-:::
 
--\> [How to log-in to Moodle →](https://google.com/){target="_blank"}

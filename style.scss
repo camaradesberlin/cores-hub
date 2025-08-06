@@ -18,6 +18,9 @@ $dark-blue: #0D65A4;
 $purple: #81007F; 
 $yellow: #FFAF1A;
 
+$callout-color-tip: #FFAF1A;
+$callout-color-note:#81007F;
+$callout-color-important:#0D65A4; 
 
 // Base document colors
 $navbar-bg: $dark-gray; // navbar
@@ -79,9 +82,7 @@ a {
 }
 
 
-
-
-/* Add to your style.scss */
+/* grid for partner */
 .partner-grid {
   margin: 2em 0;
 }

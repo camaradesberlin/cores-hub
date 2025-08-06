@@ -23,7 +23,6 @@ listing:  #an example of listing external links
     - /people/a-amin-tariq.yml
     - /people/m-karmakar.yml    
     - /people/m-hassan.yml
-
 ---
 
 # Contact Details
@@ -32,16 +31,16 @@ Have inquiries or need support? Reach out to us through our contact channels. Wh
 
 Follow us on [LinkedIn](https://linkedin.com/company/communities-for-open-research-synthesis){target="_blank"}
 
-
 COReS is coordinated by [CAMARDES Berlin, BIH QUEST Center](https://www.bihealth.org/en/quest/service/service/camarades-facility-for-the-systematic-review-and-meta-analysis-1){target="_blank"}.
 
-For direct enquiries, please contact: [camarades.berlin@charite.de](mailto:camarades.berlin@charite.de)
-
-
+::: {.callout-note}
+## Get in touch!
+For direct enquiries, please contact: [camarades.berlin\@charite.de](mailto:camarades.berlin@charite.de)
+:::
 
 # Our Team
 
-We're focused on making COReS the best open community platform it can be. Is there something you absolutely like or would like us to change? Let us know!
+We're focused on making COReS the best open community platform it can be. Is there something you would like us to change? Let us know!
 
-:::{#lab-member}
+::: {#lab-member}
 :::

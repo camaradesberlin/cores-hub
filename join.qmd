@@ -16,7 +16,7 @@ COReS (Communities for Open Research Synthesis) equips researchers to tackle the
 
 :::: {.text-center style="margin-top: 1em"}
 ::: button
-[Join the Community →](https://cores.zulipchat.com/){.btn .btn-primary target="_blank"}
+[Join the Community →](/about-cores/become-member.qmd){.btn .btn-primary target="_blank"}
 :::
 ::::
 
@@ -70,9 +70,8 @@ Join us and let your voice be heard in the COReS community. We look forward to y
 
 Our community thrives on respect and inclusivity. Please review and help us improve:
 
-::: callout-note
-[Community Code of Conduct →](#){.btn .btn-secondary target="_blank"}
-:::
+
+[Community Code of Conduct →](/about-cores/code-of-conduct.qmd){.btn .btn-secondary target="_blank"}
 
 ---
 accordion:
@@ -85,13 +84,3 @@ filters:
 
 {{< accordion simple >}}
 
-
-
-
-## Our Parnters
-
-Our partner institutes play a key role in facilitating the mission and vision of COReS; to build an open community that encourages and supports them in the integration of preclinical systematic review into the research pipeline.
-
-Learn how to become an early-adopter institute in our dynamic research community project COReS. Gain access to insights on systematic review, gain curriculum to train the next generation of researchers, collaborate with leading experts, and shape the future of biomedical research in an evidence-based way.
-
-Contact us to learn more about becoming a [Partner Institute.](/about-cores/partners.qmd)

@@ -54,20 +54,32 @@ website:
     - title: "Community"
       style: "docked"
       contents:
+      - section: "COReS Community"
+        contents:      
         - join.qmd
         - text: "Become a Community Member"
           file: about-cores/become-member.qmd
+      - text: "---"
+      - section: "Discussion Forum"
+        contents:  
+        - href: https://cores.zulipchat.com/
+          text: To the Discussion Forum
+          icon: bi-box-arrow-up-right
         - text: "Using the Discussion Forum"
           file: about-cores/using-zulip.qmd
+      - text: "---"
+      - section: "Partners"
+        contents:  
         - text: "Our Partners"
           file: about-cores/partners.qmd
         - text: "Become a Partner"
           file: about-cores/become-partner.qmd
+      - text: "---"
+      - section: "Policies"
+        contents:  
         - about-cores/policies.qmd
         - about-cores/code-of-conduct.qmd
-        - href: https://cores.zulipchat.com/
-          text: To the Discussion Forum
-          icon: bi-box-arrow-up-right
+
 
     - title: "SR"
       style: "docked"
