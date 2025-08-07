@@ -4,9 +4,6 @@ format:
   html:
     toc: false
 ---
-
-![](/images/COReS-Logo-Basic.png#center){width=30% fig-align="center"}
-
 ::: hero-banner
 # Welcome to COReS
 
@@ -15,6 +12,7 @@ Communities for Open Research Synthesis (COReS) is building an open, collaborati
 [Join Our Community →](join.qmd){.btn .btn-primary}
 :::
 
+![](/images/COReS-Logo-Basic.png){width=30% fig-align="center"}
 
 ## Our Mission
 
