@@ -87,12 +87,26 @@ a {
 }
 
 
+.hero-banner {
+  padding: 1em 0;
+  text-align: center;
+}
+
+.featured-resources {
+  background: #f8f9fa;
+  padding: 1.5rem;
+  border-radius: 8px;
+  margin: 2rem 0;
+}
+
+
 /* grid for partner */
 .partner-grid {
-  margin: 2em 0;
+  margin: 1em 0;
 }
 
 .grid {
-  margin: 2em 0;
+  margin: 1em 0;
 }
+
 /*-- scss:defaults --*/

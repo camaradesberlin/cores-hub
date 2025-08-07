@@ -49,6 +49,10 @@ website:
     tools:
       - href: https://linkedin.com/company/communities-for-open-research-synthesis 
         icon: linkedin
+        target: _blank
+      - href: https://camarades.us17.list-manage.com/subscribe?u=f0edb12e4958380a0247fc589&id=8befbe2fcc
+        icon: newspaper
+        target: _blank
     pinned: true
   sidebar: 
     - title: "Community"
@@ -105,7 +109,13 @@ website:
     right: 
       - icon: linkedin 
         href: https://linkedin.com/company/communities-for-open-research-synthesis 
-  reader-mode: true
+      - href: https://camarades.us17.list-manage.com/subscribe?u=f0edb12e4958380a0247fc589&id=8befbe2fcc
+        icon: newspaper
+        target: _blank
+      - icon: envelope-at-fill
+        href: mailto:camarades.berlin@charite.de
+        target: _blank
+  reader-mode: false
   search: true
 
 

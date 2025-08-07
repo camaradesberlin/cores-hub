@@ -4,10 +4,13 @@ format: html
 sidebar: SR
 ---
 
-A **systematic review** is a rigorous method for summarising all available studies on a research question.\
-- Supports evidence-based decisions by providing an unbiased assessment of all available data\
-- Identifies effective interventions in translational biomedicine\
-- Provides an unbiased, data-driven overview of the literature
+A **systematic review** is a rigorous method for summarising all available studies on a research question:
+
+-   Supports evidence-based decisions by providing an unbiased assessment of all available data
+
+-   Identifies effective interventions in translational biomedicine
+
+-   Provides an unbiased, data-driven overview of the literature
 
 Want to learn more about systematic review? Check out our resources below!
 
@@ -94,9 +97,8 @@ Want to learn at your own pace? Our eLearning modules let you master systematic 
 
 [Go to eLearning platform →](https://elearning.camarades.net/){.btn .btn-secondary target="_blank"}
 
-
 ## Need Log-in Support?
-We've prepared a short guide to help you make a free user and register for the systematic review course on the CAMARADES eLearning platform. 
+
+We've prepared a short guide to help you make a free user and register for the systematic review course on the CAMARADES eLearning platform.
 
 [How to log-in to Moodle →](https://google.com/){.btn .btn-secondary target="_blank"}
-

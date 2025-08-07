@@ -38,6 +38,9 @@ COReS is coordinated by [CAMARDES Berlin, BIH QUEST Center](https://www.bihealth
 For direct enquiries, please contact: [camarades.berlin\@charite.de](mailto:camarades.berlin@charite.de)
 :::
 
+
+[Newsletter Signup](http://eepurl.com/h4hsMv){.btn .btn-secondary}
+
 # Our Team
 
 We're focused on making COReS the best open community platform it can be. Is there something you would like us to change? Let us know!

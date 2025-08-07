@@ -1,35 +1,104 @@
 ---
 title: "Communities for Open Research Synthesis"
+format: 
+  html:
+    toc: false
 ---
 
-## Synthesise research for novel insights
+![](/images/COReS-Logo-Basic.png#center){width=30% fig-align="center"}
 
-Join the community to improve the quality and value of preclinical research in biomedicine.
+::: hero-banner
+# Welcome to COReS
 
-[Learn More](/what-is-cores/)
+Communities for Open Research Synthesis (COReS) is building an open, collaborative community around preclinical systematic reviews. We provide free resources, training, and support to advance evidence synthesis in biomedical research.
 
-![](/images/COReS-Logo-Basic.png)
+[Join Our Community →](join.qmd){.btn .btn-primary}
+:::
 
-# COReS – building community around preclinical evidence
 
-> Bringing together primary researchers and evidence synthesists to form communities and providing infrastructure and support systems to empower the community in the performance of systematic reviews in a collaborative manner.
+## Our Mission
 
-------------------------------------------------------------------------
+:::::: grid
+::: g-col-4
+### 🎓 Learn
 
-## Disseminate
+Free training and resources for systematic reviews and meta-analysis
 
-Disseminating research transparently promotes knowledge exchange and quality research.
+-   [Training & Courses](learn.qmd)
 
-[Resources for open dissemination](/disseminate/) →
+-   [Practical Guides](perform.qmd#conduct)
 
-## Synthesise
+:::
 
-Synthesising research involves integrating diverse studies to provide comprehensive insights and informed conclusions.
+::: g-col-4
+### 🔍 Synthesise
 
-[Synthesis resources](/synthesise/) →
+Tools and support for conducting systematic reviews
 
-## Design
+-   [How to Get Started](perform.qmd#conduct)
 
-Designing quality animal experiments requires ethical consideration, scientific rigor, and animal welfare.
+-   [Tailored Support](perform.qmd#support)
+:::
 
-[Quality design resources](/design/) →
+::: g-col-4
+### 🤝 Connect
+
+Join our active research community
+
+-   [Discussion Forum](about-cores/using-zulip.qmd)
+
+-   [Upcoming Events](events.qmd)
+
+-   [Partner with Us](about-cores/become-partner.qmd)
+:::
+::::::
+
+## Latest Resources
+
+::: featured-resources
+-   [🆕 Register for our next workshop](events.qmd)
+-   [📚 Access free training materials](learn.qmd)
+-   [💡 Make your research synthesis-ready](synthesis-ready.qmd)
+:::
+
+## Why Join COReS?
+
+::::: grid
+::: g-col-6
+### For Researchers
+
+-   Free training and resources
+-   Expert community support
+-   Collaboration opportunities
+-   Latest tools and methods
+:::
+
+::: g-col-6
+### For Organisations
+
+-   Partnership opportunities
+-   Joint initiatives
+-   Training programs
+-   Community leadership
+:::
+:::::
+
+
+
+## Our Partners
+
+Our partner institutes play a key role in facilitating the mission and vision of COReS. 
+
+[View our partner institutions →](about-cores/partners.qmd)
+
+
+
+
+
+::: callout-note
+## Get Started with COReS Today
+
+1.  [Join our community](join.qmd)
+2.  [Access free resources](learn.qmd)
+3.  [Connect with peers](about-cores/using-zulip.qmd)
+:::

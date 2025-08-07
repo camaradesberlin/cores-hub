@@ -27,12 +27,12 @@ library(leaflet)
 # Make a map
 leaflet() %>%
   addTiles() %>% # Add default OpenStreetMap map tiles
-  setView(lng = 51.165691, lat = 10.451526, zoom = 5) %>% 
-  addMarkers(lng = 51.3386810114496, lat = 12.37844003887091, popup = paste0("Universität Leipzig", "<hr>", "Contact: Dr. Beryl Eusemann"))%>%
-  addMarkers(lng = 48.423310676152695, lat = 9.953364898842347, popup = paste0("Universität Ulm", "<hr>", "Contact: Dr. Sybille Ott"))%>% 
-  addMarkers(lng = 51.963369197568824, lat = 7.6135796542558065, popup = paste0("Universität Muenster", "<hr>", "Contact: Dr. Jens Minnerup"))%>% 
-  addMarkers(lng = 48.00619639033875, lat = 7.8356299963250695, popup = paste0("Uniklinikum Freiburg", "<hr>", "Contact: Dr. Ralf Watzlawick"))%>% 
-  addMarkers(lng = 50.77544790122878, lat = 6.043060711847663, popup = paste0("RWTH Aachen", "<hr>", "Contact: Dr. Julia Steitz" ))%>%
-  addMarkers(lng = 52.52078723416737, lat = 13.401858967786517, popup = paste0("Berlin Institute of Health @ Charité", "<hr>", "Contact: Dr. Alexandra Bannach-Brown"))
+  setView(lng = 10.451526, lat =  51.165691, zoom = 5) %>% 
+  addMarkers(lng = 12.37844003887091, lat =  51.3386810114496, popup = paste0("Universität Leipzig", "<hr>", "Contact: Dr. Beryl Eusemann"))%>%
+  addMarkers(lng = 9.953364898842347 , lat = 48.423310676152695, popup = paste0("Universität Ulm", "<hr>", "Contact: Dr. Sybille Ott"))%>% 
+  addMarkers(lng = 7.6135796542558065 , lat =  51.963369197568824, popup = paste0("Universität Muenster", "<hr>", "Contact: Dr. Jens Minnerup"))%>% 
+  addMarkers(lng = 7.8356299963250695 , lat =  48.00619639033875, popup = paste0("Uniklinikum Freiburg", "<hr>", "Contact: Dr. Ralf Watzlawick"))%>% 
+  addMarkers(lng = 6.043060711847663, lat =  50.77544790122878, popup = paste0("RWTH Aachen", "<hr>", "Contact: Dr. Julia Steitz" ))%>%
+  addMarkers(lng = 13.401858967786517 , lat =  52.52078723416737, popup = paste0("Berlin Institute of Health @ Charité", "<hr>", "Contact: Dr. Alexandra Bannach-Brown"))
 
 ```

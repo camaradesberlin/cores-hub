@@ -6,10 +6,14 @@ sidebar: Community
 
 ## What is COReS?
 
-COReS (Communities for Open Research Synthesis) equips researchers to tackle the translational gap in biomedical research with **systematic reviews** of preclinical data.\
-- **Transparency & Reproducibility:** Open methods, open data, open code\
-- **Collaboration:** Shared learning, shared resources\
+COReS (Communities for Open Research Synthesis) equips researchers to tackle the translational gap in biomedical research with systematic reviews of preclinical data.
+
+- **Transparency & Reproducibility:** Open methods, open data, open code
+
+- **Collaboration:** Shared learning, shared resources
+
 - **Impact:** Better-designed experiments, fewer failed translations
+
 
 :::: {.text-center style="margin-top: 1em"}
 ::: button
