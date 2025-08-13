@@ -25,11 +25,8 @@ listing:  #an example of listing external links
     - /people/m-hassan.yml
 ---
 
-# Contact Details
 
 Have inquiries or need support? Reach out to us through our contact channels. Whether you’re seeking general information, need assistance, or want to explore partnership opportunities, we’re here to help.
-
-Follow us on [LinkedIn](https://linkedin.com/company/communities-for-open-research-synthesis){target="_blank"}
 
 COReS is coordinated by [CAMARDES Berlin, BIH QUEST Center](https://www.bihealth.org/en/quest/service/service/camarades-facility-for-the-systematic-review-and-meta-analysis-1){target="_blank"}.
 
@@ -39,9 +36,9 @@ For direct enquiries, please contact: [camarades.berlin\@charite.de](mailto:cama
 :::
 
 
-[Newsletter Signup](http://eepurl.com/h4hsMv){.btn .btn-secondary}
+[Newsletter Signup](http://eepurl.com/h4hsMv){.btn .btn-secondary target="_blank"}
 
-[LinkedIn](https://linkedin.com/company/communities-for-open-research-synthesis){.btn .btn-secondary}
+[Follow us on LinkedIn](https://linkedin.com/company/communities-for-open-research-synthesis){.btn .btn-secondary target="_blank"}
 
 # Our Team
 

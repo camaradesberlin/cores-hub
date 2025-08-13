@@ -93,10 +93,8 @@ a {
 }
 
 .featured-resources {
-  background: #f8f9fa;
+  background: $light-gray;
   padding: 1rem;
-  border-radius: 8px;
-  margin: 1.5rem 0;
 }
 
 
@@ -109,4 +107,7 @@ a {
   margin: 1em 0;
 }
 
+.navbar-logo {
+  max-height: 50px;
+}
 /*-- scss:defaults --*/
