@@ -88,14 +88,5 @@ Our community thrives on respect and inclusivity. Please review and help us impr
 
 [Community Code of Conduct →](/about-cores/code-of-conduct.qmd){.btn .btn-secondary target="_blank"}
 
----
-accordion:
-  - simple:
-    - header: Click here to view contents
-      body: This is the body content
-filters:
-  - accordion
----
 
-{{< accordion simple >}}
 

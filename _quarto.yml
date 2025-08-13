@@ -17,6 +17,8 @@ website:
       - text: "Community"
         menu: 
         - join.qmd
+        - text: "What is COReS?"
+          file: about-cores/what-is-cores.qmd
         - text: "Become a Community Member"
           file: about-cores/become-member.qmd
         - href: https://cores.zulipchat.com/
@@ -61,6 +63,8 @@ website:
       - section: "COReS Community"
         contents:      
         - join.qmd
+        - text: "What is COReS?"
+          file: about-cores/what-is-cores.qmd
         - text: "Become a Community Member"
           file: about-cores/become-member.qmd
       - text: "---"

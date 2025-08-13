@@ -1,0 +1,43 @@
+---
+title: "What is COReS?"
+format: html
+sidebar: Community
+---
+
+## Introduction
+
+At **COReS**, we believe in transparency, reproducibility, and the power of the community.  
+
+Translational failure — where promising results from preclinical studies fail to show benefit in clinical practice — is a significant challenge in biomedical research. Systematic reviews of preclinical data, a robust method of evidence synthesis, offer a critical tool to uncover factors contributing to this translational gap. Armed with these insights, researchers can design studies of high translational value.  
+
+Through transparent and reproducible research practices, **COReS** not only addresses this gap but also provides a platform for learning and networking.
+
+With your active participation, and the value of reproducible and open data, we can improve the quality of preclinical (animal) research together to improve translational success.  
+
+---
+
+## Our Vision
+
+Engaging with people and building communities has been vital to successful open science initiatives.  
+That is why we created **COReS — Communities for Open Research Synthesis**, with a **vision** for it to become a strong open research community bringing together primary researchers and synthesists in the field of biomedical research.  
+
+At COReS, we want to raise awareness of the importance of preclinical systematic reviews for good science. By providing a comprehensive educational strategy focusing on evidence synthesis and preclinical animal research, we equip researchers with the right skillset and impetus to plan and conduct their own systematic review projects collaboratively.
+
+
+## Our Mission
+
+Our **mission** is to connect researchers in the preclinical space through an open community that encourages and supports them in the integration of preclinical systematic review into the research pipeline.  
+
+The **COReS** community is supported by:  
+
+- Comprehensive educational resources on preclinical systematic review  
+- Open access infrastructure  
+- Open source software  
+
+---
+
+*Together, we can bridge the translational gap and advance the quality and impact of biomedical research.*
+
+---
+The COReS Communities for Open Research Synthesis project is funded by Volkswagen Stiftung under the "Pioniervorhaben: Impulse für das Wissenschaftssystem" call. 
+For more information, please read the following article on the [VW Stiftung's website.](https://www.volkswagenstiftung.de/en/news/interview/quality-preclinical-research-networked-rather-alone){target="_blank"} 
