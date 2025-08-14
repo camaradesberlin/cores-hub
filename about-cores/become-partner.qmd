@@ -4,9 +4,9 @@ format: html
 sidebar: Community
 ---
 
-# Become a COReS Partner
 
-::: {.callout-note}
+::: {.callout-tip icon=false}
+## {{< fa file-circle-plus >}} Partner Guide
 This is a summary of our partnership program. For detailed information, download our comprehensive [Partner Guide (PDF)](#).
 :::
 
@@ -23,14 +23,14 @@ COReS partners are key players in establishing a strong open research community 
 
 :::: {.grid}
 ::: {.g-col-6}
-### Community Leadership
+### 🤝 Community Leadership
 - Shape evidence-based biomedical research
 - Lead systematic review integration
 - Influence research practices
 :::
 
 ::: {.g-col-6}
-### Resources & Support
+### 📚 Resources & Support
 - Access to educational programs
 - Training materials
 - Community discussion forum
@@ -49,22 +49,21 @@ COReS partners are key players in establishing a strong open research community 
 ::: {.partner-grid}
 | Institution | Contact |
 |------------|----------|
-| CAMARADES Berlin, BIH at Charité | Dr. Alexandra Bannach-Brown |
-| RWTH Aachen | Dr. Julia Steitz |
-| 3R Freiburg | Dr. Ralf Watzlawick |
-| Universität Münster | Dr. Jens Minnerup |
-| Universität Ulm | Dr. Sibylle Ott |
-| Universität Leipzig | Dr. Beryl Eusemann |
+| {{< fa arrow-up-right-from-square >}} [CAMARADES Berlin, BIH at Charité](https://www.bihealth.org/en/quest/service/service/camarades-facility-for-the-systematic-review-and-meta-analysis-1){target="_blank"} | Dr. Alexandra Bannach-Brown |
+| {{< fa arrow-up-right-from-square >}} [RWTH Aachen](https://rwthcontacts.rwth-aachen.de/organization/ORG-39YHX){target="_blank"} | Dr. Julia Steitz |
+| {{< fa arrow-up-right-from-square >}} [3R Freiburg](https://www.3rfreiburg.de/en){target="_blank"} | Dr. Ralf Watzlawick |
+| {{< fa arrow-up-right-from-square >}} [Universität Münster](https://www.medizin.uni-muenster.de/neurologie/forschung/arbeitsgruppe-minnerup.html){target="_blank"} | Dr. Jens Minnerup |
+| {{< fa arrow-up-right-from-square >}} [Universität Ulm](https://www.uni-ulm.de/einrichtungen/tfz/){target="_blank"} | Dr. Sibylle Ott |
+| {{< fa arrow-up-right-from-square >}} [Universität Leipzig](https://www.vetmed.uni-leipzig.de/institut-fuer-tierhygiene-und-oeffentliches-veterinaerwesen){target="_blank"} | Dr. Beryl Eusemann |
 :::
 
 ## Next Steps
-1. Review our partnership criteria
-2. [Download our detailed Partner Guide (PDF)](#)
-3. [Contact us](mailto:camarades.berlin@charite.de) to schedule an initial discussion
-4. Develop a collaborative agreement
+1. [Review our partnership criteria in the detailed Partner Guide (PDF)](#)
+2. [Contact us](mailto:camarades.berlin@charite.de) to schedule an initial discussion
+3. Develop a collaborative agreement
 
-::: {.callout-tip}
-## Ready to Join?
+::: {.callout-tip icon=false}
+## {{< fa circle-plus >}} Ready to Join?
 Email us at [camarades.berlin@charite.de](mailto:camarades.berlin@charite.de) to start the conversation.
 :::
 

@@ -16,20 +16,23 @@ website:
         text: Home
       - text: "Community"
         menu: 
-        - join.qmd
+        - guide-cores.qmd
         - text: "What is COReS?"
           file: about-cores/what-is-cores.qmd
         - text: "Join the COReS Community"
           file: about-cores/become-member.qmd
+        - text: "---"
+        - text: "Using the Discussion Forum"
+          file: about-cores/using-zulip.qmd
         - href: https://cores.zulipchat.com/
           text: To the Discussion Forum
           icon: bi-box-arrow-up-right
-        - text: "Using the Discussion Forum"
-          file: about-cores/using-zulip.qmd
+        - text: "---"
         - text: "Our Partners"
           file: about-cores/partners.qmd
         - text: "Become a Partner"
           file: about-cores/become-partner.qmd
+        - text: "---"
         - about-cores/policies.qmd
         - about-cores/code-of-conduct.qmd  
       - text: "Systematic Reviews"
@@ -62,7 +65,7 @@ website:
       contents:
       - section: "COReS Community"
         contents:      
-        - join.qmd
+        - guide-cores.qmd
         - text: "What is COReS?"
           file: about-cores/what-is-cores.qmd
         - text: "Join the COReS Community"
@@ -70,11 +73,11 @@ website:
       - text: "---"
       - section: "Discussion Forum"
         contents:  
+        - text: "Using the Discussion Forum"
+          file: about-cores/using-zulip.qmd
         - href: https://cores.zulipchat.com/
           text: To the Discussion Forum
           icon: bi-box-arrow-up-right
-        - text: "Using the Discussion Forum"
-          file: about-cores/using-zulip.qmd
       - text: "---"
       - section: "Partners"
         contents:  
