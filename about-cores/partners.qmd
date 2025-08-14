@@ -8,10 +8,11 @@ Our partner institutes play a key role in facilitating the mission and vision of
 
 Learn how to become an early-adopter institute in our dynamic research community project COReS. Gain access to insights on systematic review, gain curriculum to train the next generation of researchers, collaborate with leading experts, and shape the future of biomedical research in an evidence-based way.
 
-Contact us to learn more about becoming a Partner Institute.
 
-::: callout-note
-[Read the COReS Partner Guide →](#){.btn .btn-secondary target="_blank"}
+::: {.callout-tip icon=false} 
+## {{< fa circle-info >}} Learn more about becoming a Partner
+For more information on partner benefits and collaborative opportunities: 
+[Read the COReS Partner Guide →](/about-cores/become-partner.qmd){.btn .btn-secondary}
 :::
 
 

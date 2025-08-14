@@ -1,10 +1,8 @@
 ---
-title: "Join COReS"
+title: "Your Guide to COReS"
 format: html
 sidebar: Community
 ---
-
-## What is COReS?
 
 COReS (Communities for Open Research Synthesis) equips researchers to tackle the translational gap in biomedical research with systematic reviews of preclinical data.
 
@@ -14,12 +12,9 @@ COReS (Communities for Open Research Synthesis) equips researchers to tackle the
 
 - **Impact:** Better-designed experiments, fewer failed translations
 
+To find out more about the COReS project, read our full mission & vision statememt [here.](/about-cores/what-is-cores.qmd)
 
-:::: {.text-center style="margin-top: 1em"}
-::: button
-[Join the Community →](/about-cores/become-member.qmd){.btn .btn-primary target="_blank"}
-:::
-::::
+
 
 
 ## Why Join?
@@ -55,6 +50,14 @@ COReS (Communities for Open Research Synthesis) equips researchers to tackle the
 | 🔬 **Researchers** | 💼 **Funders & Policy** |
 | Animal-model experts & lab managers. | Shaping research priorities and best practices. |
 
+## Creating an inclusive environment
+
+::: {.callout-note icon=false}
+## {{< fa hand-holding-hand >}} Code of Conduct
+Our community thrives on respect and inclusivity. Please adhere to the code of conduct at all COReS events and workshops, including online spaces. Please review and help us improve it by adding your comments, its a living document by and for our community. 
+
+[Review Code of Conduct →](/about-cores/code-of-conduct.qmd){.btn .btn-primary target="_blank"}
+:::
 
 ## Get Started
 
@@ -62,31 +65,33 @@ COReS (Communities for Open Research Synthesis) equips researchers to tackle the
 ::: {.g-col-4}
 ::: {.callout-tip icon=false}
 ## {{< fa plus >}} New to COReS ?
-Start [here](about-cores/become-member.qmd) to learn more.
+Don't know where to get started with the COReS community? 
+[Join the Community →](/about-cores/become-member.qmd){.btn .btn-secondary target="_blank"}
 :::
 :::
 
 ::: {.g-col-4}
 ::: {.callout-tip icon=false}
 ## {{< fa handshake >}} Want to Partner? 
-Learn more [here](about-cores/become-partner.qmd)
+What does being a COReS partner mean? Read our full guide. 
+[Learn more →](/about-cores/become-partner.qmd){.btn .btn-secondary target="_blank"}
 :::
 :::
 
 ::: {.g-col-4}
 ::: {.callout-tip icon=false}
 ## {{< fa comments >}} Join the Conversation! 
-[Go to Forum](about-cores/using-zulip.qmd)
+Our community discussion forum is an active exchange of ideas! 
+[Learn about the Forum →](about-cores/using-zulip.qmd){.btn .btn-secondary target="_blank"}
 :::
 :::
 ::::
 
-## Code of Conduct
-
-Our community thrives on respect and inclusivity. Please review and help us improve:
-
-
-[Community Code of Conduct →](/about-cores/code-of-conduct.qmd){.btn .btn-secondary target="_blank"}
 
 
 
+:::: {.text-center style="margin-top: 1em"}
+::: button
+
+:::
+::::

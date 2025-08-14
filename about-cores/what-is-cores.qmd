@@ -14,7 +14,6 @@ Through transparent and reproducible research practices, **COReS** not only addr
 
 With your active participation, and the value of reproducible and open data, we can improve the quality of preclinical (animal) research together to improve translational success.  
 
----
 
 ## Our Vision
 

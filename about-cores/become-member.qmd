@@ -1,86 +1,102 @@
 ---
-title: "Become a Community Member"
+title: "Join the COReS Community"
 format: html
 sidebar: Community
 ---
 
-# Join the COReS Community
-
-::: {.callout-note}
+::: {.callout-tip icon=false}
+## {{< fa file-circle-plus >}} Community Guide
 This is a summary of our community membership. For detailed information, download our comprehensive [Community Guide (PDF)](#).
 :::
 
 ## Our Vision
+
 COReS brings together diverse stakeholders to build a strong open research community around preclinical systematic review. We welcome contributions and perspectives from all interested parties to shape the future of preclinical research and translation.
 
 ## Who Can Join?
+We welcome all interested in evidence synthesis and improving preclinical animal research.
 
-:::: {.grid}
-::: {.g-col-6}
-### Research Roles
-- Researchers (all levels)
-- Master and PhD students
-- Postdoctoral researchers
-- Principal Investigators
-- Research support staff
+::::: grid
+::: g-col-6
+### 🔬 Research Roles
+
+-   Researchers (all levels)
+-   Master and PhD students
+-   Postdoctoral researchers
+-   Principal Investigators
+-   Research support staff
 :::
 
-::: {.g-col-6}
-### Specialist Roles
-- Systematic review methodologists
-- Librarians/Information specialists
-- Statisticians
-- Open Science officers
-- Lab managers
+::: g-col-6
+### 📊 Specialist Roles
+
+-   Systematic review methodologists
+-   Librarians/Information specialists
+-   Statisticians
+-   Open Science officers
+-   Lab managers
 :::
-::::
+:::::
 
 ## Benefits of Joining
 
-::: {.callout-tip}
-## Free Membership
-All community resources and discussions are freely accessible to members
+::: {.callout-note icon=false}
+## {{< fa circle-info >}} Open Community
+
+All  resources and discussions are freely accessible to the community.
 :::
 
-### Community Resources
-- Active discussion forum on Zulip
-- Regular newsletter updates
-- Access to training materials
-- Invitation to community events
+::::: grid
+::: g-col-6
+### 🤝 Community Resources
 
-### Professional Development
-- Network with peers
-- Find collaboration partners
-- Access training opportunities
-- Join working groups
+-   Active discussion forum on Zulip
+-   Regular newsletter updates
+-   Access to training materials
+-   Invitation to community events
+:::
+
+::: g-col-6
+### 📚 Professional Development
+
+-   Network with peers
+-   Find collaboration partners
+-   Access training opportunities
+-   Join working groups
+:::
+:::::
+
 
 ## How to Get Involved
 
-1. **Join Our Discussion Forum**
-   - Sign up at [cores.zulipchat.com](https://cores.zulipchat.com)
-   - Follow our [Zulip quick start guide](/about-cores/using-zulip.qmd)
-
-2. **Stay Connected**
-   - Subscribe to our [newsletter](http://eepurl.com/h4hsMv)
-   - Follow our [events calendar](/events.qmd)
-   - Access our [e-learning platform](https://elearning.camarades.net/)
-
-3. **Participate**
-   - Introduce yourself in the community
-   - Join discussions
-   - Attend virtual or in-person events
-   - Engage in training opportunities
+1.  **Join Our Discussion Forum**
+    -   Sign up at [cores.zulipchat.com](https://cores.zulipchat.com)
+    -   Follow our [Zulip quick start guide](/about-cores/using-zulip.qmd)
+2.  **Stay Connected**
+    -   Subscribe to our [newsletter](http://eepurl.com/h4hsMv){target="_blank"}
+    -   Follow our [events calendar](/events.qmd)
+    -   Connect with us on [LinkedIn](https://linkedin.com/company/communities-for-open-research-synthesis){target="_blank"}
+    -   Access our [e-learning platform](https://elearning.camarades.net/){target="_blank"}
+    
+3.  **Participate**
+    -   Introduce yourself in the community
+    -   Join discussions
+    -   Attend virtual or in-person events
+    -   Engage in training opportunities
 
 ## Community Guidelines
-All members must:
-- Follow our [Code of Conduct](/about-cores/code-of-conduct.qmd)
-- Adhere to our [EDI Policy](/about-cores/policies.qmd)
-- Contribute respectfully to discussions
-- Share knowledge and experiences
 
-::: {.callout-important}
-## Ready to Join?
-1. Sign up on our [Zulip forum](https://cores.zulipchat.com)
-2. Complete the new member introduction
-3. Start engaging with the community!
+All members must:
+
+-   Follow our [Code of Conduct](/about-cores/code-of-conduct.qmd)
+-   Adhere to our [EDI Policy](/about-cores/policies.qmd)
+-   Contribute respectfully to discussions
+-   Share knowledge and experiences
+
+::: {.callout-tip icon=false}
+## {{< fa circle-plus >}} Ready to Join?
+
+1.  Sign up on our [Zulip forum](https://cores.zulipchat.com){target="_blank"}
+2.  Complete the new member introduction
+3.  Start engaging with the community!
 :::

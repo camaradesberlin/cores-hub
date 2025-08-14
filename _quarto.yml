@@ -19,7 +19,7 @@ website:
         - join.qmd
         - text: "What is COReS?"
           file: about-cores/what-is-cores.qmd
-        - text: "Become a Community Member"
+        - text: "Join the COReS Community"
           file: about-cores/become-member.qmd
         - href: https://cores.zulipchat.com/
           text: To the Discussion Forum
@@ -65,7 +65,7 @@ website:
         - join.qmd
         - text: "What is COReS?"
           file: about-cores/what-is-cores.qmd
-        - text: "Become a Community Member"
+        - text: "Join the COReS Community"
           file: about-cores/become-member.qmd
       - text: "---"
       - section: "Discussion Forum"
