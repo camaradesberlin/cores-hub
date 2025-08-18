@@ -70,13 +70,13 @@ All  resources and discussions are freely accessible to the community.
 ## How to Get Involved
 
 1.  **Join Our Discussion Forum**
-    -   Sign up at [cores.zulipchat.com](https://cores.zulipchat.com)
+    -   Sign up at [cores.zulipchat.com {{< fa arrow-up-right-from-square >}}](https://cores.zulipchat.com)
     -   Follow our [Zulip quick start guide](/about-cores/using-zulip.qmd)
 2.  **Stay Connected**
-    -   Subscribe to our [newsletter](http://eepurl.com/h4hsMv){target="_blank"}
+    -   Subscribe to our [newsletter {{< fa arrow-up-right-from-square >}}](http://eepurl.com/h4hsMv){target="_blank"}
     -   Follow our [events calendar](/events.qmd)
-    -   Connect with us on [LinkedIn](https://linkedin.com/company/communities-for-open-research-synthesis){target="_blank"}
-    -   Access our [e-learning platform](https://elearning.camarades.net/){target="_blank"}
+    -   Connect with us on [LinkedIn {{< fa arrow-up-right-from-square >}}](https://linkedin.com/company/communities-for-open-research-synthesis){target="_blank"}
+    -   Access our [e-learning platform {{< fa arrow-up-right-from-square >}}](https://elearning.camarades.net/){target="_blank"}
     
 3.  **Participate**
     -   Introduce yourself in the community
@@ -96,7 +96,7 @@ All members must:
 ::: {.callout-tip icon=false}
 ## {{< fa circle-plus >}} Ready to Join?
 
-1.  Sign up on our [Zulip forum](https://cores.zulipchat.com){target="_blank"}
+1.  Sign up on our [Zulip forum {{< fa arrow-up-right-from-square >}}](https://cores.zulipchat.com){target="_blank"}
 2.  Complete the new member introduction
 3.  Start engaging with the community!
 :::

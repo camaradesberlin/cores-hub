@@ -20,7 +20,7 @@ Join us and let your voice be heard in the COReS community. We look forward to y
 ## Getting Started
 
 1. **Join the Forum**
-   - Visit [cores.zulipchat.com](https://cores.zulipchat.com)
+   - Visit [cores.zulipchat.com](https://cores.zulipchat.com){target="_blank"}
    - Create an account using your institutional email
 
 2. **Navigate the Platform**
@@ -34,7 +34,7 @@ Join us and let your voice be heard in the COReS community. We look forward to y
    - Follow our [Code of Conduct](/about-cores/code-of-conduct.qmd)
 
 ## Need Help?
-- Check the official [Zulip help center](https://zulip.com/help/)
+- Check the official [Zulip help center](https://zulip.com/help/){target="_blank"}
 - Ask in the #help stream
 - Contact our community managers
 

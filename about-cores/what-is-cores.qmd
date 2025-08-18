@@ -39,4 +39,4 @@ The **COReS** community is supported by:
 
 ---
 The COReS Communities for Open Research Synthesis project is funded by Volkswagen Stiftung under the "Pioniervorhaben: Impulse für das Wissenschaftssystem" call. 
-For more information, please read the following article on the [VW Stiftung's website.](https://www.volkswagenstiftung.de/en/news/interview/quality-preclinical-research-networked-rather-alone){target="_blank"} 
+For more information, please read the following article on the [VW Stiftung's website{{< fa arrow-up-right-from-square >}}](https://www.volkswagenstiftung.de/en/news/interview/quality-preclinical-research-networked-rather-alone){target="_blank"}. 

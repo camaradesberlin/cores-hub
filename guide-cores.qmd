@@ -56,7 +56,7 @@ To find out more about the COReS project, read our full mission & vision stateme
 ## {{< fa hand-holding-hand >}} Code of Conduct
 Our community thrives on respect and inclusivity. Please adhere to the code of conduct at all COReS events and workshops, including online spaces. Please review and help us improve it by adding your comments, its a living document by and for our community. 
 
-[Review Code of Conduct →](/about-cores/code-of-conduct.qmd){.btn .btn-primary target="_blank"}
+[Review Code of Conduct →](/about-cores/code-of-conduct.qmd){.btn .btn-primary}
 :::
 
 ## Get Started
@@ -66,7 +66,7 @@ Our community thrives on respect and inclusivity. Please adhere to the code of c
 ::: {.callout-tip icon=false}
 ## {{< fa plus >}} New to COReS ?
 Don't know where to get started with the COReS community? 
-[Join the Community →](/about-cores/become-member.qmd){.btn .btn-secondary target="_blank"}
+[Join the Community →](/about-cores/become-member.qmd){.btn .btn-secondary}
 :::
 :::
 
@@ -74,7 +74,7 @@ Don't know where to get started with the COReS community?
 ::: {.callout-tip icon=false}
 ## {{< fa handshake >}} Want to Partner? 
 What does being a COReS partner mean? Read our full guide. 
-[Learn more →](/about-cores/become-partner.qmd){.btn .btn-secondary target="_blank"}
+[Learn more →](/about-cores/become-partner.qmd){.btn .btn-secondary}
 :::
 :::
 
@@ -82,7 +82,7 @@ What does being a COReS partner mean? Read our full guide.
 ::: {.callout-tip icon=false}
 ## {{< fa comments >}} Join the Conversation! 
 Our community discussion forum is an active exchange of ideas! 
-[Learn about the Forum →](about-cores/using-zulip.qmd){.btn .btn-secondary target="_blank"}
+[Learn about the Forum →](about-cores/using-zulip.qmd){.btn .btn-secondary}
 :::
 :::
 ::::
