@@ -13,7 +13,7 @@ Learn how to become an early-adopter institute in our dynamic research community
 ## {{< fa circle-info >}} Learn more about becoming a Partner
 For more information on partner benefits and collaborative opportunities. 
 
-[Read the COReS Partner Guide →](/about-cores/become-partner.qmd){.btn .btn-primary}
+[Learn more →](/about-cores/become-partner.qmd){.btn .btn-primary}
 :::
 
 

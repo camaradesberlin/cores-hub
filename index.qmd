@@ -11,7 +11,7 @@ format:
 
 Communities for Open Research Synthesis (COReS) is building an open, collaborative community around preclinical systematic reviews. We provide free resources, training, and support to advance evidence synthesis in biomedical research.
 
-[Join Our Community →](join.qmd){.btn .btn-primary}
+[Join Our Community →](guide-cores.qmd){.btn .btn-primary}
 :::
 
 
@@ -64,7 +64,7 @@ Join our active research community
 ::: {.callout-note icon=false}
 ## {{< fa circle-info >}} COReS Quick Links
 
-1.  [🤝 Join our community](join.qmd)
+1.  [🤝 Join our community](guide-cores.qmd)
 2.  [📚 Access free training materials](learn.qmd)
 3.  [💬 Connect with peers on the dicussion forum](about-cores/using-zulip.qmd)
 4.  [📊 Make your research synthesis-ready](synthesis-ready.qmd)

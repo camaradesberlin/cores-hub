@@ -19,7 +19,7 @@ Want to learn more about systematic review? Check out our resources below!
 ## Workshops
 
 :::::::: panel-tabset
-### 🧪 Introduction to Systematic Review {.tab}
+### 📖 Introduction to Systematic Review {.tab}
 
 **Introduction to Systematic Review & Meta-Analysis of Animal Studies**
 
@@ -33,7 +33,7 @@ Through a mix of lectures and hands-on practical activities and tutorials across
 We have summarized the main points of the workshop in this [cheat sheet](https://dreamy-bardeen-2035af.netlify.app/CheatSheet_IntroSRworkshop_2023.pdf){target="_blank"}.
 
 ::: button
-[Info & Register](https://www.bihealth.org/en/translation/innovation-enabler/quest-center/events/course/introduction-to-systematic-review-meta-analysis-of-animal-studies){.btn .btn-primary target="_blank"}
+[{{< fa arrow-up-right-from-square >}} Info & Register](https://www.bihealth.org/en/translation/innovation-enabler/quest-center/events/course/introduction-to-systematic-review-meta-analysis-of-animal-studies){.btn .btn-secondary target="_blank"}
 :::
 
 ### 🔨 Protocol Development {.tab}
@@ -45,7 +45,7 @@ We have summarized the main points of the workshop in this [cheat sheet](https:/
 -   **Prerequisites:** Attendance at the [Introduction to Systematic Review & Meta-Analysis of Animal Studies](https://www.bihealth.org/en/translation/innovation-enabler/quest-center/events/course/introduction-to-systematic-review-meta-analysis-of-animal-studies){target="_blank"} workshop or similar systematic review experience. </br>
 
 ::: button
-[Info & Register](https://www.bihealth.org/en/translation/innovation-enabler/quest-center/events/course/protocol-development-for-systematic-review-of-animal-studies){.btn .btn-primary target="_blank"}
+[{{< fa arrow-up-right-from-square >}} Info & Register](https://www.bihealth.org/en/translation/innovation-enabler/quest-center/events/course/protocol-development-for-systematic-review-of-animal-studies){.btn .btn-secondary target="_blank"}
 :::
 
 ### ✅ Critical Appraisal of Animal Studies {.tab}
@@ -56,7 +56,7 @@ We have summarized the main points of the workshop in this [cheat sheet](https:/
 -   **Location:** online via Teams </br>
 
 ::: button
-[Info & Register](https://www.bihealth.org/en/translation/innovation-enabler/quest-center/events/course/critical-appraisal-of-animal-studies-practical-workshop){.btn .btn-primary target="_blank"}
+[{{< fa arrow-up-right-from-square >}} Info & Register](https://www.bihealth.org/en/translation/innovation-enabler/quest-center/events/course/critical-appraisal-of-animal-studies-practical-workshop){.btn .btn-secondary target="_blank"}
 :::
 
 ### 📊 Intermediate Meta-Analysis {.tab}
@@ -71,10 +71,10 @@ During this intensive workshop, participants will delve into the practicalities 
 -   **Prerequisites:** We recommend completion of the [Introduction to Systematic Review & Meta-Analysis of Animal Studies](https://www.bihealth.org/en/translation/innovation-enabler/quest-center/events/course/introduction-to-systematic-review-meta-analysis-of-animal-studies){target="_blank"} and basic familiarity with R, see [meta-analysis tutorial web-application](https://camarades.shinyapps.io/R-MA-Tutorial/){target="_blank"} for more information. </br>
 
 ::: button
-[Info & Register →](https://www.bihealth.org/en/translation/innovation-enabler/quest-center/events/course/intermediate-meta-analysis-of-data-from-animal-studies-in-r){.btn .btn-primary target="_blank"}
+[{{< fa arrow-up-right-from-square >}} Info & Register](https://www.bihealth.org/en/translation/innovation-enabler/quest-center/events/course/intermediate-meta-analysis-of-data-from-animal-studies-in-r){.btn .btn-secondary target="_blank"}
 :::
 
-### 🚀 Advanced Meta-Analysis {.tab}
+### 📈 Advanced Meta-Analysis {.tab}
 
 **Advanced Meta-Analysis Techniques for Synthesizing Data From Animal Studies** </br> During this advanced workshop, participants will delve into the practicalities of conducting advanced meta-analytic techniques suitable for synthesising data from animal studies, namely multi-level meta-analysis and individual animal analysis. Prior to attending this workshop, we recommend first-hand experience conducting meta-analysis of animal studies, as well as intermediate experience with R, see meta-analysis tutorial web-application for more information.
 
@@ -83,7 +83,7 @@ During this intensive workshop, participants will delve into the practicalities 
 -   **ECTS:** no, only certificates of attendance are given </br>
 
 ::: button
-[Info & Register →](https://www.bihealth.org/en/translation/innovation-enabler/quest-center/events/course/advanced-meta-analysis-techniques-for-synthesizing-data-from-animal-studies){.btn .btn-primary target="_blank"}
+[{{< fa arrow-up-right-from-square >}} Info & Register](https://www.bihealth.org/en/translation/innovation-enabler/quest-center/events/course/advanced-meta-analysis-techniques-for-synthesizing-data-from-animal-studies){.btn .btn-secondary target="_blank"}
 :::
 ::::::::
 
@@ -91,14 +91,37 @@ During this intensive workshop, participants will delve into the practicalities 
 
 # eLearning
 
-Want to learn at your own pace? Our eLearning modules let you master systematic reviews with interactive quizzes and exercises.
+Want to learn at your own pace? Our free eLearning modules let you master systematic reviews with interactive quizzes and exercises. Key topics covered in the series include:
+
+::::: grid
+::: g-col-6
+-   Introduction to Systematic Review
+
+-   Systematic literature searching
+
+-   Defining a Research Question
+
+-   Protocol Development
+:::
+
+::: g-col-6
+
+-   Citation Screening & Eligibility Criteria
+
+-   Critical Appraisal of Animal Studies
+
+-   Data Extraction
+
+-   Meta-analysis of Data from Animal Studies
+:::
+:::::
 
 **Start your self-paced journey**
 
-[Go to eLearning platform →](https://elearning.camarades.net/){.btn .btn-secondary target="_blank"}
+[{{< fa arrow-up-right-from-square >}} Go to eLearning platform →](https://elearning.camarades.net/){.btn .btn-secondary target="_blank"}
 
-## Need Log-in Support?
+::: {.callout-tip icon="false"}
+## {{< fa file-circle-plus >}} Need Log-in Support?
 
-We've prepared a short guide to help you make a free user and register for the systematic review course on the CAMARADES eLearning platform.
-
-[How to log-in to Moodle →](https://google.com/){.btn .btn-secondary target="_blank"}
+We've prepared a short guide to help you make a free user and register for the systematic review course on the CAMARADES eLearning platform. [Click here to view the Moodle Log-in Guide](https://google.com/){target="_blank"}
+:::

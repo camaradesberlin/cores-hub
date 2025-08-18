@@ -2,21 +2,11 @@
   {
     "objectID": "synthesis-ready.html",
     "href": "synthesis-ready.html",
-    "title": "Synthesis-Ready Research",
+    "title": "What is Synthesis-Ready Research?",
     "section": "",
     "text": "Synthesis-ready primary animal research are in vivo studies that are designed, conducted and reported to facilitate seamless inclusion in systematic reviews and meta-analyses.\nKey features include clear articulation of objectives, standardised protocols with registration before the experiment begins, appropriate randomisation and blinding, robust sample-size justification, and transparent presentation of all outcomes and underlying data.\nBy adhering to established reporting guidelines and open-science principles, synthesis-ready research enhances reproducibility, reduces bias and accelerates the translation of preclinical findings into evidence-based advances.",
     "crumbs": [
-      "Synthesis-Ready Research"
-    ]
-  },
-  {
-    "objectID": "synthesis-ready.html#what-is-synthesis-ready-research",
-    "href": "synthesis-ready.html#what-is-synthesis-ready-research",
-    "title": "Synthesis-Ready Research",
-    "section": "",
-    "text": "Synthesis-ready primary animal research are in vivo studies that are designed, conducted and reported to facilitate seamless inclusion in systematic reviews and meta-analyses.\nKey features include clear articulation of objectives, standardised protocols with registration before the experiment begins, appropriate randomisation and blinding, robust sample-size justification, and transparent presentation of all outcomes and underlying data.\nBy adhering to established reporting guidelines and open-science principles, synthesis-ready research enhances reproducibility, reduces bias and accelerates the translation of preclinical findings into evidence-based advances.",
-    "crumbs": [
-      "Synthesis-Ready Research"
+      "What is Synthesis-Ready Research?"
     ]
   },
   {
@@ -24,7 +14,7 @@
     "href": "synthesis/disseminate.html",
     "title": "Disseminate Primary Research",
     "section": "",
-    "text": "Openly disseminating research in an open and transparent manner is crucial for advancing systematic reviews and evidence-based decision making. It enables the synthesis of diverse studies, providing a comprehensive analysis of existing evidence. This transparency promotes result reproducibility and ensures an accurate assessment of knowledge on a particular topic. Accessible and synthesizable research empowers decision-makers and contributes to the development of informed policies and practices. By openly sharing methodologies, data, and outcomes, researchers create a collaborative knowledge ecosystem that fosters trust and enhances the reliability and relevance of evidence in decision-making processes.\n\nOpen Data\n\nOpen Data Commons\nOpen Data Commons is a data sharing portal and repository for data in specific disease domains. The Open Data Commons portal:\n\nShare data with your colleagues in a protected space and publish data publicly with a DOI.\n\nSupports compliance with the FAIR data principles to ensure data is Findable, Accessible, Interoperable and Reusable.\n\nPromotes transparency and reproducibility for our common goal to find cures for serious medical conditions.\n\nAllows the community to meet increasing funder and journal data sharing requirements.\n\n\nODC-SCI\nSpinal Cord Injury\nhttps://odc-sci.org/\n\n\nODC-TBI\nTraumatic Brain Injury\nhttps://odc-tbi.org/\n\n\nODC-Stroke\nComing Soon\n\n\n\n\n\nOpen Methods\n\nProtocols.io\n\nProtocols.io is a collaborative open-access platform designed to facilitate the sharing of research protocols and methods. It serves as a centralized repository where researchers can publish, discover, and discuss experimental techniques across various scientific disciplines with ease and efficiency.\n\nCollaboration\n\nEnables researchers to collaborate on protocols and share expertise.\n\n\n\nReproducibility\n\nEnhances the reproducibility of experiments by offering detailed, version-controlled protocols.\n\n\n\nVisibility\n\nIncreases the visibility and impact of your research methods, as each protocol can be cited with a DOI.\n\n\n\nExperiment Tracking\n\nRun protocols as checklists and record changes in your File Manager, which you can choose to keep private or share.\n\n\n\nQuality Control\n\nProtocols are peer-reviewed, ensuring a high standard of scientific rigor.\nInterested in mastering Protocols.io? Check out the Tutorials for quick, insightful guides on using the platform effectively.",
+    "text": "Openly disseminating research in a transparent manner is crucial for advancing systematic reviews and evidence-based decision making. It enables the synthesis of diverse studies, providing a comprehensive analysis of existing evidence. This transparency promotes results reproducibility and ensures an accurate assessment of knowledge on a particular topic. Accessible and synthesisable research empowers decision-makers and contributes to the development of informed policies and practices. By openly sharing methodologies, data, and outcomes, researchers create a collaborative knowledge ecosystem that fosters trust and enhances the reliability and relevance of evidence in decision-making processes.\n\nOpen Data\n\nOpen Data Commons\nOpen Data Commons is a data sharing portal and repository for data in specific disease domains. The Open Data Commons portal:\n\nShare data with your colleagues in a protected space and publish data publicly with a DOI.\n\nSupports compliance with the FAIR data principles to ensure data is Findable, Accessible, Interoperable and Reusable.\n\nPromotes transparency and reproducibility for our common goal to find cures for serious medical conditions.\n\nAllows the community to meet increasing funder and journal data sharing requirements.\n\n\n\n\n\n\n\n\n\n ODC-SCI\n\n\n\nSpinal Cord Injury\nhttps://odc-sci.org/ \n\n\n\n\n\n\n\n\n\n\n ODC-TBI\n\n\n\nTraumatic Brain Injury\nhttps://odc-tbi.org/ \n\n\n\n\n\n\n\n\n\n\n ODC-Stroke\n\n\n\nComing Soon\n\n\n\n\n\n\n\n\nOpen Methods\n\nProtocols.io\n\n\n\n\n\nProtocols.io is a collaborative platform designed to facilitate the sharing of research protocols and methods. It serves as a centralised repository where researchers can publish, discover, and discuss experimental techniques across various scientific disciplines with ease and efficiency.\n\nCollaboration: Enables researchers to collaborate on protocols and share expertise.\nReproducibility: Enhances the reproducibility of experiments by offering detailed, version-controlled protocols.\nVisibility: Increases the visibility and impact of your research methods, as each protocol can be cited with a DOI.\nExperiment Tracking: Run protocols as checklists and record changes in your File Manager, which you can choose to keep private or share.\nQuality Control: Protocols are peer-reviewed, ensuring a high standard of scientific rigor.\n\nInterested in mastering Protocols.io? Check out the Tutorials  for quick, insightful guides on using the platform effectively.",
     "crumbs": [
       "Disseminate Primary Research"
     ]
@@ -34,7 +24,7 @@
     "href": "perform.html",
     "title": "Perform Systematic Reviews",
     "section": "",
-    "text": "Want to start a systematic review? – Look no further, we’ve got you covered for resources and support!",
+    "text": "Getting into systematic reviews can feel like a big step, but you don’t have to do it alone. Here you’ll find: a handy Wiki to guide your methods, easy-to-use software like SyRF, live drop-ins and one-to-one support, plus a welcoming community to collaborate with. Everything you need to get started, and keep going, is right here.",
     "crumbs": [
       "Perform Systematic Reviews"
     ]
@@ -44,7 +34,7 @@
     "href": "perform.html#wiki-on-systematic-review",
     "title": "Perform Systematic Reviews",
     "section": "Wiki on Systematic Review",
-    "text": "Wiki on Systematic Review\nOur wiki resources on systematic review are designed to support you in conducting comprehensive and reliable reviews. You will find a wealth of information, including helpful references, to guide you through the process and ensure your reviews are thorough and well-informed.\nTake me to the wiki →",
+    "text": "Wiki on Systematic Review\n\n\n\n\n\n\n\n\n\nOur wiki resources on systematic review are designed to support you in conducting comprehensive and reliable reviews. You will find a wealth of information, including helpful references, to guide you through the process and ensure your reviews are thorough and well-informed.\n Take me to the wiki",
     "crumbs": [
       "Perform Systematic Reviews"
     ]
@@ -54,27 +44,7 @@
     "href": "perform.html#software-for-systematic-review---syrf",
     "title": "Perform Systematic Reviews",
     "section": "Software for Systematic Review - SyRF",
-    "text": "Software for Systematic Review - SyRF\nLooking for a flexible systematic review software tailored for animal research? SyRF is your solution! SyRF streamlines the review process, saving you time and effort. Create your free account today.\nTake me to SyRF ↗ For guidance on how to use the platform, tutorials, and step-by-step instructions, please see the extensive help guide.\nHow to Use SyRF ↗\n\nGot a question? – Ask at the next drop-in!\nJoin the drop-in session",
-    "crumbs": [
-      "Perform Systematic Reviews"
-    ]
-  },
-  {
-    "objectID": "perform.html#drop-in-session",
-    "href": "perform.html#drop-in-session",
-    "title": "Perform Systematic Reviews",
-    "section": "Drop-in Session",
-    "text": "Drop-in Session\nGot a quick question? Join our weekly drop-in support session for expert guidance and assistance. Improve your skills and get unparalleled support. Mark your calendar and join us this week!\nWhen is the next drop-in? →",
-    "crumbs": [
-      "Perform Systematic Reviews"
-    ]
-  },
-  {
-    "objectID": "perform.html#one-to-one-methods-support",
-    "href": "perform.html#one-to-one-methods-support",
-    "title": "Perform Systematic Reviews",
-    "section": "One-to-One Methods Support",
-    "text": "One-to-One Methods Support\nNeed some personalised guidance and support? Book a one-to-one support meeting. Our team of methodology experts is ready to provide you with tailored assistance to take your systematic review to the next stage. Book your session now!\nBook a consultation →",
+    "text": "Software for Systematic Review - SyRF\n\n\n\n\n\n\n\n\n\nLooking for a flexible systematic review software tailored for animal research? SyRF streamlines the systematic review process, and supports collaborative projets, saving you time and effort. Create your free account today.\n\n\n\n\n\n\n SyRF - Systematic Review Facility\n\n\n\n Take me to SyRF\nFor guidance on how to use the platform, tutorials, and step-by-step instructions, please see the extensive help guide. \nGot a question? – Ask at the next drop-in session!",
     "crumbs": [
       "Perform Systematic Reviews"
     ]
@@ -84,7 +54,7 @@
     "href": "perform.html#find-a-collaborator-for-your-next-review",
     "title": "Perform Systematic Reviews",
     "section": "Find a collaborator for your next review",
-    "text": "Find a collaborator for your next review\nFind collaborators and discuss your project on our community forum, Zulip. Make a free account and start chatting.\nTake me to the discussion forum ↗",
+    "text": "Find a collaborator for your next review\nFind collaborators and discuss your project on our community forum, Zulip. Make a free account and start chatting.\nFind out more about the discussion forum →",
     "crumbs": [
       "Perform Systematic Reviews"
     ]
@@ -94,7 +64,7 @@
     "href": "perform.html#meet-new-collaborators-at-weekly-calls",
     "title": "Perform Systematic Reviews",
     "section": "Meet new collaborators at weekly calls",
-    "text": "Meet new collaborators at weekly calls\nJoin weekly calls to share progress on your systematic review projects.\nWhen is the next CAMARADES call? ↗",
+    "text": "Meet new collaborators at weekly calls\nJoin weekly calls to share progress on your systematic review projects.\nWhen is the next CAMARADES call? →",
     "crumbs": [
       "Perform Systematic Reviews"
     ]
@@ -388,7 +358,7 @@
     "href": "about-cores/partners.html",
     "title": "Partners",
     "section": "",
-    "text": "Our partner institutes play a key role in facilitating the mission and vision of COReS; to build an open community that encourages and supports them in the integration of preclinical systematic review into the research pipeline.\nLearn how to become an early-adopter institute in our dynamic research community project COReS. Gain access to insights on systematic review, gain curriculum to train the next generation of researchers, collaborate with leading experts, and shape the future of biomedical research in an evidence-based way.\n\n\n\n\n\n\n Learn more about becoming a Partner\n\n\n\nFor more information on partner benefits and collaborative opportunities.\nRead the COReS Partner Guide →\n\n\nSee our COReS project partners below:",
+    "text": "Our partner institutes play a key role in facilitating the mission and vision of COReS; to build an open community that encourages and supports them in the integration of preclinical systematic review into the research pipeline.\nLearn how to become an early-adopter institute in our dynamic research community project COReS. Gain access to insights on systematic review, gain curriculum to train the next generation of researchers, collaborate with leading experts, and shape the future of biomedical research in an evidence-based way.\n\n\n\n\n\n\n Learn more about becoming a Partner\n\n\n\nFor more information on partner benefits and collaborative opportunities.\nLearn more →\n\n\nSee our COReS project partners below:",
     "crumbs": [
       "Partners",
       "Our Partners"
@@ -443,7 +413,7 @@
     "href": "contact.html",
     "title": "Contact",
     "section": "",
-    "text": "Have inquiries or need support? Reach out to us through our contact channels. Whether you’re seeking general information, need assistance, or want to explore partnership opportunities, we’re here to help.\nCOReS is coordinated by CAMARDES Berlin, BIH QUEST Center.\n\n\n\n\n\n\nGet in touch!\n\n\n\nFor direct enquiries, please contact: camarades.berlin@charite.de\n\n\nNewsletter Signup\nFollow us on LinkedIn\n\nOur Team\nWe’re focused on making COReS the best open community platform it can be. Is there something you would like us to change? Let us know!\n\n\n\n\n\n\n\n\n\n\nDr Sarah McCann\n\n\nCAMARADES Berlin Group Leader\n\n\n\n\n\n\n\n\n\n\n\n\n\nDr Alexandra Bannach-Brown\n\n\nProject Lead\n\n\n\n\n\n\n\n\n\n\n\n\n\nDr Friederike Kohrs\n\n\nCommunity Manager\n\n\n\n\n\n\n\n\n\n\n\n\n\nSofija Vojvodic\n\n\nResearch Fellow\n\n\n\n\n\n\n\n\n\n\n\n\n\nDr Daniel Schulze\n\n\nBiostatistician\n\n\n\n\n\n\n\n\n\n\n\n\n\nDr Ayesha Amin Tariq\n\n\nResearch Assistant\n\n\n\n\n\n\n\n\n\n\n\n\n\nMala Karmakar\n\n\nResearch Software Engineer\n\n\n\n\n\n\n\n\n\n\n\n\n\nMomna Hassan\n\n\nResearch Assistant\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Have inquiries or need support? Reach out to us through our contact channels. Whether you’re seeking general information, need assistance, or want to explore partnership opportunities, we’re here to help.\nCOReS is coordinated by CAMARDES Berlin, BIH QUEST Center .\n\n\n\n\n\n\n Get in touch!\n\n\n\nFor direct enquiries, please contact: camarades.berlin@charite.de\n\n\n Newsletter Signup\n Follow us on LinkedIn\n\nOur Team\nWe’re focused on making COReS the best open community platform it can be. Is there something you would like us to change? Let us know!\n\n\n\n\n\n\n\n\n\n\nDr Sarah McCann\n\n\nCAMARADES Berlin Group Leader\n\n\n\n\n\n\n\n\n\n\n\n\n\nDr Alexandra Bannach-Brown\n\n\nProject Lead\n\n\n\n\n\n\n\n\n\n\n\n\n\nDr Friederike Kohrs\n\n\nCommunity Manager\n\n\n\n\n\n\n\n\n\n\n\n\n\nSofija Vojvodic\n\n\nResearch Fellow\n\n\n\n\n\n\n\n\n\n\n\n\n\nDr Daniel Schulze\n\n\nBiostatistician\n\n\n\n\n\n\n\n\n\n\n\n\n\nDr Ayesha Amin Tariq\n\n\nResearch Assistant\n\n\n\n\n\n\n\n\n\n\n\n\n\nMala Karmakar\n\n\nResearch Software Engineer\n\n\n\n\n\n\n\n\n\n\n\n\n\nMomna Hassan\n\n\nResearch Assistant\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "guide-cores.html",
@@ -515,17 +485,7 @@
     "href": "learn.html#workshops",
     "title": "Learn Systematic Reviews",
     "section": "Workshops",
-    "text": "Workshops\n\n🧪 Introduction to Systematic Review🔨 Protocol Development✅ Critical Appraisal of Animal Studies📊 Intermediate Meta-Analysis🚀 Advanced Meta-Analysis\n\n\nIntroduction to Systematic Review & Meta-Analysis of Animal Studies\nThrough a mix of lectures and hands-on practical activities and tutorials across 3 half days, you will learn the major steps required to undertake a systematic review and meta-analysis of preclinical animal studies.\n\nCourse language: English \nLocation: online via Teams \nECTS: 0.9 ECTS points are awarded for this course. A certificate will be provided upon successful completion of the workshop. \nATF-Stunden: This workshop accounts for 11 hours of continuing education. \n\nWe have summarized the main points of the workshop in this cheat sheet.\n\nInfo & Register\n\n\n\nProtocol Development for Systematic Review of Animal Studies  This workshop will cover the contents of a transparent and comprehensive preclinical systematic review protocol. It will cover the rationale behind registering your systematic review protocol and where to register. This workshop is aimed at researchers who already have a basic understanding of systematic reviews of animal data.\n\nCourse language: English \nLocation: online via Teams \nPrerequisites: Attendance at the Introduction to Systematic Review & Meta-Analysis of Animal Studies workshop or similar systematic review experience. \n\n\nInfo & Register\n\n\n\nCritical Appraisal of Animal Studies: Practical Workshop  This interactive practical workshop explores study quality and risks of bias, internal and external validity, in scientific publications of animal experiments. Participants will gain hands-on experience critically appraising published animal experiments.\n\nCourse language: English \nLocation: online via Teams \n\n\nInfo & Register\n\n\n\nIntermediate Meta-Analysis of Data From Animal Studies in R  Meta-analysis is a rigorous statistical method that systematically combines and synthesizes results from multiple independent studies. By aggregating data across multiple research outputs, meta-analysis provides a powerful tool for drawing robust conclusions, identifying patterns, and quantifying effect sizes.\nDuring this intensive workshop, participants will delve into the practicalities of conducting meta-analysis on animal studies. From understanding data types to mastering meta-regression modelling techniques, this course equips learners with practical skills to conduct robust meta-analyses. Whether you’re a seasoned researcher or a curious novice, join us to develop hands-on skills in conducting meta-analysis on data from animal experiments using R.\n\nCourse language: English \nLocation: online via Teams \nECTS: no, only certificates of attendance are given \nPrerequisites: We recommend completion of the Introduction to Systematic Review & Meta-Analysis of Animal Studies and basic familiarity with R, see meta-analysis tutorial web-application for more information. \n\n\nInfo & Register →\n\n\n\nAdvanced Meta-Analysis Techniques for Synthesizing Data From Animal Studies  During this advanced workshop, participants will delve into the practicalities of conducting advanced meta-analytic techniques suitable for synthesising data from animal studies, namely multi-level meta-analysis and individual animal analysis. Prior to attending this workshop, we recommend first-hand experience conducting meta-analysis of animal studies, as well as intermediate experience with R, see meta-analysis tutorial web-application for more information.\n\nCourse language: English \nLocation: online via Teams \nECTS: no, only certificates of attendance are given \n\n\nInfo & Register →",
-    "crumbs": [
-      "Learn Systematic Reviews"
-    ]
-  },
-  {
-    "objectID": "learn.html#need-log-in-support",
-    "href": "learn.html#need-log-in-support",
-    "title": "Learn Systematic Reviews",
-    "section": "Need Log-in Support?",
-    "text": "Need Log-in Support?\nWe’ve prepared a short guide to help you make a free user and register for the systematic review course on the CAMARADES eLearning platform.\nHow to log-in to Moodle →",
+    "text": "Workshops\n\n📖 Introduction to Systematic Review🔨 Protocol Development✅ Critical Appraisal of Animal Studies📊 Intermediate Meta-Analysis📈 Advanced Meta-Analysis\n\n\nIntroduction to Systematic Review & Meta-Analysis of Animal Studies\nThrough a mix of lectures and hands-on practical activities and tutorials across 3 half days, you will learn the major steps required to undertake a systematic review and meta-analysis of preclinical animal studies.\n\nCourse language: English \nLocation: online via Teams \nECTS: 0.9 ECTS points are awarded for this course. A certificate will be provided upon successful completion of the workshop. \nATF-Stunden: This workshop accounts for 11 hours of continuing education. \n\nWe have summarized the main points of the workshop in this cheat sheet.\n\n Info & Register\n\n\n\nProtocol Development for Systematic Review of Animal Studies  This workshop will cover the contents of a transparent and comprehensive preclinical systematic review protocol. It will cover the rationale behind registering your systematic review protocol and where to register. This workshop is aimed at researchers who already have a basic understanding of systematic reviews of animal data.\n\nCourse language: English \nLocation: online via Teams \nPrerequisites: Attendance at the Introduction to Systematic Review & Meta-Analysis of Animal Studies workshop or similar systematic review experience. \n\n\n Info & Register\n\n\n\nCritical Appraisal of Animal Studies: Practical Workshop  This interactive practical workshop explores study quality and risks of bias, internal and external validity, in scientific publications of animal experiments. Participants will gain hands-on experience critically appraising published animal experiments.\n\nCourse language: English \nLocation: online via Teams \n\n\n Info & Register\n\n\n\nIntermediate Meta-Analysis of Data From Animal Studies in R  Meta-analysis is a rigorous statistical method that systematically combines and synthesizes results from multiple independent studies. By aggregating data across multiple research outputs, meta-analysis provides a powerful tool for drawing robust conclusions, identifying patterns, and quantifying effect sizes.\nDuring this intensive workshop, participants will delve into the practicalities of conducting meta-analysis on animal studies. From understanding data types to mastering meta-regression modelling techniques, this course equips learners with practical skills to conduct robust meta-analyses. Whether you’re a seasoned researcher or a curious novice, join us to develop hands-on skills in conducting meta-analysis on data from animal experiments using R.\n\nCourse language: English \nLocation: online via Teams \nECTS: no, only certificates of attendance are given \nPrerequisites: We recommend completion of the Introduction to Systematic Review & Meta-Analysis of Animal Studies and basic familiarity with R, see meta-analysis tutorial web-application for more information. \n\n\n Info & Register\n\n\n\nAdvanced Meta-Analysis Techniques for Synthesizing Data From Animal Studies  During this advanced workshop, participants will delve into the practicalities of conducting advanced meta-analytic techniques suitable for synthesising data from animal studies, namely multi-level meta-analysis and individual animal analysis. Prior to attending this workshop, we recommend first-hand experience conducting meta-analysis of animal studies, as well as intermediate experience with R, see meta-analysis tutorial web-application for more information.\n\nCourse language: English \nLocation: online via Teams \nECTS: no, only certificates of attendance are given \n\n\n Info & Register",
     "crumbs": [
       "Learn Systematic Reviews"
     ]
@@ -535,7 +495,27 @@
     "href": "synthesis/design.html",
     "title": "Design Experiments",
     "section": "",
-    "text": "Transparent, high-quality experimental design in animal studies, underpinned by rigorous internal validity, allows systematic reviews to reliably summarise evidence. By detailing eligibility criteria, randomisation, blinding and sample-size calculations up front, researchers minimise bias and ensure that reported effects genuinely reflect the interventions under study. This clarity enables systematic reviewers to assess study quality accurately, pool data with confidence and draw robust conclusions. Ultimately, well-designed, transparent experiments not only strengthen the scientific and ethical foundations of preclinical research but also improve its translational value.\n\nExperimental Design Assistant\n\nThe Experimental Design Assistant (EDA) is a free online tool developed by NC3Rs to help researchers in designing experiments that meet scientific rigor while adhering to ethical guidelines for minimizing animal use. It also provides guidance on reducing subjective bias and selecting appropriate statistical methods.\n\n\nFeatures\n\n\nEthical Guidance: Advice and feedback on plans to minimise animal use.\nVisual Representation: Diagrammatic notation for experimental plans, with critiquing.\nComprehensive Feedback: Tailored statistical and design recommendations.\nResource Optimization: Helps plan efficient experiments, saving time and resources.\nStatistical Guidance: Sample size calculations, randomization, blinding.\n\n\n\n\nHow to get started\n\n\nRefer to the EDA User Guide for a walkthrough.\nBegin immediately in the Process Guide.\n\n\n\n\nInternal validity of preclinical studies\nLearn about the importance of internal validity preclinical experiments with Dr Kim Wever (Radboud UMC, NL):",
+    "text": "Transparent, high-quality experimental design in animal studies, underpinned by rigorous internal validity, allows systematic reviews to reliably summarise evidence. By detailing eligibility criteria, randomisation, blinding and sample-size calculations up front, researchers minimise bias and ensure that reported effects genuinely reflect the interventions under study. This clarity enables systematic reviewers to assess study quality accurately, pool data with confidence and draw robust conclusions. Ultimately, well-designed, transparent experiments not only strengthen the scientific and ethical foundations of preclinical research but also improve its translational value.",
+    "crumbs": [
+      "Design Experiments"
+    ]
+  },
+  {
+    "objectID": "synthesis/design.html#experimental-design-assistant",
+    "href": "synthesis/design.html#experimental-design-assistant",
+    "title": "Design Experiments",
+    "section": "Experimental Design Assistant",
+    "text": "Experimental Design Assistant\n\n\n\n\n\n\n\n\n\nThe Experimental Design Assistant (EDA) is a free online tool developed by NC3Rs  to help researchers in designing experiments that meet scientific rigor while adhering to ethical guidelines for minimizing animal use. It also provides guidance on reducing subjective bias and selecting appropriate statistical methods.\n\n\nFeatures\n\n\nEthical Guidance: Advice and feedback on plans to minimise animal use.\nVisual Representation: Diagrammatic notation for experimental plans, with critiquing.\nComprehensive Feedback: Tailored statistical and design recommendations.\nResource Optimization: Helps plan efficient experiments, saving time and resources.\nStatistical Guidance: Sample size calculations, randomization, blinding.\n\n\n\n\nHow to get started\n\n\nRefer to the EDA User Guide  for a walkthrough.\nBegin immediately in the Process Guide .",
+    "crumbs": [
+      "Design Experiments"
+    ]
+  },
+  {
+    "objectID": "synthesis/design.html#internal-validity-of-preclinical-studies",
+    "href": "synthesis/design.html#internal-validity-of-preclinical-studies",
+    "title": "Design Experiments",
+    "section": "Internal validity of preclinical studies",
+    "text": "Internal validity of preclinical studies\nLearn about the importance of internal validity preclinical experiments with Dr Kim Wever (Radboud UMC, NL):",
     "crumbs": [
       "Design Experiments"
     ]
@@ -555,7 +535,7 @@
     "href": "synthesis/preregister.html#preclinicaltrials.eu",
     "title": "Pre-Register Your Animal Experiment",
     "section": "PreclinicalTrials.EU",
-    "text": "PreclinicalTrials.EU\n\nPreclinicalTrials.EU is a central platform for registering preclinical animal studies.\n\n\nFeatures\n\n\nEnhanced transparency: Prospective registration to reveal unpublished studies.\n\nAvoid duplication: View existing studies to prevent redundant work.\n\nReduce reporting bias: Mitigates publication bias and p-hacking.\n\nFacilitate data sharing: Full study designs and data archives.\n\nCollaborative research: Connect across biomedical fields.\n\n\n\n\nLinks & Resources\n\n\nGot questions? See their FAQs section.\n\nIn-depth protocol guide: User Guide (PDF).",
+    "text": "PreclinicalTrials.EU\n\n\n\n\n\n\n\n\n\nPreclinicalTrials.EU  is a central platform for registering preclinical animal studies.\n\n\nFeatures\n\n\nEnhanced transparency: Prospective registration to reveal unpublished studies.\n\nAvoid duplication: View existing studies to prevent redundant work.\n\nReduce reporting bias: Mitigates publication bias and p-hacking.\n\nFacilitate data sharing: Full study designs and data archives.\n\nCollaborative research: Connect across biomedical fields.\n\n\n\n\nLinks & Resources\n\n\nGot questions? See their FAQs section .\n\nIn-depth protocol guide: User Guide (PDF) .",
     "crumbs": [
       "Register Experiments"
     ]
@@ -565,17 +545,17 @@
     "href": "synthesis/preregister.html#animal-study-registry",
     "title": "Pre-Register Your Animal Experiment",
     "section": "Animal Study Registry",
-    "text": "Animal Study Registry\n\nAnimalStudyRegistry.org lets you preregister animal‐based research, timestamped & citable via DOI.\n\n\nFeatures\n\n\nEnhanced transparency: Full protocol disclosure.\n\nAnimal welfare: Encourages refinement methods to reduce harm.\n\nIntellectual property: DOI & timestamp for your protocol.\n\nCredibility: Builds trust in open science practices.\n\nTime-saving: Templates cover ARRIVE guidelines essentials.\n\n\n\n\nLinks & Resources\n\n\nLearn more on the platform homepage and register here.\n\nBrowse existing registries.",
+    "text": "Animal Study Registry\n\nAnimalStudyRegistry.org  lets you preregister animal‐based research, timestamped & citable via DOI.\n\n\nFeatures\n\n\nEnhanced transparency: Full protocol disclosure.\n\nAnimal welfare: Encourages refinement methods to reduce harm.\n\nIntellectual property: DOI & timestamp for your protocol.\n\nCredibility: Builds trust in open science practices.\n\nTime-saving: Templates cover ARRIVE guidelines essentials.\n\n\n\n\nLinks & Resources\n\n\nLearn more on the platform homepage  and register here .\n\nBrowse existing registries .",
     "crumbs": [
       "Register Experiments"
     ]
   },
   {
-    "objectID": "synthesis/preregister.html#electronic-lab-notebook",
-    "href": "synthesis/preregister.html#electronic-lab-notebook",
+    "objectID": "synthesis/preregister.html#conducting-experiments-transparently---electronic-lab-notebook",
+    "href": "synthesis/preregister.html#conducting-experiments-transparently---electronic-lab-notebook",
     "title": "Pre-Register Your Animal Experiment",
-    "section": "Electronic Lab Notebook",
-    "text": "Electronic Lab Notebook\nAn electronic lab notebook is a digital platform for documenting experiments, managing protocols, and storing data. It enables real-time collaboration and integrates analytics, inventory, and specialized databases.\n\nData Integrity: Secure, retrievable storage.\n\nCollaboration: Share data & findings instantly.\n\nRegulatory Adherence: Built-in compliance with research standards.\n\nStreamlined Workflow: Templates & integrated tools.\n\n\nLinks & Resources\n\nLearn more about LabFolder\n\nAccess training on LabFolder",
+    "section": "Conducting Experiments Transparently - Electronic Lab Notebook",
+    "text": "Conducting Experiments Transparently - Electronic Lab Notebook\nAn electronic lab notebook is a digital platform for documenting experiments, managing protocols, and storing data. It enables real-time collaboration and integrates analytics, inventory, and specialised databases.\n\nData Integrity: Secure, retrievable storage.\n\nCollaboration: Share data & findings instantly.\n\nRegulatory Adherence: Built-in compliance with research standards.\n\nStreamlined Workflow: Templates & integrated tools.\n\n\nResources for LabFolder - an electronic lab notebook tool\n\nLearn more about LabFolder \n\nAccess training on LabFolder",
     "crumbs": [
       "Register Experiments"
     ]

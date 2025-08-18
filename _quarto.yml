@@ -38,14 +38,19 @@ website:
       - text: "Systematic Reviews"
         menu: 
         - learn.qmd
+        - text: "---"
         - perform.qmd
       - text: "Synthesis-Ready Research"
         menu: 
-          - synthesis-ready.qmd
+          - text: "Synthesis-Ready Research"
+            href: synthesis-ready.qmd
+          - text: "---"
           - text: Design
             href: synthesis/design.qmd
+          - text: "---"
           - text: Register
             href: synthesis/preregister.qmd
+          - text: "---"
           - text: Disseminate
             href: synthesis/disseminate.qmd
       - events.qmd
@@ -95,17 +100,22 @@ website:
     - title: "SR"
       style: "docked"
       contents:
-        - learn.qmd       
+        - learn.qmd
+        - text: "---"
         - perform.qmd     
         
     - title: "Synthesis-Ready"
       style: "docked"
       contents:
-        - synthesis-ready.qmd
+        - text: "What is Synthesis-Ready Research?"
+          href: synthesis-ready.qmd
+        - text: "---"
         - text: "Design Experiments"
           file: synthesis/design.qmd
+        - text: "---"
         - text: "Register Experiments"
           file: synthesis/preregister.qmd
+        - text: "---"
         - text: "Disseminate Primary Research"
           file: synthesis/disseminate.qmd
 
