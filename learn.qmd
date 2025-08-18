@@ -1,5 +1,5 @@
 ---
-title: "Learn Systematic Reviews"
+title: "Learn Systematic Review"
 format: html
 sidebar: SR
 ---
