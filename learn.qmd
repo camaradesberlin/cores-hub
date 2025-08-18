@@ -118,10 +118,10 @@ Want to learn at your own pace? Our free eLearning modules let you master system
 
 **Start your self-paced journey**
 
-[{{< fa arrow-up-right-from-square >}} Go to eLearning platform →](https://elearning.camarades.net/){.btn .btn-secondary target="_blank"}
+[{{< fa arrow-up-right-from-square >}} Go to eLearning platform](https://elearning.camarades.net/){.btn .btn-secondary target="_blank"}
 
 ::: {.callout-tip icon="false"}
 ## {{< fa file-circle-plus >}} Need Log-in Support?
 
-We've prepared a short guide to help you make a free user and register for the systematic review course on the CAMARADES eLearning platform. [Click here to view the Moodle Log-in Guide](https://google.com/){target="_blank"}
+We've prepared a short guide to help you make a free user and register for the systematic review course on the CAMARADES eLearning platform. [{{< fa file-circle-plus >}} Click here to view the Moodle Log-in Guide](https://google.com/){target="_blank"}
 :::
