@@ -4,7 +4,7 @@
     "href": "synthesis-ready.html",
     "title": "What is Synthesis-Ready Research?",
     "section": "",
-    "text": "Synthesis-ready primary animal research are in vivo studies that are designed, conducted and reported to facilitate seamless inclusion in systematic reviews and meta-analyses.\nKey features include clear articulation of objectives, standardised protocols with registration before the experiment begins, appropriate randomisation and blinding, robust sample-size justification, and transparent presentation of all outcomes and underlying data.\nBy adhering to established reporting guidelines and open-science principles, synthesis-ready research enhances reproducibility, reduces bias and accelerates the translation of preclinical findings into evidence-based advances.",
+    "text": "Synthesis-ready primary animal research refers to in vivo studies that are designed, conducted and reported to facilitate seamless inclusion in systematic reviews and meta-analyses.\nKey features include clear articulation of objectives, standardised protocols with registration before the experiment begins, appropriate randomisation and blinding, robust sample size justification, and transparent presentation of all outcomes and underlying data.\nBy adhering to established reporting guidelines and open-science principles, synthesis-ready research enhances reproducibility, reduces bias and accelerates the translation of preclinical findings into evidence-based advances.",
     "crumbs": [
       "What is Synthesis-Ready Research?"
     ]
@@ -24,17 +24,7 @@
     "href": "perform.html",
     "title": "Perform Systematic Reviews",
     "section": "",
-    "text": "Getting into systematic reviews can feel like a big step, but you don’t have to do it alone. Here you’ll find: a handy Wiki to guide your methods, easy-to-use software like SyRF, live drop-ins and one-to-one support, plus a welcoming community to collaborate with. Everything you need to get started, and keep going, is right here.",
-    "crumbs": [
-      "Perform Systematic Reviews"
-    ]
-  },
-  {
-    "objectID": "perform.html#wiki-on-systematic-review",
-    "href": "perform.html#wiki-on-systematic-review",
-    "title": "Perform Systematic Reviews",
-    "section": "Wiki on Systematic Review",
-    "text": "Wiki on Systematic Review\n\n\n\n\n\n\n\n\n\nOur wiki resources on systematic review are designed to support you in conducting comprehensive and reliable reviews. You will find a wealth of information, including helpful references, to guide you through the process and ensure your reviews are thorough and well-informed.\n Take me to the wiki",
+    "text": "Getting into systematic reviews can feel like a big step, but you don’t have to do it alone. Here you’ll find a handy Wiki to guide your methods, easy-to-use software like SyRF, live drop-ins and one-to-one support, plus a welcoming community to collaborate with. Everything you need to get started, and keep going, is right here.",
     "crumbs": [
       "Perform Systematic Reviews"
     ]
@@ -116,7 +106,7 @@
     "href": "about-cores/what-is-cores.html",
     "title": "What is COReS?",
     "section": "",
-    "text": "At COReS, we believe in transparency, reproducibility, and the power of the community.\nTranslational failure — where promising results from preclinical studies fail to show benefit in clinical practice — is a significant challenge in biomedical research. Systematic reviews of preclinical data, a robust method of evidence synthesis, offer a critical tool to uncover factors contributing to this translational gap. Armed with these insights, researchers can design studies of high translational value.\nThrough transparent and reproducible research practices, COReS not only addresses this gap but also provides a platform for learning and networking.\nWith your active participation, and the value of reproducible and open data, we can improve the quality of preclinical (animal) research together to improve translational success.",
+    "text": "At COReS, we believe in transparency, reproducibility, and the power of the community.\nTranslational failure — where promising results from preclinical studies fail to show benefit in clinical practice — is a significant challenge in biomedical research. Systematic reviews of preclinical data, a robust method of evidence synthesis, offers a critical tool to uncover factors contributing to this translational gap. Armed with these insights, researchers can design studies of high translational value.\nThrough transparent and reproducible research practices, COReS not only addresses this gap but also provides a platform for learning and networking.\nWith your active participation, and the value of reproducible and open data, we can improve the quality of preclinical (animal) research together to improve translational success.",
     "crumbs": [
       "COReS Community",
       "What is COReS?"
@@ -127,7 +117,7 @@
     "href": "about-cores/what-is-cores.html#introduction",
     "title": "What is COReS?",
     "section": "",
-    "text": "At COReS, we believe in transparency, reproducibility, and the power of the community.\nTranslational failure — where promising results from preclinical studies fail to show benefit in clinical practice — is a significant challenge in biomedical research. Systematic reviews of preclinical data, a robust method of evidence synthesis, offer a critical tool to uncover factors contributing to this translational gap. Armed with these insights, researchers can design studies of high translational value.\nThrough transparent and reproducible research practices, COReS not only addresses this gap but also provides a platform for learning and networking.\nWith your active participation, and the value of reproducible and open data, we can improve the quality of preclinical (animal) research together to improve translational success.",
+    "text": "At COReS, we believe in transparency, reproducibility, and the power of the community.\nTranslational failure — where promising results from preclinical studies fail to show benefit in clinical practice — is a significant challenge in biomedical research. Systematic reviews of preclinical data, a robust method of evidence synthesis, offers a critical tool to uncover factors contributing to this translational gap. Armed with these insights, researchers can design studies of high translational value.\nThrough transparent and reproducible research practices, COReS not only addresses this gap but also provides a platform for learning and networking.\nWith your active participation, and the value of reproducible and open data, we can improve the quality of preclinical (animal) research together to improve translational success.",
     "crumbs": [
       "COReS Community",
       "What is COReS?"
@@ -160,7 +150,7 @@
     "href": "about-cores/policies.html",
     "title": "Policies",
     "section": "",
-    "text": "COReS recognises the significance of equity, diversity, and inclusion (EDI) among its members and in the wider research community. As a community initiative aiming to improve the quality of preclinical research to advance translational success, we value input and contributions of our members from all backgrounds and levels of experience.\nWe engage with members and other relevant stakeholders with wide-ranging perspectives and needs, and actively foster an environment that is inclusive and welcoming for all. With the atmosphere we are creating, we would like members to feel valued, respected, and empowered to contribute to the community. We recognise that some of our community members face barriers and we are continuously working to lower and ultimately remove these.\nAt COReS, we value the use of inclusive language, we are thoughtful, respectful, and open in our communication, and we respect the diversity and backgrounds of our community members. Diversity goes beyond race, ethnicity, gender identity and expression, and also encompasses age, abilities, socio-economic status, sexual identity and orientation, and more.\nCOReS is committed to support EDI in all of our events, community interactions, and partnerships. Please have a look at our community guidelines (Code of Conduct), which applies to all COReS team and community members and includes measures against discrimination, harassment, bias, and exclusion.\nWe recognise that the research community is in a period of learning and are committed to continuous improvement in relation to EDI. We will regularly evaluate our practices to ensure they align with these values.\nAt COReS we are dedicated to fostering equity, diversity, and inclusion in our community and in all aspects of our work, and we encourage others to follow the same values and principles.\nIn case of inquiries, concerns, or feedback, please feel free to contact our Community Engagement Manager, Dr Friederike Elisabeth Kohrs at friederike-elisabeth.kohrs@charite.de.",
+    "text": "COReS recognises the significance of equity, diversity, and inclusion (EDI) among its members and in the wider research community. As a community initiative aiming to improve the quality of preclinical research to advance translational success, we value the input and contributions of our members from all backgrounds and levels of experience.\nWe engage with members and other relevant stakeholders with wide-ranging perspectives and needs, and actively foster an environment that is inclusive and welcoming for all. With the atmosphere we are creating, we would like members to feel valued, respected, and empowered to contribute to the community. We recognise that some of our community members face barriers and we are continuously working to lower and ultimately remove these.\nAt COReS, we value the use of inclusive language, we are thoughtful, respectful, and open in our communication, and we respect the diversity and backgrounds of our community members. Diversity goes beyond race, ethnicity, gender identity and expression, and also encompasses age, abilities, socio-economic status, sexual identity and orientation, and more.\nCOReS is committed to support EDI in all of our events, community interactions, and partnerships. Please have a look at our community guidelines (Code of Conduct), which applies to all COReS team and community members and includes measures against discrimination, harassment, bias, and exclusion.\nWe recognise that the research community is in a period of learning and are committed to continuous improvement in relation to EDI. We will regularly evaluate our practices to ensure they align with these values.\nAt COReS we are dedicated to fostering equity, diversity, and inclusion in our community and in all aspects of our work, and we encourage others to follow the same values and principles.\nIn case of inquiries, concerns, or feedback, please feel free to contact our Community Engagement Manager, Dr Friederike Elisabeth Kohrs at friederike-elisabeth.kohrs@charite.de.",
     "crumbs": [
       "Policies",
       "Policies"
@@ -171,7 +161,7 @@
     "href": "about-cores/policies.html#equity-diversity-and-inclusion",
     "title": "Policies",
     "section": "",
-    "text": "COReS recognises the significance of equity, diversity, and inclusion (EDI) among its members and in the wider research community. As a community initiative aiming to improve the quality of preclinical research to advance translational success, we value input and contributions of our members from all backgrounds and levels of experience.\nWe engage with members and other relevant stakeholders with wide-ranging perspectives and needs, and actively foster an environment that is inclusive and welcoming for all. With the atmosphere we are creating, we would like members to feel valued, respected, and empowered to contribute to the community. We recognise that some of our community members face barriers and we are continuously working to lower and ultimately remove these.\nAt COReS, we value the use of inclusive language, we are thoughtful, respectful, and open in our communication, and we respect the diversity and backgrounds of our community members. Diversity goes beyond race, ethnicity, gender identity and expression, and also encompasses age, abilities, socio-economic status, sexual identity and orientation, and more.\nCOReS is committed to support EDI in all of our events, community interactions, and partnerships. Please have a look at our community guidelines (Code of Conduct), which applies to all COReS team and community members and includes measures against discrimination, harassment, bias, and exclusion.\nWe recognise that the research community is in a period of learning and are committed to continuous improvement in relation to EDI. We will regularly evaluate our practices to ensure they align with these values.\nAt COReS we are dedicated to fostering equity, diversity, and inclusion in our community and in all aspects of our work, and we encourage others to follow the same values and principles.\nIn case of inquiries, concerns, or feedback, please feel free to contact our Community Engagement Manager, Dr Friederike Elisabeth Kohrs at friederike-elisabeth.kohrs@charite.de.",
+    "text": "COReS recognises the significance of equity, diversity, and inclusion (EDI) among its members and in the wider research community. As a community initiative aiming to improve the quality of preclinical research to advance translational success, we value the input and contributions of our members from all backgrounds and levels of experience.\nWe engage with members and other relevant stakeholders with wide-ranging perspectives and needs, and actively foster an environment that is inclusive and welcoming for all. With the atmosphere we are creating, we would like members to feel valued, respected, and empowered to contribute to the community. We recognise that some of our community members face barriers and we are continuously working to lower and ultimately remove these.\nAt COReS, we value the use of inclusive language, we are thoughtful, respectful, and open in our communication, and we respect the diversity and backgrounds of our community members. Diversity goes beyond race, ethnicity, gender identity and expression, and also encompasses age, abilities, socio-economic status, sexual identity and orientation, and more.\nCOReS is committed to support EDI in all of our events, community interactions, and partnerships. Please have a look at our community guidelines (Code of Conduct), which applies to all COReS team and community members and includes measures against discrimination, harassment, bias, and exclusion.\nWe recognise that the research community is in a period of learning and are committed to continuous improvement in relation to EDI. We will regularly evaluate our practices to ensure they align with these values.\nAt COReS we are dedicated to fostering equity, diversity, and inclusion in our community and in all aspects of our work, and we encourage others to follow the same values and principles.\nIn case of inquiries, concerns, or feedback, please feel free to contact our Community Engagement Manager, Dr Friederike Elisabeth Kohrs at friederike-elisabeth.kohrs@charite.de.",
     "crumbs": [
       "Policies",
       "Policies"
@@ -358,7 +348,7 @@
     "href": "about-cores/partners.html",
     "title": "Partners",
     "section": "",
-    "text": "Our partner institutes play a key role in facilitating the mission and vision of COReS; to build an open community that encourages and supports them in the integration of preclinical systematic review into the research pipeline.\nLearn how to become an early-adopter institute in our dynamic research community project COReS. Gain access to insights on systematic review, gain curriculum to train the next generation of researchers, collaborate with leading experts, and shape the future of biomedical research in an evidence-based way.\n\n\n\n\n\n\n Learn more about becoming a Partner\n\n\n\nFor more information on partner benefits and collaborative opportunities.\nLearn more →\n\n\nSee our COReS project partners below:",
+    "text": "Our partner institutes play a key role in facilitating the mission and vision of COReS: to build an open community that encourages and supports them in the integration of preclinical systematic review into the research pipeline.\nLearn how to become an early-adopter institute in our dynamic research community project COReS. Gain access to insights on systematic review, and curriculum to train the next generation of researchers, collaborate with leading experts, and shape the future of biomedical research in an evidence-based way.\n\n\n\n\n\n\n Learn more about becoming a Partner\n\n\n\nFor more information on partner benefits and collaborative opportunities.\nLearn more →\n\n\nSee our COReS project partners below:",
     "crumbs": [
       "Partners",
       "Our Partners"
@@ -420,7 +410,7 @@
     "href": "guide-cores.html",
     "title": "Your Guide to COReS",
     "section": "",
-    "text": "COReS (Communities for Open Research Synthesis) equips researchers to tackle the translational gap in biomedical research with systematic reviews of preclinical data.\nTo find out more about the COReS project, read our full mission & vision statememt here.",
+    "text": "COReS (Communities for Open Research Synthesis) equips researchers to tackle the translational gap in biomedical research through systematic reviews of preclinical data.\nTo find out more about the COReS project, read our full mission & vision statement here.",
     "crumbs": [
       "COReS Community",
       "Your Guide to COReS"
@@ -495,7 +485,7 @@
     "href": "synthesis/design.html",
     "title": "Design Experiments",
     "section": "",
-    "text": "Transparent, high-quality experimental design in animal studies, underpinned by rigorous internal validity, allows systematic reviews to reliably summarise evidence. By detailing eligibility criteria, randomisation, blinding and sample-size calculations up front, researchers minimise bias and ensure that reported effects genuinely reflect the interventions under study. This clarity enables systematic reviewers to assess study quality accurately, pool data with confidence and draw robust conclusions. Ultimately, well-designed, transparent experiments not only strengthen the scientific and ethical foundations of preclinical research but also improve its translational value.",
+    "text": "Transparent, high-quality experimental design in animal studies, underpinned by rigorous internal validity, allows systematic reviews to reliably summarise evidence. By detailing eligibility criteria, randomisation, blinding and sample size calculations up front, researchers minimise bias and ensure that reported effects genuinely reflect the interventions under study. This clarity enables systematic reviewers to assess study quality accurately, pool data with confidence and draw robust conclusions. Ultimately, well-designed, transparent experiments not only strengthen the scientific and ethical foundations of preclinical research but also improve its translational value.",
     "crumbs": [
       "Design Experiments"
     ]
@@ -505,7 +495,7 @@
     "href": "synthesis/design.html#experimental-design-assistant",
     "title": "Design Experiments",
     "section": "Experimental Design Assistant",
-    "text": "Experimental Design Assistant\n\n\n\n\n\n\n\n\n\nThe Experimental Design Assistant (EDA) is a free online tool developed by NC3Rs  to help researchers in designing experiments that meet scientific rigor while adhering to ethical guidelines for minimizing animal use. It also provides guidance on reducing subjective bias and selecting appropriate statistical methods.\n\n\nFeatures\n\n\nEthical Guidance: Advice and feedback on plans to minimise animal use.\nVisual Representation: Diagrammatic notation for experimental plans, with critiquing.\nComprehensive Feedback: Tailored statistical and design recommendations.\nResource Optimization: Helps plan efficient experiments, saving time and resources.\nStatistical Guidance: Sample size calculations, randomization, blinding.\n\n\n\n\nHow to get started\n\n\nRefer to the EDA User Guide  for a walkthrough.\nBegin immediately in the Process Guide .",
+    "text": "Experimental Design Assistant\n\n\n\n\n\n\n\n\n\nThe Experimental Design Assistant (EDA) is a free online tool developed by NC3Rs  to help researchers in designing experiments that meet scientific rigor while adhering to ethical guidelines for minimising animal use. It also provides guidance on reducing subjective bias and selecting appropriate statistical methods.\n\n\nFeatures\n\n\nEthical Guidance: Advice and feedback on plans to minimise animal use.\nVisual Representation: Diagrammatic notation for experimental plans, with critiquing.\nComprehensive Feedback: Tailored statistical and design recommendations.\nResource Optimisation: Helps plan efficient experiments, saving time and resources.\nStatistical Guidance: Sample size calculations, randomisation, blinding.\n\n\n\n\nHow to get started\n\n\nRefer to the EDA User Guide  for a walkthrough.\nBegin immediately in the Process Guide .",
     "crumbs": [
       "Design Experiments"
     ]
@@ -523,9 +513,9 @@
   {
     "objectID": "synthesis/preregister.html",
     "href": "synthesis/preregister.html",
-    "title": "Pre-Register Your Animal Experiment",
+    "title": "Preregister Your Animal Experiment",
     "section": "",
-    "text": "Preregistering animal experiments means publicly recording your study’s aims, design and analysis plan before you begin. This simple step boosts transparency and reproducibility, helping reviewers identify unpublished or selective results and assess risk of bias more reliably. It also prevents needless duplication, honouring the 3Rs by reducing animal use, and lays a stronger foundation for systematic reviews and meta-analyses. Ultimately, preregistration enhances the ethical and scientific rigour of preclinical research, improving its predictiveness for human studies.",
+    "text": "Preregistering animal experiments means publicly recording your study’s aims, design, and analysis plan before you begin. This simple step boosts transparency and reproducibility, helping reviewers identify unpublished or selective results and assess the risk of bias more reliably. It also prevents needless duplication, honouring the 3Rs by reducing animal use, and lays a stronger foundation for systematic reviews and meta-analyses. Ultimately, preregistration enhances the ethical and scientific rigour of preclinical research, improving its predictiveness for human studies.",
     "crumbs": [
       "Register Experiments"
     ]
@@ -533,7 +523,7 @@
   {
     "objectID": "synthesis/preregister.html#preclinicaltrials.eu",
     "href": "synthesis/preregister.html#preclinicaltrials.eu",
-    "title": "Pre-Register Your Animal Experiment",
+    "title": "Preregister Your Animal Experiment",
     "section": "PreclinicalTrials.EU",
     "text": "PreclinicalTrials.EU\n\n\n\n\n\n\n\n\n\nPreclinicalTrials.EU  is a central platform for registering preclinical animal studies.\n\n\nFeatures\n\n\nEnhanced transparency: Prospective registration to reveal unpublished studies.\n\nAvoid duplication: View existing studies to prevent redundant work.\n\nReduce reporting bias: Mitigates publication bias and p-hacking.\n\nFacilitate data sharing: Full study designs and data archives.\n\nCollaborative research: Connect across biomedical fields.\n\n\n\n\nLinks & Resources\n\n\nGot questions? See their FAQs section .\n\nIn-depth protocol guide: User Guide (PDF) .",
     "crumbs": [
@@ -543,7 +533,7 @@
   {
     "objectID": "synthesis/preregister.html#animal-study-registry",
     "href": "synthesis/preregister.html#animal-study-registry",
-    "title": "Pre-Register Your Animal Experiment",
+    "title": "Preregister Your Animal Experiment",
     "section": "Animal Study Registry",
     "text": "Animal Study Registry\n\nAnimalStudyRegistry.org  lets you preregister animal‐based research, timestamped & citable via DOI.\n\n\nFeatures\n\n\nEnhanced transparency: Full protocol disclosure.\n\nAnimal welfare: Encourages refinement methods to reduce harm.\n\nIntellectual property: DOI & timestamp for your protocol.\n\nCredibility: Builds trust in open science practices.\n\nTime-saving: Templates cover ARRIVE guidelines essentials.\n\n\n\n\nLinks & Resources\n\n\nLearn more on the platform homepage  and register here .\n\nBrowse existing registries .",
     "crumbs": [
@@ -553,7 +543,7 @@
   {
     "objectID": "synthesis/preregister.html#conducting-experiments-transparently---electronic-lab-notebook",
     "href": "synthesis/preregister.html#conducting-experiments-transparently---electronic-lab-notebook",
-    "title": "Pre-Register Your Animal Experiment",
+    "title": "Preregister Your Animal Experiment",
     "section": "Conducting Experiments Transparently - Electronic Lab Notebook",
     "text": "Conducting Experiments Transparently - Electronic Lab Notebook\nAn electronic lab notebook is a digital platform for documenting experiments, managing protocols, and storing data. It enables real-time collaboration and integrates analytics, inventory, and specialised databases.\n\nData Integrity: Secure, retrievable storage.\n\nCollaboration: Share data & findings instantly.\n\nRegulatory Adherence: Built-in compliance with research standards.\n\nStreamlined Workflow: Templates & integrated tools.\n\n\nResources for LabFolder - an electronic lab notebook tool\n\nLearn more about LabFolder \n\nAccess training on LabFolder",
     "crumbs": [

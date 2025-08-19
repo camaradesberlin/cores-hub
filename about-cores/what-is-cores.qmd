@@ -8,7 +8,7 @@ sidebar: Community
 
 At **COReS**, we believe in transparency, reproducibility, and the power of the community.  
 
-Translational failure — where promising results from preclinical studies fail to show benefit in clinical practice — is a significant challenge in biomedical research. Systematic reviews of preclinical data, a robust method of evidence synthesis, offer a critical tool to uncover factors contributing to this translational gap. Armed with these insights, researchers can design studies of high translational value.  
+Translational failure — where promising results from preclinical studies fail to show benefit in clinical practice — is a significant challenge in biomedical research. Systematic reviews of preclinical data, a robust method of evidence synthesis, offers a critical tool to uncover factors contributing to this translational gap. Armed with these insights, researchers can design studies of high translational value.  
 
 Through transparent and reproducible research practices, **COReS** not only addresses this gap but also provides a platform for learning and networking.
 

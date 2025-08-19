@@ -4,15 +4,15 @@ format: html
 sidebar: Community
 ---
 
-COReS (Communities for Open Research Synthesis) equips researchers to tackle the translational gap in biomedical research with systematic reviews of preclinical data.
+COReS (Communities for Open Research Synthesis) equips researchers to tackle the translational gap in biomedical research through systematic reviews of preclinical data.
 
 - **Transparency & Reproducibility:** Open methods, open data, open code
 
 - **Collaboration:** Shared learning, shared resources
 
-- **Impact:** Better-designed experiments, fewer failed translations
+- **Impact:** Better-designed experiments, fewer translational failures
 
-To find out more about the COReS project, read our full mission & vision statememt [here.](/about-cores/what-is-cores.qmd)
+To find out more about the COReS project, read our full mission & vision statement [here.](/about-cores/what-is-cores.qmd)
 
 
 

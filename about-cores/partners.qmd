@@ -4,9 +4,9 @@ format: html
 sidebar: Community
 ---
 
-Our partner institutes play a key role in facilitating the mission and vision of COReS; to build an open community that encourages and supports them in the integration of preclinical systematic review into the research pipeline.
+Our partner institutes play a key role in facilitating the mission and vision of COReS: to build an open community that encourages and supports them in the integration of preclinical systematic review into the research pipeline.
 
-Learn how to become an early-adopter institute in our dynamic research community project COReS. Gain access to insights on systematic review, gain curriculum to train the next generation of researchers, collaborate with leading experts, and shape the future of biomedical research in an evidence-based way.
+Learn how to become an early-adopter institute in our dynamic research community project COReS. Gain access to insights on systematic review, and curriculum to train the next generation of researchers, collaborate with leading experts, and shape the future of biomedical research in an evidence-based way.
 
 
 ::: {.callout-note icon=false} 

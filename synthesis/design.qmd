@@ -4,7 +4,7 @@ format: html
 sidebar: Synthesis-Ready
 ---
 
-Transparent, high-quality experimental design in animal studies, underpinned by rigorous internal validity, allows systematic reviews to reliably summarise evidence. By detailing eligibility criteria, randomisation, blinding and sample-size calculations up front, researchers minimise bias and ensure that reported effects genuinely reflect the interventions under study. This clarity enables systematic reviewers to assess study quality accurately, pool data with confidence and draw robust conclusions. Ultimately, well-designed, transparent experiments not only strengthen the scientific and ethical foundations of preclinical research but also improve its translational value.
+Transparent, high-quality experimental design in animal studies, underpinned by rigorous internal validity, allows systematic reviews to reliably summarise evidence. By detailing eligibility criteria, randomisation, blinding and sample size calculations up front, researchers minimise bias and ensure that reported effects genuinely reflect the interventions under study. This clarity enables systematic reviewers to assess study quality accurately, pool data with confidence and draw robust conclusions. Ultimately, well-designed, transparent experiments not only strengthen the scientific and ethical foundations of preclinical research but also improve its translational value.
 
 ## Experimental Design Assistant
 ::::: grid
@@ -13,7 +13,7 @@ Transparent, high-quality experimental design in animal studies, underpinned by 
 :::
 
 ::: g-col-10
-The Experimental Design Assistant (EDA) is a free online tool developed by [NC3Rs {{< fa arrow-up-right-from-square >}}](https://www.nc3rs.org.uk/){target="_blank"} to help researchers in designing experiments that meet scientific rigor while adhering to ethical guidelines for minimizing animal use. It also provides guidance on reducing subjective bias and selecting appropriate statistical methods.
+The Experimental Design Assistant (EDA) is a free online tool developed by [NC3Rs {{< fa arrow-up-right-from-square >}}](https://www.nc3rs.org.uk/){target="_blank"} to help researchers in designing experiments that meet scientific rigor while adhering to ethical guidelines for minimising animal use. It also provides guidance on reducing subjective bias and selecting appropriate statistical methods.
 
 <details>
 
@@ -22,8 +22,8 @@ The Experimental Design Assistant (EDA) is a free online tool developed by [NC3R
 -   **Ethical Guidance:** Advice and feedback on plans to minimise animal use.
 -   **Visual Representation:** Diagrammatic notation for experimental plans, with critiquing.
 -   **Comprehensive Feedback:** Tailored statistical and design recommendations.
--   **Resource Optimization:** Helps plan efficient experiments, saving time and resources.
--   **Statistical Guidance:** Sample size calculations, randomization, blinding.
+-   **Resource Optimisation:** Helps plan efficient experiments, saving time and resources.
+-   **Statistical Guidance:** Sample size calculations, randomisation, blinding.
 
 </details>
 

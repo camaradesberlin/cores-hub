@@ -4,12 +4,11 @@ format: html
 sidebar: SR
 ---
 
-Getting into systematic reviews can feel like a big step, but you don’t have to do it alone. Here you’ll find: a handy Wiki to guide your methods, easy-to-use software like SyRF, live drop-ins and one-to-one support, plus a welcoming community to collaborate with. Everything you need to get started, and keep going, is right here.
+Getting into systematic reviews can feel like a big step, but you don’t have to do it alone. Here you’ll find a handy Wiki to guide your methods, easy-to-use software like SyRF, live drop-ins and one-to-one support, plus a welcoming community to collaborate with. Everything you need to get started, and keep going, is right here.
 
 
 # Conduct 
 
-## Wiki on Systematic Review
 
 ::::: grid
 ::: g-col-3
