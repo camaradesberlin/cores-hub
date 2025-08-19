@@ -24,9 +24,9 @@ Communities for Open Research Synthesis (COReS) is creating an open, collaborati
 ### 🎓 Learn
 Free training and resources for systematic reviews and meta-analysis
 
--   [Training & Courses](learn.qmd)
+-   [Live workshops](learn.qmd)
 
--   [Practical Guides](perform.qmd#conduct)
+-   [Self-paced eLearning](learn.qmd#elearning)
 
 :::
 
@@ -68,7 +68,7 @@ Join our active research community
 2.  [📚 Access free training materials](learn.qmd)
 3.  [💬 Connect with peers on the dicussion forum](about-cores/using-zulip.qmd)
 4.  [📊 Make your research synthesis-ready](synthesis-ready.qmd)
-5.  [🆕 Register for our next workshop](events.qmd)
+5.  [📆 Find out more about our free events](events.qmd)
 :::
 
 
