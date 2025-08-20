@@ -13,7 +13,7 @@ Getting into systematic reviews can feel like a big step, but you don’t have t
 ## Systematic Review Wiki
 ::::: grid
 ::: g-col-3
-![](/images/perform.jpg){width=300px fig-align="center"}
+![](/images/COReS-circle.png){width=300px fig-align="center"}
 ::: 
 
 ::: g-col-9
@@ -48,7 +48,7 @@ Got a question? – Ask at the next [ drop-in session! {{< fa arrow-up-right-fro
 
 ::::: grid
 ::: g-col-3
-![](/images/perform.jpg){width=300px fig-align="center"}
+![](/images/COReS-circle.png){width=300px fig-align="center"}
 :::
 
 ::: g-col-9
