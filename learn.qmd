@@ -30,7 +30,7 @@ Through a mix of lectures and hands-on practical activities and tutorials across
 -   **ECTS:** 0.9 ECTS points are awarded for this course. A certificate will be provided upon successful completion of the workshop. </br>
 -   **ATF-Stunden:** This workshop accounts for 11 hours of continuing education. </br>
 
-We have summarized the main points of the workshop in this [cheat sheet](https://dreamy-bardeen-2035af.netlify.app/CheatSheet_IntroSRworkshop_2023.pdf){target="_blank"}.
+We have summarized the main points of the workshop in this [cheat sheet](/files/CheatSheet_IntroSRworkshop_2023.pdf){target="_blank"}.
 
 ::: button
 [{{< fa arrow-up-right-from-square >}} Info & Register](https://www.bihealth.org/en/translation/innovation-enabler/quest-center/events/course/introduction-to-systematic-review-meta-analysis-of-animal-studies){.btn .btn-secondary target="_blank"}
