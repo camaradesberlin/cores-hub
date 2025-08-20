@@ -7,7 +7,7 @@ sidebar: Community
 
 ::: {.callout-tip icon=false}
 ## {{< fa file-circle-plus >}} Partner Guide
-This is a summary of our partnership program. For detailed information, download our comprehensive [Partner Guide (PDF)](#).
+This is a summary of our partnership program. For detailed information, download our comprehensive [Partner Guide (PDF)](/files/Guide – COReS partners.pdf){target="_blank"}.
 :::
 
 ## Our Vision

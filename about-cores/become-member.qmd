@@ -6,7 +6,7 @@ sidebar: Community
 
 ::: {.callout-tip icon=false}
 ## {{< fa file-circle-plus >}} Community Guide
-This is a summary of our community membership. For detailed information, download our comprehensive [Community Guide (PDF)](#).
+This is a summary of our community membership. For detailed information, download our comprehensive [Community Guide (PDF)](/files/Guide – COReS members.pdf){target="_blank"}.
 :::
 
 ## Our Vision
