@@ -6,7 +6,7 @@ sidebar: Community
 
 ::: {.callout-tip icon=false}
 ## {{< fa file-circle-plus >}} Discussion Forum Quick Start Guide
-This is a quick start guide for joining our open discussion forum. For detailed information, download our comprehensive [Quick Start Guide (PDF)](#).
+This is a quick start guide for joining our open discussion forum. For detailed information, download our comprehensive [Quick Start Guide (PDF)](/files/Zulip Quick Start Guide.pdf){target="_blank"}.
 :::
 
 

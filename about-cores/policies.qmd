@@ -31,6 +31,11 @@ Color and Typography Standards: Our style guide outlines the precise color palet
 
 View the comprehensive [COReS Style Guide here](https://osf.io/xt5b4/){target="_blank"}.
 
+## Images & Infographics
+
+The infographics displayed on the COReS website and materials were created by Meike Latz, PhD, a graphic designer based in Stockholm. For more information on her work, please visit: [meikelatz.com](https://meikelatz.com/){target="_blank"}.
+
+
 ## Privacy Policy
 
 We will process personal data (from here on referred to as “data”) only to the extent required for the purpose of ensuring the functionality and user-friendliness of our website, its content, and the services we provide there.
