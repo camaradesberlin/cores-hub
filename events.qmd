@@ -13,4 +13,4 @@ All our events and related activities, conferences, and workshops are listed in 
 
 ## Something missing?
 
-Do you think we should add an event? Get in touch [here](/contact/).
+Do you think we should add an event? Get in touch [here](contact.qmd).

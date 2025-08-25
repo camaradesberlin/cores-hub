@@ -13,7 +13,7 @@ This is a quick start guide for joining our open discussion forum. For detailed 
 ## About Our Discussion Forum
 The COReS community uses Zulip for asynchronous discussions and community engagement. Zulip combines the best features of forum discussions and chat platforms.
 
-If you have a passion for evidence synthesis and preclinical animal research, join the COReS community discussion forum hosted on Zulip. By activiely engaging with others in the discussion forum, you will have the opportunity to identify collaboration partners and work with other researchers and synthesists who share your interests. Together, we can shape the future of translational research transparency. 
+If you have a passion for evidence synthesis and preclinical animal research, join the COReS community discussion forum hosted on Zulip. By actively engaging with others in the discussion forum, you will have the opportunity to identify collaboration partners and work with other researchers and synthesists who share your interests. Together, we can shape the future of translational research transparency. 
 
 Join us and let your voice be heard in the COReS community. We look forward to your valuable contributions! 
 
