@@ -146,7 +146,7 @@ format:
       - style.scss
     toc: true
     page-layout: full
-
+    link-external-newwindow: true
 
 
 

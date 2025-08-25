@@ -1,4 +1,5 @@
-    - image: /images/headshots/daniel-schulze.png
+    - path: https://orcid.org/0000-0001-9415-2555 
+      image: /images/headshots/daniel-schulze.png
       title: "Dr Daniel Schulze"
       lastname: "Schulze"
 #      started: "Dec 2024"

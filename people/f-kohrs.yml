@@ -1,4 +1,5 @@
-    - image: /images/headshots/friederike-kohrs.png
+    - path: https://orcid.org/0009-0004-5696-9459 
+      image: /images/headshots/friederike-kohrs.png
       title: "Dr Friederike Kohrs"
       lastname: "Kohrs"
 #      started: "Dec 2024"
